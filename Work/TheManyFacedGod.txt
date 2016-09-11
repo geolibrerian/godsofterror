@@ -4,25 +4,6 @@ In researching the [Lovecraft (Cthulhu) Mythos][Mythos] for the inspirations of 
 
 Nyarlathotep takes many forms on Earth, including a . His true form is horrifying to humans, but he is most frequently encountered as a tall, swarthy man who  takes joy in spreading chaos and suffering. In early stories he was encountered as an Egyptian pharoah-like being, who inspires legions of followers with demonstrations of magical and terrible new technologies. Through rich rewards and magical deception, these followers lose awareness of their surroundings as Nyarlathotep, ambassador of the Great Old Ones, bespeaks the end of the world.
 
-## Conan the Cimmerian
-
-It's important to remember that George RR Martin is a huge Lovecraft Mythos fan. His love of fantasy began in 1963, when he purchased *Swords and Sorcery*, edited by L. Sprague de Camp.  With a story of Conan the Barbarian by **Robert E. Howard**, bundled with other stories of fantasy and terror by Poul Anderson, Henry Kuttner, **Clark Aston Smith**, Lord, Dunsany, and **H.P. Lovecraft** (*emphasis mine on writers who both borrowed and extended the Mythos*). This first fantasy series inspired his great love for the genre and also influenced some of his greatest 
-
-Conan the Barbarian was his first love, and its worth a refresher on the story to see how Howard developed Conan and drew from the Mythos. The time is ancient and the place is a mystical land full of peoples that are both similar and different than modern humans. Known as the [Hyborian Age][Hybor], it is a violent Iron Age setting with swordsmen, mysterious sorcerors, and religons with terrible gods that demand blood sacrifices that is set 10,000 years or more before Caeser, though some editors placed it even further back, before the last Ice Age.   
-
-The Hyborian Age began after the sinking of the ancient civilizations of Atlantis and Lemur, which set back humanity to a primative state ["hardly above Neanderthal".][Hybor] These people, the Hyborians, escaped the destruction of the ancient civilizations and fled to the north, where they fought a race of snow apes.
-
-Conan was a Cimmerian, one of the many peopls of the Hyborian Age. Based of Celtic and/or Gaelic influences, the Cimmerians (like the other people of these stories) descend from the Hyborians.
-
-
-## 
-
-
-## Cymmeri People of Essos
-
-In the World of Ice and Fire, the Cymmerians are included as an ancient people of Essos, who banded with the [Tall Men of Sarnath][Sarnori], also known as the Sarnori. Known as the first people to work iron, the Cymmeri married into the Sarnori when the daughter of their king became one of Huzhor Amai's three wives.
-
-Huzhor Amai was said to be the first king of the Sarnori, and the descendent of the Fisher Queens. The Fisher Queens ruled the ancient inland sea that covered what is now the grasslands of the Dothraki Sea. Only the Silver Sea remains of this great ancient inland sea, [another sign that Terros is much drier than it used to be in the past.][Dry] 
 
 
 
@@ -30,23 +11,9 @@ Huzhor Amai was said to be the first king of the Sarnori, and the descendent of 
 
 
 
-#My Conclusions
 
-## The Fisher Queens were Deep Ones
 
-The Fisher Queens (who "were favored of the gods", according to Maester Yandel), sound like hybrids of the 
 
-## Cymmeri and Andals?
-
-The working of iron, and the similarity of the name Hugor (of the Hill) to Huzhor (Amai), and even to Mazor, 
-
-## Huzhor Amai and the Bloodstone Emperor
-
-Like the Bloodstone Emperor, Huzhor Amai was the last of a long line of royalty
-
-## Huzhor Amai and Azor Ahai
-
-Again, the similarities between Huzhor Amai and Mazor Alexi to Azor Ahai is really hard to dismiss. 
 
 
 
@@ -61,6 +28,3 @@ Again, the similarities between Huzhor Amai and Mazor Alexi to Azor Ahai is real
 [Nyar]: http://lovecraft.wikia.com/wiki/Nyarlathotep "Lovecraft Nyarlathotep"
 [Nyar2]: https://en.wikipedia.org/wiki/Nyarlathotep "Wikipedia Nyarlathotep"
 [Old]: http://lovecraft.wikia.com/wiki/Great_Old_One "Great Old Ones"
-[Hybor]: https://en.wikipedia.org/wiki/Hyborian_Age
-[Sarnori]: http://awoiaf.westeros.org/index.php/Kingdom_of_Sarnor
-[Dry]: http://godsofterror.tumblr.com/post/149042677431/the-dry-times
