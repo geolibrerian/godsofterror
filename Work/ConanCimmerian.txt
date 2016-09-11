@@ -1,7 +1,7 @@
 
 ## Conan the Cimmerian
 
-It's important to remember that George RR Martin is a huge Lovecraft Mythos fan. His love of fantasy began in 1963, when he purchased *Swords and Sorcery*, edited by L. Sprague de Camp.  With a story of Conan the Barbarian by **Robert E. Howard**, bundled with other stories of fantasy and terror by Poul Anderson, Henry Kuttner, **Clark Aston Smith**, Lord, Dunsany, and **H.P. Lovecraft** (*emphasis mine on writers who both borrowed and extended the Mythos*). This first fantasy series inspired his great love for the genre and also influenced some of his greatest 
+It's important to understand that George RR Martin is a huge Lovecraft Mythos fan, in all its many and varied forms. His love of fantasy began in 1963, when he purchased *Swords and Sorcery*, edited by [L. Sprague de Camp][Camp].  With a story of Conan the Barbarian by **Robert E. Howard**, bundled with other stories of fantasy and terror by Poul Anderson, Henry Kuttner, **Clark Aston Smith**, Lord, Dunsany, and **H.P. Lovecraft** (*emphasis mine on writers who both borrowed and extended the Mythos*), this first fantasy series inspired his great love for the genre. It also influenced A Song of Ice and Fire, especially the terrible [Gods of Terros][Terror]. 
 
 Conan the Barbarian was his first love, and its worth a refresher on the story to see how Howard developed Conan and drew from the Mythos. The time is ancient and the place is a mystical land full of peoples that are both similar and different than modern humans. Known as the [Hyborian Age][Hybor], **it is a violent Iron Age setting with swordsmen, mysterious sorcerors, and religons with terrible gods** that demand blood sacrifices, set 10,000 years or more before Caeser (though some editors placed it even further back to before the last Ice Age).   
 
@@ -23,7 +23,7 @@ Robert E. Howard wrote 21 short stories and 1 novel about Conan the Barbarian be
 
 After Howard's unfortunate death, the copyright passed to a few different men. L. Sprague de Camp, the editor of the *Swords and Sorcery* anthology that welcomed George to the world of fantasy, was one. Another was Lin Carter, who became one of George's editors and friends in the 1970s. 
 
-Howard's original stories had more direct relationship to the Cthulhu Mythos, but many of the references were removed in the reworking and rewriting of the material by the later editors. However, these editors borrowed liberally for place names from the [Hyberborian Cycle][Hyberborian]
+Howard's original stories had more direct relationship to the Cthulhu Mythos, but many of the references were removed in the reworking and rewriting of the material by the later editors. However, these editors borrowed liberally for place names from the [Hyberborian Cycle][Hyberborian] by Clark Aston Smith and kept many of the references to Mythos Gods.
 
 Nyarlathotep figures greatly into the mythos of the Hyborian Age, along with Yig the Serpent God. 
 
@@ -83,3 +83,4 @@ Again, the similarities between Huzhor Amai and Mazor Alexi to Azor Ahai is real
 [Sarnori]: http://awoiaf.westeros.org/index.php/Kingdom_of_Sarnor "Sarnor"
 [Dry]: http://godsofterror.tumblr.com/post/149042677431/the-dry-times "Dry Times"
 [Hyberborian]: https://en.wikipedia.org/wiki/Hyperborean_cycle "Hyberborian Cycle"
+[Camp]: https://en.wikipedia.org/wiki/L._Sprague_de_Camp "de Camp"
