@@ -7,12 +7,12 @@ Conan the Barbarian was his first love, and its worth a refresher on the story t
 
 ### Hyborians
 
-The Hyborian Age began after the sinking of the ancient civilizations of Atlantis and Lemur, which set back humanity to a primative state ["hardly above Neanderthal".][Hybor] These people, the Hyborians, escaped the destruction of the ancient civilizations and fled to the north, where they fought a race of snow apes. Defeating the snow apes and driving them north of the Arctic Circle, they adapt to the land and multiply. Eventually, the Hyborians begin return to lands south of them, and wars between the dispersing tribes of Hyborians became frequent.
+The Hyborian Age began after the sinking of the ancient civilizations of Atlantis and Lemuria, which set back humanity to a primative state ["hardly above Neanderthal".][Hybor] These people, the Hyborians, escaped the destruction of the ancient civilizations and fled to the north, where they fought a race of snow apes. Defeating the snow apes and driving them north of the Arctic Circle, they adapt to the land and multiply. Eventually, the Hyborians begin return to lands south of them, and wars between the dispersing tribes of Hyborians became frequent.
 
 A thousand years having past, the snow apes of the Arctic Circle had become fair-haired and tall men, who return to attack the Hyborians, setting the stage for the stories of Conan the Barbarian.
 
 
-Conan was a Cimmerian, one of the many peopls of the Hyborian Age. Based on Celtic and/or Gaelic influences, the Cimmerians descended from the Hyborians and are a hard people with black hair and gray eyes (and are probably white, as most of these early - and recent- fantasty stories tended to be).  They are located about where Ireland or Scotland would be in the map of the world developed by Howard.
+Conan was a Cimmerian, one of the many peopls of the Hyborian Age. Based on Celtic and/or Gaelic influences, the Cimmerians descended from the Hyborians and are a hard people with black hair and gray eyes (and are probably white, as most of these early - and recent- fantasy stories tended to be).  They are located about where Ireland or Scotland would be in the map of the world developed by Howard.
 
 The son of a blacksmith, he becomes a great warrior and the King of Aquilonia. No man is stronger, and the giant man uses his strength and his cunning to improve his lot in the hard world. He speaks many languages and is a born leader, with a humor and wit streaked with "grim" irony. 
 
@@ -24,11 +24,27 @@ After Howard's unfortunate death, the copyright passed to a few different men. L
 
 Howard's original stories had more direct relationship to the Cthulhu Mythos, but many of the references were removed in the reworking and rewriting of the material by the later editors. However, these editors borrowed liberally for place names from the [Hyberborian Cycle][Hyberborian] by Clark Aston Smith and kept many of the references to Mythos Gods.
 
-Nyarlathotep figures greatly into the mythos of the Hyborian Age, along with Yig the Serpent God. 
+Nyarlathotep is one of the gods worshipped in the mythos of the Hyborian Age. 
+
+The crossover was not one direction. Lovecraft mentions "Crom-Ya, a Cimmerian chieftain" in *The Shadow Out of Time* in 1924
 
 
-## Influence on A Song of Ice and Fire
+##Other writings by Howard
 
+Howard wrote other stories that were similiarly set in a familiar fantasy setting. The [Thurian Age][Thurian] was set in the epoch before the cataclysm that destroy Atlantis and Lemuria. It is, like A Song of Ice and Fire, a mixture of a fantasy Iron Age setting with Lovecraftian gods.
+
+
+There were three main tribes of "barbarian" men: Atlantis, Lemuria, and the Pictish Islands.
+
+
+
+> Following the cataclysm that destroys the Thurian Age, Atlantis sinks beneath the sea. The survivors on the Thurian continent are forced back into the stone age by lack of resources but become skilled in this medium and develop an artistic culture. They soon enter a war with the surviving Picts and lose to their superior numbers and stone-age military technology. The survivors of the war devolve back into apes. They eventually re-evolve into humans to become the Cimmerians of the Hyborian Age. In turn the Cimmerians become the Celts, Gaels and Scythians of modern, real world, [history.][Thurian]
+
+
+> A great cataclysm ends the Thurian Age some time after the Kull stories. Several countries sink into the sea, others rise from it, and the rest is devastated by earthquakes and volcanoes. Civilization is destroyed and the survivors attempt to build a new culture but warfare and a Lesser Cataclysm strike, creating the Hyborian Vilayet Sea and destroying any last remnants of [Thurian society.][Thurian]
+
+## Influences on A Song of Ice and Fire
+	
 
 ### Cymmeri People of Essos
 
@@ -43,7 +59,7 @@ Huzhor Amai (the Amazing) was said to be the first king of the Sarnori, and the 
 
 #My Conclusions
 
-## The Hyborians sound a lot like the wildings of the North, specifically the Hyberborians, who sound a lot like the Thenns.
+## The Hyborians sound a lot like the wildings of the North, specifically the Hyberborian tribe, who sound a lot like the Thenns.
 
 
 ## The Fisher Queens were Deep Ones
@@ -52,7 +68,7 @@ The Fisher Queens (who "were favored of the gods", according to Maester Yandel),
 
 ## Cymmeri and Andals?
 
-The working of iron, and the similarity of the name Hugor (of the Hill) to Huzhor (Amai), and even to Mazor, 
+The working of iron, and the similarity of the name Hugor (of the Hill) to Huzhor (Amai), and even to Mazor (Alexi), last king of the Sarnori 
 
 ## Huzhor Amai and the Bloodstone Emperor
 
@@ -80,3 +96,4 @@ Again, the similarities between Huzhor Amai and Mazor Alexi to Azor Ahai is real
 [Dry]: http://godsofterror.tumblr.com/post/149042677431/the-dry-times "Dry Times"
 [Hyberborian]: https://en.wikipedia.org/wiki/Hyperborean_cycle "Hyberborian Cycle"
 [Camp]: https://en.wikipedia.org/wiki/L._Sprague_de_Camp "de Camp"
+[Thurian]: https://en.wikipedia.org/wiki/Thurian_Age
