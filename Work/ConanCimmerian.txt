@@ -1,7 +1,7 @@
 
 ## Conan the Cimmerian
 
-It's important to understand that George RR Martin is a huge Lovecraft Mythos fan, in all its many and varied forms. His love of fantasy began in 1963, when he purchased *Swords and Sorcery*, edited by [L. Sprague de Camp][Camp].  With a story of Conan the Barbarian by **Robert E. Howard**, bundled with other stories of fantasy and terror by Poul Anderson, Henry Kuttner, **Clark Aston Smith**, Lord, Dunsany, and **H.P. Lovecraft** (*emphasis mine on writers who both borrowed and extended the Mythos*), this first fantasy series inspired his great love for the genre. It also influenced A Song of Ice and Fire, especially the terrible [Gods of Terros][Terror]. 
+It's important to understand that George RR Martin is a huge Lovecraft Mythos fan, in all its many and varied forms. According to a great essay he wrote in his "Starter Kit" collection of stories, his love of fantasy began in 1963, when he purchased *Swords and Sorcery*, edited by [L. Sprague de Camp][Camp].  With a story of Conan the Barbarian by **Robert E. Howard**, bundled with other stories of fantasy and terror by Poul Anderson, Henry Kuttner, **Clark Aston Smith**, Lord, Dunsany, and **H.P. Lovecraft** (*emphasis mine on writers who both borrowed and extended the Mythos*), this first fantasy series inspired his great love for the genre. It also influenced A Song of Ice and Fire, especially the terrible [Gods of Terros][Terror]. 
 
 Conan the Barbarian was his first love, and its worth a refresher on the story to see how Howard developed Conan and drew from the Mythos. The time is ancient and the place is a mystical land full of peoples that are both similar and different than modern humans. Known as the [Hyborian Age][Hybor], **it is a violent Iron Age setting with swordsmen, mysterious sorcerors, and religons with terrible gods** that demand blood sacrifices, set 10,000 years or more before Caeser (though some editors placed it even further back to before the last Ice Age).   
 
@@ -17,7 +17,6 @@ Conan was a Cimmerian, one of the many peopls of the Hyborian Age. Based on Celt
 The son of a blacksmith, he becomes a great warrior and the King of Aquilonia. No man is stronger, and the giant man uses his strength and his cunning to improve his lot in the hard world. He speaks many languages and is a born leader, with a humor and wit streaked with "grim" irony. 
 
 ### Development of Conan
-
 
 Robert E. Howard wrote 21 short stories and 1 novel about Conan the Barbarian before his suicide in 1936.
 
@@ -38,9 +37,6 @@ In the World of Ice and Fire, the Cymmerians are included as an ancient people o
 ### Huzhor Amai
 
 Huzhor Amai (the Amazing) was said to be the first king of the Sarnori, and the descendent of the Fisher Queens. The Fisher Queens ruled the ancient inland sea that covered what is now the grasslands of the Dothraki Sea. Only three lakes remain of the Silver Sea, the great ancient inland sea, [another sign that Terros is much drier than it used to be in the past.][Dry] Huzhor bound together three tribes through his marriages, the Cymmeri, the Gipps, and the Zoqora, and battled the Qaathi and Old Ghis.
-
-
-
 
 
 
