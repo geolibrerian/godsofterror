@@ -3,11 +3,24 @@
 
 It's important to understand that George RR Martin is a huge Lovecraft Mythos fan, in all its many and varied forms. By exploring the early influence of HP Lovecraft and his collaborators on early fantasy as a genre, and on George in specific, the magic and the role of the gods in  A Song of Ice and Fire can be more properly understood.
 
-According to a great essay he wrote in his "Starter Kit" collection of stories, his love of fantasy began in 1963, when he purchased *Swords and Sorcery*, edited by [L. Sprague de Camp][Camp].  With a story of Conan the Barbarian by **Robert E. Howard**, bundled with other stories of fantasy and terror by Poul Anderson, Henry Kuttner, **Clark Aston Smith**, Lord, Dunsany, and **H.P. Lovecraft** (*emphasis mine on writers who both borrowed and extended the Mythos*), this first fantasy series inspired his great love for the genre. It also influenced A Song of Ice and Fire, especially the terrible [Gods of Terros][Terror]. 
+According to a great essay he wrote in his "Starter Kit" collection of stories, his love of fantasy began in 1963, when he purchased [*Swords and Sorcery*,][Swords] edited by the famous writer and polymath, [L. Sprague de Camp][Camp].  With a story of Conan the Barbarian by **Robert E. Howard**, bundled with other stories of fantasy and terror by Poul Anderson, Henry Kuttner, **Clark Aston Smith**, Lord, Dunsany, and **H.P. Lovecraft** (*emphasis mine on writers who both borrowed and extended the Mythos*), this first fantasy series inspired his great love for the genre. It also influenced A Song of Ice and Fire, especially the terrible [Gods of Terros][Terror]. 
+
+#Themes of the stories
+
+## Terrible Gods
+
+Snake Gods, Toad Gods, gods of cruelty and revenge, 
+
+##Gods and man interacting
+
+##Beyond the North Wind
+
+A Homeric reference, Hyberborea was a mythical place to the ancient Greeks where a paradise awaited "Beyond the North Wind" (the literal translation of Hyperborea).
+
 
 ## Conan the Barbarian
 
-Conan the Barbarian was his first love, and its worth a refresher on the story to see how Howard developed Conan and drew from the Mythos. The time is ancient and the place is a mystical land full of peoples both similar and different than modern humans. Known as the [Hyborian Age][Hybor], **it is a violent Iron Age setting with swordsmen, mysterious sorcerors, and religons with terrible gods** that demand blood sacrifices, set 10,000 years or more before Caeser (though some editors placed it even further back to before the last Ice Age).   
+Conan the Barbarian was his first love, and its worth a refresher on the story to see how Howard developed Conan and drew from the Mythos to create his world and gods, and the peoples that worship them. The time is ancient and the place is a mystical land full of peoples both similar and different than modern humans. Known as the [Hyborian Age][Hybor], **it is a violent Iron Age setting with swordsmen, mysterious sorcerors, and religons with terrible gods** that demand blood sacrifices, set 10,000 years or more before Caeser (though some editors placed it even further back to before the last Ice Age).   
 
 ### Hyborians
 
@@ -16,14 +29,24 @@ The Hyborian Age began after the sinking of the ancient civilizations of Atlanti
 A thousand years having past, the snow apes of the Arctic Circle had become fair-haired and tall men, who return to attack the Hyborians, setting the stage for the stories of Conan the Barbarian.
 
 
+##Conan the Cimmerian
+
+Conan was a Cimmerian, one of the many peopls of the Hyborian Age. Based on Celtic and/or Gaelic influences, the Cimmerians descended from the Hyborians and are a hard people with black hair and gray eyes (and are probably white, as most of these early - and recent- fantasy stories tended to be).  They are located about where Ireland or Scotland would be in the map of the world developed by Howard.
+
+Born the son of a blacksmith, he eventually becomes a great warrior and even the King of Aquilonia. No man is stronger, and the giant man uses his strength and his cunning to improve his lot in the hard world. He speaks many languages and is a born leader, with a humor and wit streaked with "grim" irony. 
+
+[His great love was the woman **Valeria**][Val], a pirate and adventuress and a member of the Red Brotherhood of pirates. She is a superior swordswoman who can even best Conan, being faster and more agile. She is his love in the 1982 movie Conan the Barbarian.
+
 Gods of the Hyborian Age
 ------------
 
 There are a great many gods worshipped by the many cultures of the Hyborian Age. They are at war with each other, just like the [gods of Terros.][Terror] These wars take form through their followers and through direct intervention by the gods, to destroy the territories of the followers of rival gods.
 
-The major gods of the Hyborian Age were a mix of mythical ancestors such as Crom for the Cimmerians and Bori for the Hyperboreans, figures of sacrifices, and evil demons and snake gods. In the major kingdoms of Aquilonia, Argos, Nemedia, and Zingara were [Mitra and][Mitra] [Father Set][Set]. Mitra is worshipped as a cross between a Christ-figure and Mitra/Mithras of the Zoroastrian and Vedic, and later Roman, mythos. 
+The major gods of the Hyborian Age were a mix of mythical ancestors such as [Crom for the Cimmerians][Crom] and Bori for the Hyperboreans, figures of sacrifices, and evil demons and snake gods. This is linked to the ancient gods of the Nordics and/or the Celtics by geography and rituals. Crom is seen to judge warriors before they are allowed into Valhalla.
 
-Father Set is a seven-headed snake god, mainly worshipped in the dark lands of the Stygians. His dark followers offer Set human sacrifices ["and sorcerous obscenities"][Worship]. In previous ages (discussed below), Set created a race of Serpent Men to serve him, but they were defeated by humans. Even so, his worship continues and was even featured in the first Conan movie.
+In the major kingdoms of Aquilonia, Argos, Nemedia, and Zingara were [Mitra and][Mitra] [Father Set][Set]. Mitra is worshipped as a cross between a Christ-figure and Mitra/Mithras of the Zoroastrian and Vedic, and later Roman, mythos. Mitra even speaks directly to a love interest of Conan's to help her and him defeat their enemies and lead Conan to become King of Aquilonia. Notably, there are no blood sacrifices to Mitra, and his adherants spread his religion to other lands at great personal peril.
+
+Father Set is a seven-headed snake god, mainly worshipped in the dark lands of the Stygians. His dark followers offer Set human sacrifices ["and sorcerous obscenities"][Worship]. In previous ages (discussed below), Set created a race of Serpent Men to serve him, but they were defeated by humans and disappeared. Even so, his worship continues and was even featured in the first Conan movie.
 
 Father Set is identified with the [Great Old One Yig][Yig], and was either directly borrowed by Howard for Conan or was a major influence on Set. 
  
@@ -32,13 +55,12 @@ Naga the Sea Snake
 
 In the Marvel Comics version of the Conan universe, there is a [sea man/snake god known as Naga][Naga]. First published in 1969, Naga is the ruler of the *Homo mermanus* or water-breathing merpeople who live in the remains of Lemuria, which had sunk into the sea before the Hyborian Age. He finds in the ancient ruins of Lemuria the ancient Serpent Crown of the followers of Set. Through this crown, Set controls Naga though he has been banished to another dimension. Nage is transformed into a snake-like merman, with green, scaly skin instead of the blue skin common to the merpeople. Naga gains immortality and control over his people, whom he converts to the worship of Set. Naga's people become green in color and also have scales.
  
-Nyarlathotep is one of the gods worshipped in the mythos of the Hyborian Age. 
+Multiple other gods, from the Cthulhu Mythos or inspired by it, appear throughout the Conan stories. Nyarlathotep is one of the gods worshipped in the mythos of the Hyborian Age. [Dagon, a Fish or Water God with a long history,][Dagon] was added to the Conan universe by Marvel in the 1970s. He can raise the dead as zombies and uses them as servants - a common motif in Mythos stories.
 
+[Tsathoggua][Tsath], the Toad God, or Seven-Eyed Tsathoggua, makes an early appearance (1932) in the Conan stories, where he forms an alliance with Set and his minions. Conan is his enemy, or one of them, but Tsathoggua has his worshippers as well. In the Conan stories, he carries all of the backstory from the Mythos, where he is related to Cthulhu and other Great Old Ones.
+ 
+[Tsathoggua][Tsath] was created by Clark Ashton Smith, who created the Hyperborean Cycle. Tsathoggua was featured in the 
 
-
-Conan was a Cimmerian, one of the many peopls of the Hyborian Age. Based on Celtic and/or Gaelic influences, the Cimmerians descended from the Hyborians and are a hard people with black hair and gray eyes (and are probably white, as most of these early - and recent- fantasy stories tended to be).  They are located about where Ireland or Scotland would be in the map of the world developed by Howard.
-
-Born the son of a blacksmith, he eventually becomes a great warrior and even the King of Aquilonia. No man is stronger, and the giant man uses his strength and his cunning to improve his lot in the hard world. He speaks many languages and is a born leader, with a humor and wit streaked with "grim" irony. 
 
 ### Development of Conan
 
@@ -60,10 +82,11 @@ A great amount of development of the world of Conan also took place in the Marve
 Howard wrote other stories that were similiarly set in a familiar fantasy setting. The [Thurian Age][Thurian] was set in the epoch before the cataclysm that destroy Atlantis and Lemuria. It is, like A Song of Ice and Fire, a mixture of a fantasy Iron Age setting with Lovecraftian gods.
 
 
-There were three main tribes of "barbarian" men: Atlantis, Lemuria, and the Pictish Islands. Each represents an area in the real world, and the current inhabitants of those regions are said to be the
+There were three main tribes of "barbarian" men: Atlantis, Lemuria, and the Pictish Islands. Each represents an area in the real world, and the current inhabitants of those regions are said to be the descendents of these peoples.
 
 [Valusia][Serpent]
 
+[Red Sonja][Sonja]
 
 > Following the cataclysm that destroys the Thurian Age, Atlantis sinks beneath the sea. The survivors on the Thurian continent are forced back into the stone age by lack of resources but become skilled in this medium and develop an artistic culture. They soon enter a war with the surviving Picts and lose to their superior numbers and stone-age military technology. The survivors of the war devolve back into apes. They eventually re-evolve into humans to become the Cimmerians of the Hyborian Age. In turn the Cimmerians become the Celts, Gaels and Scythians of modern, real world, [history.][Thurian]
 
@@ -71,14 +94,21 @@ There were three main tribes of "barbarian" men: Atlantis, Lemuria, and the Pict
 > A great cataclysm ends the Thurian Age some time after the Kull stories. Several countries sink into the sea, others rise from it, and the rest is devastated by earthquakes and volcanoes. Civilization is destroyed and the survivors attempt to build a new culture but warfare and a Lesser Cataclysm strike, creating the Hyborian Vilayet Sea and destroying any last remnants of [Thurian society.][Thurian]
 
 
+# Other stories in the anthology
 
-# Hyberborian Cycle
+L. Sprague de Camp's *Swords and Sorcery* contained other stories that are even more deeply involved in the Cthulhu Mythos.
 
+## Hyberborean Cycle
 
+Clark Aston Smith's collections of stories are known collectively as the Hyperborean Cycle. Built even more solidly in the world of the Mythos, they also tell the story of an Iron Age setting with layers of cosmic horror. Terrible gods demand blood sacrifices and prey on humans.
 
-# Sarnath and Bokrug
+Right there in *Swords and Sorcery*, that first fantasy collection, was one of the Hyberborean stories: [*The Testimony of Athammaus*][Testy]. It concerned the city of Commoriom, the capital of Hyberborea. An evil, outlaw descendent of Tsathoggua and a snake god is found and beheaded, only to return again and take what he desired.
 
-One of the earliest short stories by Lovecraft is [*The Doom That Came to Sarnath*][Sarnath], published in 1920.  It's a clear influence on The World of Ice and Fire and the main story, and it concerns an ancient war against unhuman beings who worship one of the Great Old Ones, Bokrug: 
+In Smith's writings, he details two other humanoid peoples that have fought against humans in the past: the Voormi and the Gor
+
+## Sarnath and Bokrug
+
+One of the earliest short stories by Lovecraft is [*The Doom That Came to Sarnath*][Sarnath], published in 1920.  It's a clear influence on The World of Ice and Fire and the main story, and it concerns an ancient war against unhuman beings who worship one of the Great Old Ones, Bokrug. It too was included in *Swords and Sorcery*. 
 
 It concerns the people of Sarnath, a race of shepherd people who live along the river Ai in the land called Mnar. In a search for more lands, the people pushed their borders to a vast lake at the heart of Mnar. There they built the crowning glory, the metropolis of Sarnath. It was there that they encountered the people of Ib, a strange people who lived across the lake. 
 
@@ -160,3 +190,11 @@ Again, the similarities between Huzhor Amai (and Mazor Alexi) to Azor Ahai is re
 [Worship]: http://hyboria.xoth.net/gods/gods_worship.htm
 [Naga]: https://en.wikipedia.org/wiki/Naga_(Marvel_Comics)
 [Yig]: https://en.wikipedia.org/wiki/Yig
+[Testy]: http://www.eldritchdark.com/writings/short-stories/210/the-testament-of-athammaus
+[Swords]: https://en.wikipedia.org/wiki/Swords_and_Sorcery
+[Swords2]: http://swordssorcery.blogspot.com/2011/06/valor-of-cappen-varra-poul-anderson.html
+[Crom]: https://en.wikipedia.org/wiki/Crom_(fictional_deity) "Crom"
+[Val]: https://en.wikipedia.org/wiki/Valeria_(Conan_the_Barbarian) "Valeria"
+[Dagon]: http://www.marvunapp.com/Appendix/dagon.htm "Dagon Fish God"
+[Tsath]: http://www.marvunapp.com/Appendix/tsatho.htm
+[Sonja]: https://en.wikipedia.org/wiki/Red_Sonja "Red Sonja"
