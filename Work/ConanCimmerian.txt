@@ -59,7 +59,7 @@ Multiple other gods, from the Cthulhu Mythos or inspired by it, appear throughou
 
 [Tsathoggua][Tsath], the Toad God, or Seven-Eyed Tsathoggua, makes an early appearance (1932) in the Conan stories, where he forms an alliance with Set and his minions. Conan is his enemy, or one of them, but Tsathoggua has his worshippers as well. In the Conan stories, he carries all of the backstory from the Mythos, where he is related to Cthulhu and other Great Old Ones.
  
-[Tsathoggua][Tsath] was created by Clark Ashton Smith, who created the Hyperborean Cycle. Tsathoggua was featured in the 
+Tsathoggua was created by Clark Ashton Smith, who created the Hyperborean Cycle. Tsathoggua was featured in the 
 
 
 ### Development of Conan
@@ -72,7 +72,7 @@ Howard's original stories had more direct relationship to the Cthulhu Mythos, bu
 
 The crossover was not one direction. Lovecraft mentions "Crom-Ya, a Cimmerian chieftain" in *The Shadow Out of Time* in 1924.
 
-A great amount of development of the world of Conan also took place in the Marvel Comics version of the Hyborian Age. This should not be dismissed as an influence as it's clear that George has had a love affair with comics that might still be ongoing. 
+A great amount of development of the world of Conan also took place in the Marvel Comics version of the Hyborian Age. This should not be dismissed as an influence as it's clear that George has had a love affair with comics that might still be ongoing.
 
 
 
@@ -86,12 +86,15 @@ There were three main tribes of "barbarian" men: Atlantis, Lemuria, and the Pict
 
 [Valusia][Serpent]
 
-[Red Sonja][Sonja]
-
 > Following the cataclysm that destroys the Thurian Age, Atlantis sinks beneath the sea. The survivors on the Thurian continent are forced back into the stone age by lack of resources but become skilled in this medium and develop an artistic culture. They soon enter a war with the surviving Picts and lose to their superior numbers and stone-age military technology. The survivors of the war devolve back into apes. They eventually re-evolve into humans to become the Cimmerians of the Hyborian Age. In turn the Cimmerians become the Celts, Gaels and Scythians of modern, real world, [history.][Thurian]
 
 
 > A great cataclysm ends the Thurian Age some time after the Kull stories. Several countries sink into the sea, others rise from it, and the rest is devastated by earthquakes and volcanoes. Civilization is destroyed and the survivors attempt to build a new culture but warfare and a Lesser Cataclysm strike, creating the Hyborian Vilayet Sea and destroying any last remnants of [Thurian society.][Thurian]
+
+#Red Sonja
+
+[Red Sonja][Sonja] was developed from an original story by Howard called "The Shadow of the Vulture", published in 1934. She was added to the Conan Universe in 1973 by Roy Thomas, a writer for Marvel Comics. Red Sonja was recast as a warrior woman from Hyrkania, an ancient, eastern land of steppes and forest, placed in modern day Ukraine. This Hyrkania is based on the real-world kingdom of Hyrkania that was located at the southern tip of the Caspian Sea.
+
 
 
 # Other stories in the anthology
@@ -100,7 +103,7 @@ L. Sprague de Camp's *Swords and Sorcery* contained other stories that are even 
 
 ## Hyberborean Cycle
 
-Clark Aston Smith's collections of stories are known collectively as the Hyperborean Cycle. Built even more solidly in the world of the Mythos, they also tell the story of an Iron Age setting with layers of cosmic horror. Terrible gods demand blood sacrifices and prey on humans.
+Clark Aston Smith's collections of Mythos stories are known collectively as the Hyperborean Cycle. With a solid Mythos universe background, Smith expanded the universe greatly to include important Great Old Ones such as Tsathoggua. Like the stories of Conan, they also portray an Iron Age setting with layers of cosmic horror. In the continent of Hyperborea, terrible gods demand blood sacrifices and prey on humans.
 
 Right there in *Swords and Sorcery*, that first fantasy collection, was one of the Hyberborean stories: [*The Testimony of Athammaus*][Testy]. It concerned the city of Commoriom, the capital of Hyberborea. An evil, outlaw descendent of Tsathoggua and a snake god is found and beheaded, only to return again and take what he desired.
 
@@ -116,12 +119,13 @@ The people of Ib were green of skin, with bulging eyes and curious ears and othe
 
 Eventually, the people of Sarnath destroyed the city of Ib, and killed all its inhabitants. They also stole a statute from Ib, a sea-green stone idol of Bokrug (the great water lizard who was said to inhabit the lake) to celebrate their victory over both the people, and the old gods, of Ib.
 
-That night, something terrible happened. The next morning, the idol was gone, and the high priest of Sarnath was found dead in the  scrolled "DOOM" on the temple floor. No murderer was ever found, nor was the idol.
+That night, something terrible happened. The next morning, the idol was gone, and the high priest of Sarnath was found dead in the  scrolled "DOOM" on the temple floor. No murderer was ever found, nor was the idol. The incident was hushed-up and forgotten.
 
 Ten centuries later, the civilization of Sarnath is at its height. To celebrate the conquering of Ib, one thousand years previous, the king of Sarnath has a grand celebration. 
 
 
 ## Influences on A Song of Ice and Fire
+
 	
 
 ### Cymmeri People of Essos
@@ -132,12 +136,22 @@ In the World of Ice and Fire, the Cymmerians are included as an ancient people o
 
 Huzhor Amai (the Amazing) was said to be the first king of the Sarnori, and the descendent of the Fisher Queens. The Fisher Queens ruled the ancient inland sea that covered what is now the grasslands of the Dothraki Sea. Only three lakes remain of the Silver Sea, the great ancient inland sea, [another sign that Terros is much drier than it used to be in the past.][Dry] Huzhor bound together three tribes through his marriages, the Cymmeri, the Gipps, and the Zoqora, and battled the Qaathi and Old Ghis.
 
+#The people of Ib
+
+#The Patrimony of Hyrkoon
+
 
 
 
 #My Conclusions
 
+## Lots of similarities between the geographic  names and the names and roles of the gods
+
 ## The Hyborians sound a lot like the wildings of the North, specifically the Hyberborian tribe, who sound a lot like the Thenns. And if you compare a map of the Hyperborean Cycle lands, it looks a lot like the lands beyond the Wall - The Frostfangs 
+
+## Red Sonja and the women of Hyrkoon
+
+It's easy to sea a relationship between the Hyrkania of Conan and Red Sonja and the warrior women of the Patrimony of Hyrkoon in far Essos.
 
 ## Mitra and Mithras
 
@@ -145,7 +159,7 @@ The strong Mithraic symbolism that runs throughout the story arcs of Jon Snow an
 
 This symbolism is covered in great detail by a favorite writer of mine, [Lucifer Means Lightbringer.][LML] 
 
-## The Fisher Queens were Deep Ones
+## The Fisher Queens were Deep Ones or even Giant Water Lizards
 
 The Fisher Queens (who "were favored of the gods", according to Maester Yandel), sound like hybrids of the god Bokrug (the giant water lizard) from the Lovecraft story, "The Doom of Sarnath", and Deep Ones. These Queens were the result of the couplings between the gods and human woman. 
 
@@ -153,7 +167,7 @@ If Maester Yandel thinks that kings and other heros visited them for their wise 
 
 ## Cymmeri and Andals?
 
-The working of iron, and the similarity of the name Hugor (of the Hill) to Huzhor (Amai), and even to Mazor (Alexi), last king of the Sarnori 
+The working of iron, and the similarity of the name Hugor (of the Hill) to Huzhor (Amai), and even to Mazor (Alexi), last king of the Sarnori, makes me suspect that there is some relationship between the Cymmeri and the Andals. 
 
 ## Huzhor Amai and the Bloodstone Emperor
 
