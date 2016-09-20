@@ -1,7 +1,7 @@
 
 
 
-It's important to understand that George RR Martin is a huge Lovecraft Mythos fan, in all its many and varied forms. By exploring the early influence of HP Lovecraft and his collaborators on early fantasy as a genre, and on George in specific, the magic and the role of the gods in  A Song of Ice and Fire can be more properly understood.
+It's important to understand that George RR Martin is a huge Lovecraft Mythos fan, in all its many and varied forms. By exploring the early influence of HP Lovecraft and his collaborators on early fantasy as a genre, and on George in specific, the magic and the role of the gods - and the humans - in A Song of Ice and Fire can be more properly understood.
 
 According to a great essay he wrote in his "Starter Kit" collection of stories, his love of fantasy began in 1963, when he purchased [*Swords and Sorcery*,][Swords] edited by the famous writer and polymath, [L. Sprague de Camp][Camp].  With a story of Conan the Barbarian by **Robert E. Howard**, bundled with other stories of fantasy and terror by Poul Anderson, Henry Kuttner, **Clark Aston Smith**, Lord, Dunsany, and **H.P. Lovecraft** (*emphasis mine on writers who both borrowed and extended the Mythos*), this first fantasy series inspired his great love for the genre. It also influenced A Song of Ice and Fire, especially the terrible [Gods of Terros][Terror]. 
 
@@ -9,20 +9,23 @@ According to a great essay he wrote in his "Starter Kit" collection of stories, 
 
 ## Terrible Gods
 
-Snake Gods, Toad Gods, gods of cruelty and revenge, 
+Snake Gods, Toad Gods, gods of cruelty and revenge, gods of darkness and chaos: these are the terrible gods of the Yog-Sothoth or Cthulhu Mythos. Throughout the varied stories by the Friends of HP - Lovecraft himself, Derleth, Smith, Howard, Bloch, Camp and more - the gods are ancient and terrible cosmic demons who care nothing for humans and little for their worship. These human worshippers, craving power and understanding little of the true nature of the gods, invoke their presence with secret rites designed to 
 
 ##Gods and man interacting
 
+Because
+
+
 ##Beyond the North Wind
 
-A Homeric reference, Hyberborea was a mythical place to the ancient Greeks where a paradise awaited "Beyond the North Wind" (the literal translation of Hyperborea).
+A Homeric reference, Hyberborea was a mythical place to the ancient Greeks where a paradise awaited "Beyond the North Wind" (the literal translation of Hyperborea). It was said to be a warm, winterless place in the midst of the winds and snows of the north. It has been associated with Greenland, as well as mythical lands north of Ireland and Britian.
 
 
-## Conan the Barbarian
+#Conan the Barbarian and the love of fantasy
 
 Conan the Barbarian was his first love, and its worth a refresher on the story to see how Howard developed Conan and drew from the Mythos to create his world and gods, and the peoples that worship them. The time is ancient and the place is a mystical land full of peoples both similar and different than modern humans. Known as the [Hyborian Age][Hybor], **it is a violent Iron Age setting with swordsmen, mysterious sorcerors, and religons with terrible gods** that demand blood sacrifices, set 10,000 years or more before Caeser (though some editors placed it even further back to before the last Ice Age).   
 
-### Hyborians
+###Hyborians
 
 The Hyborian Age began after the sinking of the ancient civilizations of Atlantis and Lemuria, which set back humanity to a primative state ["hardly above Neanderthal".][Hybor] These people, the Hyborians, escaped the destruction of the ancient civilizations and fled to the north, where they fought a race of snow apes. Defeating the snow apes and driving them north of the Arctic Circle, they adapt to the land and multiply. Eventually, the Hyborians begin return to lands south of them, and wars between the dispersing tribes of Hyborians became frequent.
 
@@ -57,12 +60,14 @@ In the Marvel Comics version of the Conan universe, there is a [sea man/snake go
  
 Multiple other gods, from the Cthulhu Mythos or inspired by it, appear throughout the Conan stories. Nyarlathotep is one of the gods worshipped in the mythos of the Hyborian Age. [Dagon, a Fish or Water God with a long history,][Dagon] was added to the Conan universe by Marvel in the 1970s. He can raise the dead as zombies and uses them as servants - a common motif in Mythos stories.
 
+##Tsathoggua
+
 [Tsathoggua][Tsath], the Toad God, or Seven-Eyed Tsathoggua, makes an early appearance (1932) in the Conan stories, where he forms an alliance with Set and his minions. Conan is his enemy, or one of them, but Tsathoggua has his worshippers as well. In the Conan stories, he carries all of the backstory from the Mythos, where he is related to Cthulhu and other Great Old Ones.
  
 Tsathoggua was created by Clark Ashton Smith, who created the Hyperborean Cycle. Tsathoggua was featured in the 
 
 
-### Development of Conan
+###Development of Conan
 
 Robert E. Howard wrote 21 short stories and 1 novel about Conan the Barbarian before his suicide in 1936.
 
@@ -95,9 +100,21 @@ There were three main tribes of "barbarian" men: Atlantis, Lemuria, and the Pict
 
 [Red Sonja][Sonja] was developed from an original story by Howard called "The Shadow of the Vulture", published in 1934. She was added to the Conan Universe in 1973 by Roy Thomas, a writer for Marvel Comics. Red Sonja was recast as a warrior woman from Hyrkania, an ancient, eastern land of steppes and forest, placed in modern day Ukraine. This Hyrkania is based on the real-world kingdom of Hyrkania that was located at the southern tip of the Caspian Sea.
 
+##Bran Mak Morn
+
+Howard's King of the Picts, [Bran Mak Morn][Mak], was written about in 5 of his stories. Stories of the Picts overlapped with the Thurian Age and Hyborian Age stories, but the Bran Mak Morn stories borrow more from the "real" world. Throughout all of the stories, the Picts are seen as analogous to the Native Americans as well as ancient Celtic tribes. They are given the role of the noble savage, who lost technological knowhow  with the fall of Atlantis. In some of the stories, the Picts are closer to a cave-man archetype than the noble savage. 
+
+They are based on the somewhat mysterious Picts of ancient Ireland and Britian, as well as the Native Americans. Their priests are known to burn people alive, a desire born of a twisted revenge mindset that takes place after they are driven from their original lands to the current Pictish territories.
+
+**Notably, many Pictish warriors are werewolves.** They could change into wolves of their own free will.
+
+Bran Mak Morn is a Pict but is less savage than his peers. He desires a peace with the other tribes of Briton, to create an alliance against the invading Romans. His name derives from *Brennus* (the Gaul who sacked Rome) and from the Brittonic word meaning "Raven."
 
 
-# Other stories in the anthology
+Mentions of Lovecraftian gods and locations are included throughout the Bran Mak Morn stories, and Lovecraft himself references Bran Mak Morn in *The Whispers in the Darkness*.
+
+
+# Other stories in the *Swords and Sorcery* anthology
 
 L. Sprague de Camp's *Swords and Sorcery* contained other stories that are even more deeply involved in the Cthulhu Mythos.
 
@@ -119,9 +136,13 @@ The people of Ib were green of skin, with bulging eyes and curious ears and othe
 
 Eventually, the people of Sarnath destroyed the city of Ib, and killed all its inhabitants. They also stole a statute from Ib, a sea-green stone idol of Bokrug (the great water lizard who was said to inhabit the lake) to celebrate their victory over both the people, and the old gods, of Ib.
 
-That night, something terrible happened. The next morning, the idol was gone, and the high priest of Sarnath was found dead in the  scrolled "DOOM" on the temple floor. No murderer was ever found, nor was the idol. The incident was hushed-up and forgotten.
+That night, something terrible happened. The next morning, the idol was gone, and the high priest of Sarnath was found dead in the  scrolled "DOOM" on the temple floor. No murderer was ever found, nor was the idol. The incident was hushed-up and forgotten over time, though some priests of Sarnath swore they saw strange lights in the lake from their high tower.
 
-Ten centuries later, the civilization of Sarnath is at its height. To celebrate the conquering of Ib, one thousand years previous, the king of Sarnath has a grand celebration. 
+Ten centuries later, the civilization of Sarnath is at its height. To celebrate the conquering of Ib, one thousand years previous, the king of Sarnath has a grand celebration. Giant lake fish was served on plates inlayed with rubies and diamonds. Caravans of princes came from far and near to celebrate the glory of Sarnath.
+
+But strange shadows came down from the moon, and a green mist hovered over the lake. The foriegn princes were allowed to escape, and as they left madness showed on each shocked face. The doom had come to Sarnath.
+
+Sarnath was subsumed by the nameless lake, and the King of Sarnath and feasters were turned into people with green skin and bulging eyes. The idol of Bokrug, thought forever lost, appeared along the lake. These transformed residents of Sarnath, resembling the original inhabitants of Ib, began to worship Bokrug, the giant water lizard. 
 
 
 ## Influences on A Song of Ice and Fire
@@ -212,3 +233,4 @@ Again, the similarities between Huzhor Amai (and Mazor Alexi) to Azor Ahai is re
 [Dagon]: http://www.marvunapp.com/Appendix/dagon.htm "Dagon Fish God"
 [Tsath]: http://www.marvunapp.com/Appendix/tsatho.htm
 [Sonja]: https://en.wikipedia.org/wiki/Red_Sonja "Red Sonja"
+[Mak]: https://en.wikipedia.org/wiki/Bran_Mak_Morn "Bran Mak Morn"
