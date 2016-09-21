@@ -113,6 +113,7 @@ The Atlanteans, based mainly on a small island to the west of Thuria, have colon
 
 ### The Thurian Age Cataclysms
 
+As mentioned above, marking the end of the Thurian Age was a great cataclysm that sunk the lands of Atlantis and Lemuria. This brought about the barbarism of the Hyborian Age and the stories of Conan:
 
 > Following the cataclysm that destroys the Thurian Age, Atlantis sinks beneath the sea. The survivors on the Thurian continent are forced back into the stone age by lack of resources but become skilled in this medium and develop an artistic culture. They soon enter a war with the surviving Picts and lose to their superior numbers and stone-age military technology. The survivors of the war devolve back into apes. They eventually re-evolve into humans to become the Cimmerians of the Hyborian Age. In turn the Cimmerians become the Celts, Gaels and Scythians of modern, real world, [history.][Thurian]
 
@@ -183,7 +184,7 @@ Sarnath was subsumed by the nameless lake, and the King of Sarnath and feasters 
 
 
 
-# My Conclusions and Connections
+# My Conclusions and Suppositions
 
 The role of the Cthulhu Mythos plays in A Song of Ice and Fire is still to be determined, but it is obvious that there are many great connections between the Mythos and a Song of Ice and Fire. Both the gods and the humanoid peoples of Terros are borrowed liberally from the Mythos.
 
@@ -217,9 +218,12 @@ This is an interesting inclusion by George, and it makes me think that there cou
 
 ### The Gnophkeh and the Voormi
 
-While the Voormi change in description from their early appearances in the Clark Aston Smith stories, their form in the Lin Carter stories resembles the Children of the Forest: three-toed and umber-colored. However, this is not a strong connection, though their residence in the cave system of the Eiglophian mountains reminds me strongly of the Children.
+While the Voormi change in description from their early appearances in the Clark Aston Smith stories, their form in the Lin Carter stories resembles the Children of the Forest: three-toed and umber-colored. However, this is not a strong connection, though their residence in the cave system of the Eiglophian mountains reminds me strongly of the Children (the Children also have some similarities to the Picts of the Mythos).
+
 
 The Gnophkeh, on the other hand, are a dead ringer for the [Giants of Westeros][Giant], as described in the World of Ice and Fire. Covered in hair, with large protruding ears and a "proboscidean" noses, the Gnophkeh were hunted by man and forced from their original lands. Similarly, the Giants are covered in hair and have large ears and noses. Hunted by man, they only exist in the far north and are a dying species
+
+
 
 ### The Hyborians and the Thenns
 
@@ -253,13 +257,17 @@ Like the Bloodstone Emperor, Huzhor Amai was the last of a long line of royalty 
 
 Many of the stories in the Mythos involve the raising of the dead. Sometimes, depending on the perspective of the character we are experiencing the story from, this sounds almost normal, and just something that is a part of their culture, while others they encounter are fearful of this power.
 
-This makes me think that the raising of the dead by the white walkers has a completely different context to the White Walkers then to the humans of Westeros, and by extension, we the readers. 
+This makes me think that the raising of the dead by the White Walkers has a completely different context to them then to the humans of Westeros, and by extension, we the readers. 
 
 ### Continents and islands, lost or found
 
-Throughout these stories there are instances of islands or even whole continents sinking beneath the sea, or rising from it. These cataclysms set the stage for later action and remove whole civilizations and their technological progress from history, making barbarianism dominant.
+Throughout these stories there are instances of islands or even whole continents sinking beneath the sea, or rising from it. These cataclysms set the stage for later action and remove whole civilizations and their technological progress from history, making barbarism dominant.
 
 This reminds me greatly of the Hammer of the Waters, as the land bridge to Essos was subsumed by the Narrow Sea, as well as the submersion of the Neck.  
+
+### Bran Mak Morn 
+
+The King of the Picts, Bran Mak Morn, has some deep influences on the character of Bran Stark, even beyond the name. The ability of the Picts to turn into wolves is one strong connection, and the psuedo-historical relationship of the Picts to real ancient Britons, especially as they resisted the Roman invaders, reminds me strongly of the First Men of the North. Overall, the joy that Howard took in writing about the Picts and Bran Mak Morn should be counted as a powerful influence on readers like George. 
 
 ## The Gods of Terros are Eldritch Deities
 
