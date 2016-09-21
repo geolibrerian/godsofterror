@@ -129,7 +129,7 @@ The Kull stories in the Thurian Age reflect many of the lost continent theories 
 
 ### Red Sonja
 
-[Red Sonja][Sonja] was developed from an original story by Howard called "The Shadow of the Vulture", published in 1934. She was added to the Conan Universe in 1973 by Roy Thomas, a writer for Marvel Comics. Red Sonja was recast as a warrior woman from Hyrkania, an ancient, eastern land of steppes and forest, placed in modern day Ukraine. This Hyrkania is based on the real-world kingdom of Hyrkania that was located at the southern tip of the Caspian Sea.
+[Red Sonja][Sonja] was developed from an original story by Howard called "The Shadow of the Vulture", published in 1934. She was added to the Conan Universe in 1973 by Roy Thomas, a writer for Marvel Comics. Red Sonja was recast as a warrior woman from Hyrkania, an ancient, eastern land of steppes and forest, placed in modern day Ukraine. This Hyrkania is based on the real-world kingdom of Hyrcania that was located at the southern tip of the Caspian Sea.
 
 ##Bran Mak Morn
 
@@ -265,6 +265,12 @@ Throughout these stories there are instances of islands or even whole continents
 
 This reminds me greatly of the Hammer of the Waters, as the land bridge to Essos was subsumed by the Narrow Sea, as well as the submersion of the Neck.  
 
+### Sothoryos and the Yog-Sothoth
+
+Sothoryos, which sounds like south and therefore seems to fit nicely into the Westeros/Essos naming scheme, is not named after the direction. It is instead named after the Yog-Sothoth, which is the name that Lovecraft himself gave to the Cthulhu Mythos (a name later coined by Derleth). 
+
+George is using Sothoryos as a literary Africa, where these fantastic beings and ideas are born.
+
 ### Bran Mak Morn 
 
 The King of the Picts, Bran Mak Morn, has some deep influences on the character of Bran Stark, even beyond the name. The ability of the Picts to turn into wolves is one strong connection, and the psuedo-historical relationship of the Picts to real ancient Britons, especially as they resisted the Roman invaders, reminds me strongly of the First Men of the North. Overall, the joy that Howard took in writing about the Picts and Bran Mak Morn should be counted as a powerful influence on readers like George. 
@@ -273,7 +279,7 @@ The King of the Picts, Bran Mak Morn, has some deep influences on the character 
 
 The Gods of Terros, worshiped by the people of Terros in its various religions, are all based on the terrible gods of the Cthulhu Mythos known as the The Great Old Ones. All, of course, except for the [Old Gods of the Forest][Old Gods]. They will be approached in an upcoming essay, which will discuss the role of August Derleth and L. Sprague de Camp in furthering the work of Lovecraft, and in introducing the idea of a war between the Great Old Ones and the [Elder Gods][Elders].
 
-These eldritch deities are born of cosmic horror, and care little or nothing for the humanoids that worship them. In the current age, these monsters are mostly sleeping (like Cthulhu), or banished to outer space (like Hastur). Only Nyarlathotep roams the Earth, enacting the will of the Great Old Ones and the [Outer Gods][Outer].
+These eldritch deities are born of cosmic horror, and care little or nothing for the humanoids that worship them. In the current age, these monsters are mostly sleeping (like Cthulhu), or banished to outer space (like Hastur). Only Nyarlathotep roams the Earth, enacting the will of the Great Old Ones and the [Outer Gods][Outer]. But all have their worship, even Tsathoggua, who is worshipped on the Isle of Toads.
 
 The Drowned God of Ironborn, the Lord of Light, the Great Other, the Great Shepherd, and the Toad God of the Isle of Toads, among others, are all versions of these eldritch monsters. These Gods of Terror are not going to stay sleeping or banished forever. Instead, they will return, and humanity will suffer.
  
