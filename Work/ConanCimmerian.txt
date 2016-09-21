@@ -16,7 +16,7 @@ Throughout the fabulous, fun, and sometimes boring stories of the Cthulhu Mythos
 
 ### Terrible Gods
 
-Snake Gods, Toad Gods, gods of cruelty and revenge, gods of darkness and chaos: these are the terrible gods of the Yog-Sothoth or Cthulhu Mythos. Throughout the varied stories by the Friends of HP—Lovecraft himself, Derleth, Smith, Howard, Bloch, Camp and more—the gods are ancient and terrible cosmic demons who care nothing for humans and little for their worship. These human worshipers, craving power and understanding little of the true nature of the gods, invoke their presence with secret rites designed to 
+Snake Gods, Toad Gods, gods of cruelty and revenge, gods of darkness and chaos: these are the terrible gods of the Yog-Sothoth or Cthulhu Mythos. Throughout the varied stories by the Friends of HP—Lovecraft himself, Derleth, Smith, Howard, Bloch, Camp and more—the gods are ancient and terrible cosmic demons who care nothing for humans and little for their worship. These human worshipers, craving power and understanding little of the true nature of the gods, invoke their presence with secret rites designed to capture their power. However, the humans usually find out that they can't control what they call, with terrible results.
 
 ### Gods and man interacting
 
@@ -105,14 +105,21 @@ The Atlanteans, based mainly on a small island to the west of Thuria, have colon
  
 [Valusia][Serpent] was founded and ruled initially by the Serpent Men. Finally overthrown by their human slaves, the Serpent Men tried to regain rule for centuries but were finally defeated by Kull the barbarian.
 
-### Meta-analysis of the Thurian Age Stories
 
-The Kull stories in the Thurian Age 
+### The Thurian Age Cataclysms
+
 
 > Following the cataclysm that destroys the Thurian Age, Atlantis sinks beneath the sea. The survivors on the Thurian continent are forced back into the stone age by lack of resources but become skilled in this medium and develop an artistic culture. They soon enter a war with the surviving Picts and lose to their superior numbers and stone-age military technology. The survivors of the war devolve back into apes. They eventually re-evolve into humans to become the Cimmerians of the Hyborian Age. In turn the Cimmerians become the Celts, Gaels and Scythians of modern, real world, [history.][Thurian]
 
 
 > A great cataclysm ends the Thurian Age some time after the Kull stories. Several countries sink into the sea, others rise from it, and the rest is devastated by earthquakes and volcanoes. Civilization is destroyed and the survivors attempt to build a new culture but warfare and a Lesser Cataclysm strike, creating the Hyborian Vilayet Sea and destroying any last remnants of [Thurian society.][Thurian]
+
+
+### Basis of the Thurian Age Cataclysms
+
+The Kull stories in the Thurian Age reflect many of the lost continent theories that were popular in the early 20th century. Tales of Atlantis were ancient, certainly, and the loss of its fabled civilization has been discussed for centureis. Lemuria is a later invention, a lost continent that was used to explain the presense of primates (especially the Lemurs of Madagascar) on continent far apart. 
+
+
 
 ### Red Sonja
 
@@ -133,7 +140,7 @@ Mentions of Lovecraftian gods and locations are included throughout the Bran Mak
 
 # Other stories in the *Swords and Sorcery* anthology
 
-L. Sprague de Camp's *Swords and Sorcery* contained other stories that are even more deeply involved in the Cthulhu Mythos. Clark Aston Smith's "The Testament of Athammaus", set in fabled Hyberborea and concerning the outlaw Knygathin Zhaum. *The Doom that Came to Sarnath*, by HPL himself, describes the return of a Great Old One and the doom that commenced. CL Moore, one of the first women writing fantasy at the time, contributed ["Hellsgarde"][Hells]
+L. Sprague de Camp's *Swords and Sorcery* contained other stories that are even more deeply involved in the Cthulhu Mythos. Clark Aston Smith's "The Testament of Athammaus", set in fabled Hyberborea and concerning the outlaw Knygathin Zhaum. *The Doom that Came to Sarnath*, by HPL himself, describes the return of a Great Old One and the doom that commenced. CL Moore, one of the first women writing fantasy at the time, contributed ["Hellsgarde"][Hells]. While other early fantasy writers such as Poal Anderson and Lord Dunsany made strong impressions, the contributions by Lovecraft, Smith and Howard opened the door to the Cthulhu Mythos.
 
 ## Hyberborean Cycle
 
@@ -141,7 +148,15 @@ Clark Aston Smith's collections of Mythos stories are known collectively as the 
 
 Right there in *Swords and Sorcery*, that first fantasy collection, was one of the Hyberborean stories: [*The Testimony of Athammaus*][Testy]. It concerned the city of Commoriom, the capital of Hyberborea. An evil, outlaw descendent of Tsathoggua and a snake god is found and beheaded, only to return again and take what he desired.
 
-In Smith's writings, he details two other humanoid peoples that have fought against humans in the past: the Voormi and the Gor
+In Smith's writings, he details two other humanoid peoples that have fought against humans in the past: the Voormi and the Gnophkeh. 
+
+The Voormi, who were fleshed out much later by Lin Carter (one of George's editors), are described as three-toed, umber-colored, fur-covered humanoids who communicate by dog-like howls.
+
+The Voormi live on the continent of Hyberborea, in caves deep within the Eiglophian mountians, under the extinct volcano called Mount Voormithadreth. Worshipers of Tsathoggua, they built a civilization on the surface of Hyberborea but it came to its demise through constant warfare with the Gnophkeh. Later, they were hunted by humans for sport and driven to the Eiglophian mountains.
+
+The Gnophkeh are their great enemy, especially before humans encroach on their land. Cannibals covered in hair with large noses, the Gnophkeh fought against the Voormi and later the humans. Pushed by war with the humans to the far north, they encountered [Ithaqua][Ith], the Great Old One known as the Wind-Walker or Wendigo, and began to worship him instead of their original god, [Rhan-Tegoth][Rhan]. 
+
+The Gnophkeh were finally destroyed when Ithaqua and the god of the [Cold Flame, Aphoom-Zhah][Zhah], brought about the Ice Age.
 
 ## Sarnath and Bokrug
 
@@ -159,12 +174,17 @@ Ten centuries later, the civilization of Sarnath is at its height. To celebrate 
 
 But strange shadows came down from the moon, and a green mist hovered over the lake. The foreign princes were allowed to escape, and as they left madness showed on each shocked face. The doom had come to Sarnath.
 
-Sarnath was subsumed by the nameless lake, and the King of Sarnath and feasters were turned into people with green skin and bulging eyes. The idol of Bokrug, thought forever lost, appeared along the lake. These transformed residents of Sarnath, resembling the original inhabitants of Ib, began to worship Bokrug, the giant water lizard. 
+Sarnath was subsumed by the nameless lake, and the King of Sarnath and feasters were turned into people with green skin and bulging eyes. The idol of Bokrug, thought forever lost, appeared again along the lake. These transformed residents of Sarnath, resembling the original inhabitants of Ib, began to worship Bokrug, the giant water lizard. The doom, long promised to Sarnath, had come.
 
+
+
+# My Conclusions and Connections
+
+The role of the Cthulhu Mythos plays in A Song of Ice and Fire is still to be determined, but it is obvious that there are many great connections between the Mythos and a Song of Ice and Fire. Both the gods and the humanoid peoples of Terros are borrowed liberally from the Mythos.
 
 ## Influences on A Song of Ice and Fire
 
-It would be hard to recount all of the obvious influences of the Cthulhu Mythos upon A Song of Ice and Fire, but 
+It would be hard to recount all of the obvious influences of the Cthulhu Mythos upon A Song of Ice and Fire, but a few deserve to be highlighted explicitly.
 	
 
 ### Cymmeri People of Essos
@@ -175,50 +195,70 @@ In the World of Ice and Fire, the Cymmerians are included as an ancient people o
 
 Huzhor Amai (the Amazing) was said to be the first king of the Sarnori, and the descendent of the Fisher Queens. The Fisher Queens ruled the ancient inland sea that covered what is now the grasslands of the Dothraki Sea. Only three lakes remain of the Silver Sea, the great ancient inland sea, [another sign that Terros is much drier than it used to be in the past.][Dry] Huzhor bound together three tribes through his marriages, the Cymmeri, the Gipps, and the Zoqora, and battled the Qaathi and Old Ghis.
 
-# The people of Ib
+### The people of Ib
 
 While the people of Ib in HPL's story of Sarnath sound a lot more like the Deep Ones than the people of Ib in A Song of Ice and Fire, the name was obviously borrowed directly from HPL.  
 
-# The Patrimony of Hyrkoon
+### The Patrimony of Hyrkoon
+
+The Patrimony of Hyrkoon is closely related to the stories of Hyrkania from both the Thurian Age stories and the Conan stories. They are located in roughly the same place in the world (east of the main kingdoms) as the Patrimony, and are even related to the ancient real-world civilization of Hyrcania, south of the Caspian Sea.
 
 
+## Lemuria, Lemurs, and Little Valyrians
 
+Curiously, there is a lemur of the Forest of Qohor that is described in the World of Ice and Fire. Said to resemble Valyrians because of their silver hair, the lemurs are known as the Little Valyrians. A stuffed Little Valyrian is housed at the Citadel, where the students have rubbed it (for good luck) until the silver hair fell out.
 
-#My Conclusions
+This is an interesting inclusion by George, and it makes me think that there could be a connection between the Valyrians and the Lemurians of the Thurian Age.
 
-## Lots of similarities between the geographic  names and the names and roles of the gods
+## The Gnophkeh and the Voormi
 
-## The Hyborians sound a lot like the wildings of the North, specifically the Hyberborian tribe, who sound a lot like the Thenns. And if you compare a map of the Hyperborean Cycle lands, it looks a lot like the lands beyond the Wall - The Frostfangs 
+While the Voormi change in description from their early appearances in the Clark Aston Smith stories, their form in the Lin Carter stories resembles the Children of the Forest: three-toed and umber-colored. However, this is not a strong connection, though their residence in the cave system of the Eiglophian mountains reminds me strongly of the Children.
 
-## Red Sonja and the women of Hyrkoon
+The Gnophkeh, on the other hand, are a dead ringer for the [Giants of Westeros][Giant], as described in the World of Ice and Fire. Covered in hair, with large protruding ears and a "proboscidean" noses, the Gnophkeh were hunted by man and forced from their original lands. Similarly, the 
 
-It's easy to sea a relationship between the Hyrkania of Conan and Red Sonja and the warrior women of the Patrimony of Hyrkoon in far Essos.
+### The Hyborians and the Thenns
 
-## Mitra and Mithras
+The Hyborians sound a lot like the wildings of the North, specifically the Hyberborian tribe, who sound a lot like the Thenns. If you compare a map of the Hyperborean Cycle lands with a map of the North, it looks a lot like the lands beyond the Wall. In fact, The Frostfangs strongly resemble the Eiglophian mountians, and this comparison is bolstered by the presence of the vast cave system of the Children.
 
-The strong Mithraic symbolism that runs throughout the story arcs of Jon Snow and Bran was influenced by the religon of Mitra in Hyboria.
+The valley of the Thenns, a warm valley in a land were there should not be such a valley, is very reminiscent of the idea of Hyberborea (and of [Thule][Thul]), which were both ancient lands in the far north romanticisied by ancient writers.
 
-This symbolism is covered in great detail by a favorite writer of mine, [Lucifer Means Lightbringer.][LML] 
+### Red Sonja and the women of Hyrkoon
 
-## The Fisher Queens were Deep Ones or even Giant Water Lizards
+It's easy to sea a relationship between the Hyrkania of Conan and Red Sonja and the warrior women of the Patrimony of Hyrkoon in far Essos. Red Sonja will only love or have sex with a warrior who can defeat her in battle. Similarly, the warrior women of the Patrimony geld 99 of every 100 men born, with only the most powerful keep whole to mate with the warrior women.
+
+### Mitra and Mithras
+
+The strong Mithraic symbolism that runs throughout the story arcs of Jon Snow and Bran was influenced by the religon of Mitra in Hyboria. This symbolism is covered in great detail by a favorite writer of mine, [Lucifer Means Lightbringer.][LML]
+
+### The Fisher Queens were Deep Ones or even Giant Water Lizards
 
 The Fisher Queens (who "were favored of the gods", according to Maester Yandel), sound like hybrids of the god Bokrug (the giant water lizard) from the Lovecraft story, "The Doom of Sarnath", and Deep Ones. These Queens were the result of the couplings between the gods and human woman. 
 
-If Maester Yandel thinks that kings and other heroes visited them for their wise counsel, it makes me suspicious, as do all Citadel-inspired views on these ancient rulers.
+*If Maester Yandel thinks that kings and other heroes visited them for their wise counsel, it makes me suspicious, as do all Citadel-inspired views on these ancient rulers.*
 
-## Cymmeri and Andals?
+### Cymmeri and Andals?
 
 The working of iron, and the similarity of the name Hugor (of the Hill) to Huzhor (Amai), and even to Mazor (Alexi), last king of the Sarnori, makes me suspect that there is some relationship between the Cymmeri and the Andals. 
 
-## Huzhor Amai and the Bloodstone Emperor
+### Huzhor Amai and the Bloodstone Emperor
 
-Like the Bloodstone Emperor, Huzhor Amai was the last of a long line of royalty
+Like the Bloodstone Emperor, Huzhor Amai was the last of a long line of royalty that descended from ancient rulers. Also, the similarities between Huzhor Amai (and Mazor Alexi) to Azor Ahai is really hard to dismiss. I'll have a major follow-up to this theory in the future.
 
-## Huzhor Amai and Azor Ahai
+## The Gods of Terros are Eldritch Deities
 
-Again, the similarities between Huzhor Amai (and Mazor Alexi) to Azor Ahai is really hard to dismiss. 
+The Gods of Terros, worshiped by the people of Terros in its various religions, are all based on the terrible gods of the Cthulhu Mythos known as the The Great Old Ones. All, of course, except for the [Old Gods of the Forest]. They will be approached in an upcoming essay.
 
+These eldritch deities are born of cosmic horror, and care little or nothing for the humanoids that worship them. In the current age, these monsters are mostly sleeping (like Cthulhu), or banished to outer space (like Hastur). Only Nyarlathotep roams the Earth, enacting the will of the Great Old Ones and the [Outer Gods][Outer].
 
+The Drowned God of Ironborn, the Lord of Light, the Great Other, the Great Shepherd, and the Toad God of the Isle of Toads, among others, are all versions of these eldritch monsters. These Gods of Terror are not going to stay sleeping or banished forever. Instead, they will return, and humanity will suffer.
+ 
+## George loves the Mythos
+
+George loves the Mythos, and his embrace of it is encoded deeply within A Song of Ice and Fire. But it is clearly not just homage; instead, these themes and characters are used intentionally to flesh out the background of the books, and to help guide the powers that each god can access. The roles of magic and the gods from which it derives on the past, present and future of Terros are shaped deeply by the powers described in the Mythos. 
+
+However, George, like all of the other Mythos writers, uses the shared universe as a starting point, and adds many details to flesh out both the gods and their roles. It's not a paint-by-numbers operation; instead, George has used this set of ideas and characterizations that help guide the stories. 
+
+We can, however, make a lot of use of this background within our theories, as the framework of the Mythos helps to guide our guesses. With this understanding of where George is coming from, we can better understand what George is planning to do with our favorite characters. 
 
 
 
@@ -255,3 +295,11 @@ Again, the similarities between Huzhor Amai (and Mazor Alexi) to Azor Ahai is re
 [Sonja]: https://en.wikipedia.org/wiki/Red_Sonja "Red Sonja"
 [Mak]: https://en.wikipedia.org/wiki/Bran_Mak_Morn "Bran Mak Morn"
 [Hells]: http://swordssorcery.blogspot.com/2011/06/hellsgarde-cl-moore.html "CL Moore"
+[Gnophkeh]: https://en.wikipedia.org/wiki/Gnophkeh
+[Ith]: https://en.wikipedia.org/wiki/Ithaqua
+[Rhan]: http://www.yog-sothoth.com/wiki/index.php/Rhan-Tegoth
+[Giant]: http://awoiaf.westeros.org/index.php/Giants
+[Zhah]: https://en.wikipedia.org/wiki/Lin_Carter_deities#Aphoom-Zhah
+[Thul]: https://en.wikipedia.org/wiki/Thule
+[Old Gods]: http://gameofthrones.wikia.com/wiki/Old_Gods_of_the_Forest
+[Outer]: http://www.yog-sothoth.com/wiki/index.php/Outer_Gods
