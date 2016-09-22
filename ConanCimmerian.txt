@@ -6,7 +6,7 @@ In appreciation of this richness, and to seek more information about the world o
 
 It's important to understand that George RR Martin is a huge Lovecraft Mythos fan, in all its many and varied forms. The strong and early influence of HP Lovecraft and his collaborators on fantasy as a genre, and on George in specific, can be traced back to the first fantasy book George ever read.
 
-According to a great essay he wrote in his "Starter Kit" collection of stories, his love of fantasy began in 1963, when he purchased [*Swords and Sorcery*,][Swords] edited by the famous writer and polymath, [L. Sprague de Camp][Camp].  With a story of Conan the Barbarian by **Robert E. Howard**, bundled with other stories of fantasy and terror by Poul Anderson, Henry Kuttner, **Clark Aston Smith**, C.L. Moore, Lord Dunsany, and **H.P. Lovecraft** (*emphasis mine on writers who both borrowed and extended the Mythos*), this first fantasy series inspired his great love for the genre. It also influenced A Song of Ice and Fire, especially the terrible [Gods of Terros][Terror]. 
+According to a great essay he wrote in his "Starter Kit" collection of stories, his love of fantasy began in 1963, when he purchased [*Swords and Sorcery*,][Swords] edited by the famous writer and polymath, [L. Sprague de Camp][Camp].  With a story of Conan the Barbarian by **Robert E. Howard**, bundled with other stories of fantasy and terror by Poul Anderson, Henry Kuttner, **Clark Aston Smith**, C.L. Moore, Lord Dunsany, and **H.P. Lovecraft** (*emphasis mine on writers who both borrowed and extended the Mythos*), this first fantasy anthology inspired his great love for the genre. It also influenced A Song of Ice and Fire, especially the terrible [Gods of Terros][Terror]. 
 
 ## Themes of the stories
 
@@ -64,7 +64,7 @@ Father Set is identified with the [Great Old One Yig][Yig], and was either direc
  
 ### Naga the Sea Snake
 
-In the Marvel Comics version of the Conan universe, there is a [sea man/snake god known as Naga][Naga]. First published in 1969, Naga is the ruler of the *Homo mermanus* or water-breathing merpeople who live in the remains of Lemuria, which had sunk into the sea before the Hyborian Age. He finds in the ancient ruins of Lemuria the ancient Serpent Crown of the followers of Set. Through this crown, Set controls Naga though he has been banished to another dimension. Nageis transformed into a snake-like merman, with green, scaly skin instead of the blue skin common to the merpeople. Naga gains immortality and control over his people, whom he converts to the worship of Set. Naga's people become green in color and also have scales.
+In the Marvel Comics version of the Conan universe, there is a [sea man/snake god known as Naga][Naga]. First published in 1969, Naga is the ruler of the *Homo mermanus* or water-breathing merpeople who live in the remains of Lemuria, which had sunk into the sea before the Hyborian Age. He finds in the ancient ruins of Lemuria the ancient Serpent Crown of the followers of Set. Through this crown, Set controls Naga though he has been banished to another dimension. Naga is transformed into a snake-like merman, with green, scaly skin instead of the blue skin common to the merpeople. Naga gains immortality and control over his people, whom he converts to the worship of Set. Naga's people become green in color and also have scales.
 
 The idea of the *Nāga* is an ancient one that dates back even to the Mahabharata of India, but the best story of the *Nāga* is from Cambodia:
 
@@ -324,29 +324,29 @@ We can, however, make a lot of use of this background within our theories, as th
 [Mitr]: https://en.wikipedia.org/wiki/Mitra_(Conan) "Mitra"
 [Set]: https://en.wikipedia.org/wiki/Father_Set "Set"
 [LML]: https://lucifermeanslightbringer.com/2016/07/03/lucifer-means-lightbringer-2/ "Lucifer"
-[Worship]: http://hyboria.xoth.net/gods/gods_worship.htm
-[Naga]: https://en.wikipedia.org/wiki/Naga_(Marvel_Comics)
-[Yig]: https://en.wikipedia.org/wiki/Yig
-[Testy]: http://www.eldritchdark.com/writings/short-stories/210/the-testament-of-athammaus
-[Swords]: https://en.wikipedia.org/wiki/Swords_and_Sorcery
-[Swords2]: http://swordssorcery.blogspot.com/2011/06/valor-of-cappen-varra-poul-anderson.html
-[Crom]: https://en.wikipedia.org/wiki/Crom_(fictional_deity) "Crom"
+[Worship]: http://hyboria.xoth.net/gods/gods_worship.htm "Worship"
+[Naga]: https://en.wikipedia.org/wiki/Naga_(Marvel_Comics) "Naga (Marvel)"
+[Yig]: https://en.wikipedia.org/wiki/Yig "Yig"
+[Testy]: http://www.eldritchdark.com/writings/short-stories/210/the-testament-of-athammaus "Smith"
+[Swords]: https://en.wikipedia.org/wiki/Swords_and_Sorcery "Swords"
+[Swords2]: http://swordssorcery.blogspot.com/2011/06/valor-of-cappen-varra-poul-anderson.html "Cappen Varra"
+[Crom]: https://en.wikipedia.org/wiki/Crom_(fictional_deity) "Crom" 
 [Val]: https://en.wikipedia.org/wiki/Valeria_(Conan_the_Barbarian) "Valeria"
 [Dagon]: http://www.marvunapp.com/Appendix/dagon.htm "Dagon Fish God"
-[Tsath]: http://www.marvunapp.com/Appendix/tsatho.htm
+[Tsath]: http://www.marvunapp.com/Appendix/tsatho.htm "Tsathoggua"
 [Sonja]: https://en.wikipedia.org/wiki/Red_Sonja "Red Sonja"
 [Mak]: https://en.wikipedia.org/wiki/Bran_Mak_Morn "Bran Mak Morn"
 [Hells]: http://swordssorcery.blogspot.com/2011/06/hellsgarde-cl-moore.html "CL Moore"
-[Gnophkeh]: https://en.wikipedia.org/wiki/Gnophkeh
-[Ith]: https://en.wikipedia.org/wiki/Ithaqua
-[Rhan]: http://www.yog-sothoth.com/wiki/index.php/Rhan-Tegoth
-[Giant]: http://awoiaf.westeros.org/index.php/Giants
-[Zhah]: https://en.wikipedia.org/wiki/Lin_Carter_deities#Aphoom-Zhah
-[Thul]: https://en.wikipedia.org/wiki/Thule
-[Old Gods]: http://gameofthrones.wikia.com/wiki/Old_Gods_of_the_Forest
-[Outer]: http://www.yog-sothoth.com/wiki/index.php/Outer_Gods
-[Elders]: http://www.yog-sothoth.com/wiki/index.php/Elder_God_(Cthulhu_mythos)
-[Queens]: http://godsofterror.tumblr.com/post/148954720381/greatfathers
-[Cam]: https://en.wikipedia.org/wiki/N%C4%81ga
-[Ukt]: https://en.wikipedia.org/wiki/Horned_Serpent
-[Dire]: http://godsofterror.tumblr.com/post/149070919856/the-dead-direwolf
+[Gnophkeh]: https://en.wikipedia.org/wiki/Gnophkeh "Gnophkeh"
+[Ith]: https://en.wikipedia.org/wiki/Ithaqua Ithaqua"
+[Rhan]: http://www.yog-sothoth.com/wiki/index.php/Rhan-Tegoth "Rhan-Tegoth"
+[Giant]: http://awoiaf.westeros.org/index.php/Giants "Giants"
+[Zhah]: https://en.wikipedia.org/wiki/Lin_Carter_deities#Aphoom-Zhah "Aphoom-Zhah"
+[Thul]: https://en.wikipedia.org/wiki/Thule "Thule"
+[Old Gods]: http://gameofthrones.wikia.com/wiki/Old_Gods_of_the_Forest "Old Gods"
+[Outer]: http://www.yog-sothoth.com/wiki/index.php/Outer_Gods "Outer Gods"
+[Elders]: http://www.yog-sothoth.com/wiki/index.php/Elder_God_(Cthulhu_mythos) "Elder God"
+[Queens]: http://godsofterror.tumblr.com/post/148954720381/greatfathers "Great Fathers"
+[Cam]: https://en.wikipedia.org/wiki/N%C4%81ga "Naga"
+[Ukt]: https://en.wikipedia.org/wiki/Horned_Serpent "Uktena"
+[Dire]: http://godsofterror.tumblr.com/post/149070919856/the-dead-direwolf "Dead Direwolf"
