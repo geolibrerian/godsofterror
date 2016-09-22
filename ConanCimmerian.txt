@@ -1,5 +1,3 @@
-# Drink from the Deep Well
-
 A Song of Ice and Fire is one of the best fantasy series ever written. George RR Martin is a master of creating compelling characters and weaving rich, descriptive imagery with political intrigue, magic, and even cosmic horror. Best of all, the deeper one dives into the background details of the stories, the more rich it becomes. Thousands of theories have been spawned from the interwoven details that George masterfully builds his world upon.
 
 In appreciation of this richness, and to seek more information about the world of Terros, I have begun the exploration of the influences on A Song of Ice and Fire, and in doing so I discovered that George has borrow liberally from a deep well: the powerful shared literary universe created by HP Lovecraft and his friends, which he called the Yog-Sothoth, but is known better as the **Cthulhu Mythos**.   
@@ -8,7 +6,7 @@ In appreciation of this richness, and to seek more information about the world o
 
 It's important to understand that George RR Martin is a huge Lovecraft Mythos fan, in all its many and varied forms. The strong and early influence of HP Lovecraft and his collaborators on fantasy as a genre, and on George in specific, can be traced back to the first fantasy book George ever read.
 
-According to a great essay he wrote in his "Starter Kit" collection of stories, his love of fantasy began in 1963, when he purchased [*Swords and Sorcery*,][Swords] edited by the famous writer and polymath, [L. Sprague de Camp][Camp].  With a story of Conan the Barbarian by **Robert E. Howard**, bundled with other stories of fantasy and terror by Poul Anderson, Henry Kuttner, **Clark Aston Smith**, Lord, Dunsany, and **H.P. Lovecraft** (*emphasis mine on writers who both borrowed and extended the Mythos*), this first fantasy series inspired his great love for the genre. It also influenced A Song of Ice and Fire, especially the terrible [Gods of Terros][Terror]. 
+According to a great essay he wrote in his "Starter Kit" collection of stories, his love of fantasy began in 1963, when he purchased [*Swords and Sorcery*,][Swords] edited by the famous writer and polymath, [L. Sprague de Camp][Camp].  With a story of Conan the Barbarian by **Robert E. Howard**, bundled with other stories of fantasy and terror by Poul Anderson, Henry Kuttner, **Clark Aston Smith**, C.L. Moore, Lord Dunsany, and **H.P. Lovecraft** (*emphasis mine on writers who both borrowed and extended the Mythos*), this first fantasy series inspired his great love for the genre. It also influenced A Song of Ice and Fire, especially the terrible [Gods of Terros][Terror]. 
 
 ## Themes of the stories
 
@@ -22,14 +20,14 @@ There was a later divergence from the strong trait of cosmic indifference by the
 
 ### Gods and man interacting
 
-Because the "gods" are cosmic demons who inhabit Earth when it was younger, they interacted directly with humans. While (most of) the gods are now sleeping or banished into outer space, and can't interact with modern humans, these ancient interactions and demonstrations of the powers of the gods spawned human religions. Humans, unable to control their lust for power, worked mysterious and ancient rites to borrow the power of the gods—often with terrible results.  
+Because the "gods" are cosmic demons who inhabit Earth when it was younger, they interacted directly with humans. While (most of) the gods are now sleeping or banished into outer space, and can't interact with modern humans, these ancient interactions and demonstrations of the powers of the gods spawned human religions. Humans, unable to control their lust for power, worked mysterious and ancient rites to borrow the power of the gods, without understanding the true nature of the space demons they are invoking.  
 
 
 ### Ancient and lost civilizations and continents
 
 Atlantis, Hyberborea, Thule, Lemuria: these are all famous mythical lands with lost civilizations that are used throughout the stories of the Mythos to both set the stage of the story and root them in lost ages that are beyond the memory of modern man.
 
-A Homeric reference, Hyberborea was a mythical place to the ancient Greeks where a paradise awaited "Beyond the North Wind" (the literal translation of Hyperborea). It was said to be a warm, winterless place in the midst of the winds and snows of the north. It has been associated with Greenland, as well as mythical lands north of Ireland and Britain. Famous Atlantis was first described by Plato in ancient Greek times, but became famous through the writings of the Romantics of the 19th century. Thule was a mythical land in the far north of classical cartography, identified at times with Norway or the Shetlands but mainly indicating a land beyond the borders of the known world. Lemuria was a later addition to the mythical cartography, an Indian Ocean continent that was lost in the ancient past.  
+A Homeric reference, Hyberborea was a mythical place to the ancient Greeks where a paradise awaited "beyond the North Wind" (the literal translation of Hyperborea). It was said to be a warm, winterless place in the midst of the winds and snows of the north. It has been associated with Greenland, as well as mythical lands north of Ireland and Britain. Famous Atlantis was first described by Plato in ancient Greek times, but became famous through the writings of the Romantics of the 19th century. Thule was a mythical land in the far north of classical cartography, identified at times with Norway or the Shetlands but mainly indicating a land beyond the borders of the known world. Lemuria was a later addition to the mythical cartography, an Indian Ocean continent that was lost in the ancient past.  
 
 
 
@@ -46,7 +44,7 @@ A thousand years having past, the snow apes of the Arctic Circle had become fair
 
 ## Conan the Cimmerian
 
-Conan was a Cimmerian, one of the many peoples of the Hyborian Age. Based on Celtic and/or Gaelic influences, the Cimmerians descended from the Hyborians and are a hard people with black hair and gray eyes (and are probably white, as most of these early—and recent- fantasy stories tended to be).  They are located about where Ireland or Scotland would be in the map of the world developed by Howard.
+Conan was a Cimmerian, one of the many peoples of the Hyborian Age. Based on Celtic and/or Gaelic influences, the Cimmerians descended from the Hyborians and are a hard people with black hair and gray eyes (and are probably white, as most of these early — and recent — fantasy stories tended to be).  They are located about where Ireland or Scotland would be in the map of the world developed by Howard.
 
 Born the son of a blacksmith, he eventually becomes a great warrior and even the King of Aquilonia. No man is stronger, and the giant man uses his strength and his cunning to improve his lot in the hard world. He speaks many languages and is a born leader, with a humor and wit streaked with "grim" irony. 
 
@@ -56,9 +54,9 @@ Born the son of a blacksmith, he eventually becomes a great warrior and even the
 
 There are a great many gods worshiped by the many cultures of the Hyborian Age. They are at war with each other, just like the [gods of Terros.][Terror] These wars take form through their followers and through direct intervention by the gods, to destroy the territories of the followers of rival gods.
 
-The major gods of the Hyborian Age were a mix of mythical ancestors such as [Crom for the Cimmerians][Crom] and Bori for the Hyperboreans, figures of sacrifices, and evil demons and snake gods. This is linked to the ancient gods of the Nordics and/or the Celtics by geography and rituals. Crom is seen to judge warriors before they are allowed into Valhalla.
+The major gods of the Hyborian Age were a mix of mythical ancestors such as [Crom for the Cimmerians][Crom] and Bori for the Hyperboreans, figures of sacrifices, and evil demons and snake gods. This is linked to the ancient gods of the Nordics and/or the Celtics by geography and rituals. Crom is seen to judge warriors before they are allowed into Valhalla in later stories.
 
-In the major kingdoms of Aquilonia, Argos, Nemedia, and Zingara were [Mitra and][Mitra] [Father Set][Set]. Mitra is worshiped as a cross between a Christ-figure and Mitra/Mithras of the Zoroastrian and Vedic, and later Roman, mythos. Mitra even speaks directly to a love interest of Conan's to help her and him defeat their enemies and lead Conan to become King of Aquilonia. Notably, there are no blood sacrifices to Mitra, and his adherents spread his religion to other lands at great personal peril.
+In the major kingdoms of Aquilonia, Argos, Nemedia, and Zingara were [Mitra][Mitr] and [Father Set][Set]. The diety called Mitra is worshiped as a cross between a Christ-figure and Mitra/Mithras of the Zoroastrian and Vedic, and later Roman, mythos. Mitra even speaks directly to a love interest of Conan's to help her and him defeat their enemies and lead Conan to become King of Aquilonia. Notably, there are no blood sacrifices to Mitra, and his adherents spread his religion to other lands at great personal peril.
 
 Father Set is a seven-headed snake god, mainly worshiped in the dark lands of the Stygians. His dark followers offer Set human sacrifices ["and sorcerous obscenities"][Worship]. In previous ages (discussed below), Set created a race of Serpent Men to serve him, but they were defeated by humans and disappeared. Even so, his worship continues and was even featured in the first Conan movie.
 
@@ -67,6 +65,11 @@ Father Set is identified with the [Great Old One Yig][Yig], and was either direc
 ### Naga the Sea Snake
 
 In the Marvel Comics version of the Conan universe, there is a [sea man/snake god known as Naga][Naga]. First published in 1969, Naga is the ruler of the *Homo mermanus* or water-breathing merpeople who live in the remains of Lemuria, which had sunk into the sea before the Hyborian Age. He finds in the ancient ruins of Lemuria the ancient Serpent Crown of the followers of Set. Through this crown, Set controls Naga though he has been banished to another dimension. Nageis transformed into a snake-like merman, with green, scaly skin instead of the blue skin common to the merpeople. Naga gains immortality and control over his people, whom he converts to the worship of Set. Naga's people become green in color and also have scales.
+
+The idea of the *Nāga* is an ancient one that dates back even to the Mahabharata of India, but the best story of the *Nāga* is from Cambodia:
+
+> In a Cambodian legend, the nāga were a reptilian race of beings under the King Kaliya who possessed a large empire or kingdom in the Pacific Ocean region until they were chased away by the Garuda and sought refuge in India. It was here Kaliya's daughter married an Indian Brahmana named Kaundinya, and from their union sprang the Cambodian people. Therefore, Cambodians possess a slogan "Born from the naga". As a dowry, Kaliya drank up the water that covered the country and exposed the land for his daughter and son-in-law to inhabit [and thus, Cambodia was created][Cam].
+
 
 ### Other Gods
  
@@ -99,13 +102,11 @@ Howard wrote other stories that were similiarly set in a familiar fantasy settin
 
 The [Thurian Age][Thurian] was set in the epoch before the cataclysm that destroy Atlantis and Lemuria. It is, like A Song of Ice and Fire, a mixture of a fantasy Iron Age setting with Lovecraftian gods. Kull, an Atlantean barbarian, is one of the main heroes of the stories. 
 
-Thuria is the dominant continent, home of the "Seven Empires"
-
-There are six kingdoms in the Thurian Age: Commoria, Grondar, Kamelia, Thule and Valusia. Interestingly, there is a seventh, unnamed kingdom, which, together with the six known kingdoms, form the "Seven Empires".
+Thuria is the dominant continent, home of the "Seven Empires". There are six kingdoms in the Thurian Age: Commoria, Grondar, Kamelia, Thule and Valusia. Together with a seventh, unnamed kingdom, these kingdoms form the "Seven Empires".
 
 There were three main tribes of "barbarian" men: Atlantis, Lemuria, and the Pictish Islands. Each represents an area in the "real" world, and the current inhabitants of those regions are the descendents of these ancient peoples. 
 
-The Atlanteans, based mainly on a small island to the west of Thuria, have colonies on Thuria. Lemuria is a large island chain east of Thuria.
+The Atlanteans, based mainly on a small continent to the west of Thuria, have colonies on Thuria. Lemuria is a large island chain east of Thuria.
 
  
 [Valusia][Serpent] was founded and ruled initially by the Serpent Men. Finally overthrown by their human slaves, the Serpent Men tried to regain rule for centuries but were finally defeated by Kull the barbarian.
@@ -123,7 +124,7 @@ As mentioned above, marking the end of the Thurian Age was a great cataclysm tha
 
 ### Basis of the Thurian Age Cataclysms
 
-The Kull stories in the Thurian Age reflect many of the lost continent theories that were popular in the early 20th century. Tales of Atlantis were ancient, certainly, and the loss of its fabled civilization has been discussed for centureis. Lemuria is a later invention, a lost continent that was used to explain the presense of primates (especially the Lemurs of Madagascar) on continent far apart. 
+The Kull stories in the Thurian Age reflect many of the lost continent theories that were popular in the early 20th century. Tales of Atlantis were ancient, certainly, and the loss of its fabled civilization has been discussed for centureis. Lemuria is a later invention of early paleo-biology, a lost continent used to explain the presense of primates (especially the Lemurs of Madagascar) on continent far apart. 
 
 
 
@@ -133,26 +134,26 @@ The Kull stories in the Thurian Age reflect many of the lost continent theories 
 
 ##Bran Mak Morn
 
-Howard's King of the Picts, [Bran Mak Morn][Mak], was written about in 5 of his stories. Stories of the Picts overlapped with the Thurian Age and Hyborian Age stories, but the Bran Mak Morn stories borrow more from the "real" world. Throughout all of the stories, the Picts are seen as analogous to the Native Americans as well as ancient Celtic tribes. They are given the role of the noble savage, who lost technological know how with the fall of Atlantis. In some of the stories, the Picts are closer to a cave-man archetype than the noble savage. 
-
-They are based on the somewhat mysterious Picts of ancient Ireland and Britain, as well as the Native Americans. Their priests are known to burn people alive, a desire born of a twisted revenge mindset that takes place after they are driven from their original lands to the current Pictish territories.
+Howard's King of the Picts, [Bran Mak Morn][Mak], was written about in 5 of his stories. Stories of the Picts overlapped with the Thurian Age and Hyborian Age stories, but the Bran Mak Morn stories borrow more from the "real" world. Throughout all of the stories, the Picts are seen as analogous to the Native Americans as well as ancient Celtic tribes. They are given the role of the noble savage, who lost technological know how with the fall of Atlantis. In some of the stories, the Picts are closer to a cave-man archetype than the noble savage. Their priests are known to burn people alive, a desire born of a twisted revenge mindset that takes place after they are driven from their original lands to the current Pictish territories.
 
 **Notably, many Pictish warriors are werewolves.** They could change into wolves of their own free will.
 
-Bran Mak Morn is a Pict but is less savage than his peers. He desires a peace with the other tribes of Briton, to create an alliance against the invading Romans. His name derives from *Brennus* (the Gaul who sacked Rome) and from the Brittonic word meaning "Raven."
+Bran Mak Morn is a Pict but is less savage than his peers. He desires a peace with the other tribes of Briton, to create an alliance against the invading Romans. His name derives from *Brennus* (the Gaul who sacked Rome) and **from the Brittonic word meaning "Raven."**
 
 Mentions of Lovecraftian gods and locations are included throughout the Bran Mak Morn stories, and Lovecraft himself references Bran Mak Morn in *The Whispers in the Darkness*.
 
 
 # Other stories in the *Swords and Sorcery* anthology
 
-L. Sprague de Camp's *Swords and Sorcery* contained other stories that are even more deeply involved in the Cthulhu Mythos. Clark Aston Smith's "The Testament of Athammaus", set in fabled Hyberborea and concerning the outlaw Knygathin Zhaum. *The Doom that Came to Sarnath*, by HPL himself, describes the return of a Great Old One and the doom that commenced. CL Moore, one of the first women writing fantasy at the time, contributed ["Hellsgarde"][Hells]. While other early fantasy writers such as Poal Anderson and Lord Dunsany made strong impressions, the contributions by Lovecraft, Smith and Howard opened the door to the Cthulhu Mythos.
+L. Sprague de Camp's *Swords and Sorcery* contained other stories that are even more deeply involved in the Cthulhu Mythos. Clark Aston Smith's "The Testament of Athammaus", set in fabled Hyberborea and concerning the outlaw Knygathin Zhaum. *The Doom that Came to Sarnath*, by HPL himself, describes the return of a Great Old One and the doom that commenced. C.L. Moore, one of the first women writing fantasy at the time, contributed ["Hellsgarde"][Hells]. While other early fantasy writers such as Poal Anderson and Lord Dunsany made strong impressions, the contributions by Lovecraft, Smith and Howard opened the door to the Cthulhu Mythos.
 
 ## Hyberborean Cycle
 
 Clark Aston Smith's collections of Mythos stories are known collectively as the Hyperborean Cycle. With a solid Mythos universe background, Smith expanded the universe greatly to include important Great Old Ones such as Tsathoggua. Like the stories of Conan, they also portray an Iron Age setting with layers of cosmic horror. In the continent of Hyperborea, terrible gods demand blood sacrifices and prey on humans.
 
-Right there in *Swords and Sorcery*, that first fantasy collection, was one of the Hyberborean stories: [*The Testimony of Athammaus*][Testy]. It concerned the city of Commoriom, the capital of Hyberborea. An evil, outlaw descendent of Tsathoggua and a snake god is found and beheaded, only to return again and take what he desired.
+Right there in *Swords and Sorcery*, that first fantasy collection, was one of the Hyberborean stories: [*The Testimony of Athammaus*][Testy]. It concerned the city of Commoriom, the capital of Hyberborea. An evil, outlaw descendent of Tsathoggua and a snake god is found and beheaded, only to return again and take what he desired. Eventually, due to the evil of the outlaw Knygathin Zhaum, Commoriom must be abandoned.
+
+### Other Humanoids
 
 In Smith's writings, he details two other humanoid peoples that have fought against humans in the past: the Voormi and the Gnophkeh. 
 
@@ -178,7 +179,7 @@ That night, something terrible happened. The next morning, the idol was gone, an
 
 Ten centuries later, the civilization of Sarnath is at its height. To celebrate the conquering of Ib, one thousand years previous, the king of Sarnath has a grand celebration. Giant lake fish was served on plates inlayed with rubies and diamonds. Caravans of princes came from far and near to celebrate the glory of Sarnath.
 
-But strange shadows came down from the moon, and a green mist hovered over the lake. The foreign princes were allowed to escape, and as they left madness showed on each shocked face. The doom had come to Sarnath.
+But strange shadows came down from the moon, and a green mist hovered over the lake. The foreign princes were allowed to escape, and as they left madness showed on each shocked face. A terrible and ancient being had returned to Sarnath. Did Bokrug come from another dimension or from the bottom of the lake - or both?
 
 Sarnath was subsumed by the nameless lake, and the King of Sarnath and feasters were turned into people with green skin and bulging eyes. The idol of Bokrug, thought forever lost, appeared again along the lake. These transformed residents of Sarnath, resembling the original inhabitants of Ib, began to worship Bokrug, the giant water lizard. The doom, long promised to Sarnath, had come.
 
@@ -218,10 +219,10 @@ This is an interesting inclusion by George, and it makes me think that there cou
 
 ### The Gnophkeh and the Voormi
 
-While the Voormi change in description from their early appearances in the Clark Aston Smith stories, their form in the Lin Carter stories resembles the Children of the Forest: three-toed and umber-colored. However, this is not a strong connection, though their residence in the cave system of the Eiglophian mountains reminds me strongly of the Children (the Children also have some similarities to the Picts of the Mythos).
+While the Voormi change in description from their early appearances in the Clark Aston Smith stories, their form in the Lin Carter stories resembles the Children of the Forest: three-toed, fur-covered, and umber-colored. However, this itself is not a strong connection, though their residence in the cave system of the Eiglophian mountains reminds me strongly of the Children (the Children also have some similarities to the Picts of the Mythos). The Voormis sound more like mole people than the Children do. The Children do have some of the elements of the mythical Picts of the Thurian and Hyborian Ages.
 
 
-The Gnophkeh, on the other hand, are a dead ringer for the [Giants of Westeros][Giant], as described in the World of Ice and Fire. Covered in hair, with large protruding ears and a "proboscidean" noses, the Gnophkeh were hunted by man and forced from their original lands. Similarly, the Giants are covered in hair and have large ears and noses. Hunted by man, they only exist in the far north and are a dying species
+The Gnophkeh, on the other hand, are a dead ringer for the [Giants of Westeros][Giant], as described in the World of Ice and Fire. Covered in hair, with large protruding ears and a "proboscidean" noses, the Gnophkeh were hunted by man and forced from their original lands. Similarly, the Giants are covered in hair and have large ears and noses. Hunted by man, they only exist in the far north and are a dying, nearly mythical species.
 
 
 
@@ -237,11 +238,11 @@ It's easy to sea a relationship between the Hyrkania of Conan and Red Sonja and 
 
 ### Mitra and Mithras
 
-The strong Mithraic symbolism that runs throughout the story arcs of Jon Snow and Bran was influenced by the religon of Mitra in Hyboria. This symbolism is covered in great detail by a favorite writer of mine, [Lucifer Means Lightbringer][LML], and I can't add much more too it. Check it out if you haven't already.
+The strong Mithraic symbolism that runs throughout the story arcs of Jon Snow and Bran was influenced by the religon of Mitra in Hyboria, and of real-world Mithraism. This symbolism is covered in great detail by a favorite writer of mine, [Lucifer Means Lightbringer][LML], and I can't add much more too it. Check it out if you haven't already.
 
 ### The Fisher Queens were Deep Ones or even Giant Water Lizards
 
-The Fisher Queens (who "were favored of the gods", according to Maester Yandel), sound like hybrids of the god Bokrug (the giant water lizard) from the Lovecraft story, "The Doom of Sarnath", and Deep Ones. These Queens were the result of the couplings between the gods and human woman. 
+The Fisher Queens (who "were favored of the gods", according to Maester Yandel), sound like hybrids of the god Bokrug (the giant water lizard) from the Lovecraft story, "The Doom of Sarnath", and Deep Ones. [These Queens might be the result of the couplings between the gods and human woman, like the warrior women of Hyrkoon][Queens]. 
 
 *If Maester Yandel thinks that kings and other heroes visited them for their wise counsel, it makes me suspicious, as do all Citadel-inspired views on these ancient rulers.*
 
@@ -263,7 +264,15 @@ This makes me think that the raising of the dead by the White Walkers has a comp
 
 Throughout these stories there are instances of islands or even whole continents sinking beneath the sea, or rising from it. These cataclysms set the stage for later action and remove whole civilizations and their technological progress from history, making barbarism dominant.
 
-This reminds me greatly of the Hammer of the Waters, as the land bridge to Essos was subsumed by the Narrow Sea, as well as the submersion of the Neck.  
+This reminds me greatly of the Hammer of the Waters, which caused the land bridge from Westeros to Essos to be subsumed by the Narrow Sea, as well as the submersion of the Neck.  
+
+### Naga the Sea Dragon?
+
+The stories of Naga, king of the *Homo mermanus*, remind me so much of the stories of Nagga the Sea Dragon on the Iron Islands, as well as the mythical *Nāga* of East Asia lore. The *Nāga* is a snake that can be a human or marry one to produce a people from a land that used to be under the sea.
+
+The fact that Naga was a selkie or merman is very telling about the origins of the Ironborn. They are not just worshipers of the Drowned God - they might be his descendents, much like the Cambodians. Did a nāga drink up water to expose the land for its people? Or try to drown the land somehow?
+
+I also wonder if the *Nāga* and Nagga the Sea Dragon are related to the idea of the [Uktena, the Horned Serpent.][Ukt] In my theory [The Dead Direwolf][Dire], I suppose that the direwolf mother that died in Bran I of Game of Thrones was not killed by a stag, but was instead killed by a uktena, which can turn into a man, and that there is a relationship to Garth the Green, who was a green-horned man like the greenmen of the Isle of Faces. Check it out, it's a fun read.
 
 ### Sothoryos and the Yog-Sothoth
 
@@ -275,9 +284,11 @@ George is using Sothoryos as a literary Africa, where these fantastic beings and
 
 The King of the Picts, Bran Mak Morn, has some deep influences on the character of Bran Stark, even beyond the name. The ability of the Picts to turn into wolves is one strong connection, and the psuedo-historical relationship of the Picts to real ancient Britons, especially as they resisted the Roman invaders, reminds me strongly of the First Men of the North. Overall, the joy that Howard took in writing about the Picts and Bran Mak Morn should be counted as a powerful influence on readers like George. 
 
+
+
 ## The Gods of Terros are Eldritch Deities
 
-The Gods of Terros, worshiped by the people of Terros in its various religions, are all based on the terrible gods of the Cthulhu Mythos known as the The Great Old Ones. All, of course, except for the [Old Gods of the Forest][Old Gods]. They will be approached in an upcoming essay, which will discuss the role of August Derleth and L. Sprague de Camp in furthering the work of Lovecraft, and in introducing the idea of a war between the Great Old Ones and the [Elder Gods][Elders].
+The Gods of Terros, worshiped by the people of Terros in its various religions, are all based on the terrible gods of the Cthulhu Mythos known as the The Great Old Ones. All, of course, **except for the [Old Gods of the Forest][Old Gods]**. They will be approached in an upcoming essay, which will discuss the role of August Derleth and L. Sprague de Camp in furthering the work of Lovecraft, and in introducing the idea of a war between the Great Old Ones and the [Elder Gods][Elders].
 
 These eldritch deities are born of cosmic horror, and care little or nothing for the humanoids that worship them. In the current age, these monsters are mostly sleeping (like Cthulhu), or banished to outer space (like Hastur). Only Nyarlathotep roams the Earth, enacting the will of the Great Old Ones and the [Outer Gods][Outer]. But all have their worship, even Tsathoggua, who is worshipped on the Isle of Toads.
 
@@ -289,7 +300,7 @@ George loves the Mythos, and his embrace of it is encoded deeply within A Song o
 
 However, George, like all of the other Mythos writers, uses the shared universe as a starting point, and adds many details to flesh out both the gods and their roles. It's not a paint-by-numbers operation; instead, George has used this set of ideas and characterizations that help guide the stories. 
 
-We can, however, make a lot of use of this background within our theories, as the framework of the Mythos helps to guide our guesses. With this understanding of where George is coming from, we can better understand what George is planning to do with our favorite characters. 
+We can, however, make a lot of use of this background within our theories, as the framework of the Mythos helps to guide our guesses. With this understanding of the deep literary universe that George is both borrowing and expanding, we can better understand what he is planning to do with our favorite characters. 
 
 
 
@@ -310,7 +321,7 @@ We can, however, make a lot of use of this background within our theories, as th
 [Thurian]: https://en.wikipedia.org/wiki/Thurian_Age "Thurian Age"
 [Sarnath]: https://en.wikipedia.org/wiki/The_Doom_that_Came_to_Sarnath "Doom of Sarnath"
 [Serpent]: https://en.wikipedia.org/wiki/Serpent_Men "Serpent Men"
-[Mitra]: https://en.wikipedia.org/wiki/Mitra_(Conan) "Mitra"
+[Mitr]: https://en.wikipedia.org/wiki/Mitra_(Conan) "Mitra"
 [Set]: https://en.wikipedia.org/wiki/Father_Set "Set"
 [LML]: https://lucifermeanslightbringer.com/2016/07/03/lucifer-means-lightbringer-2/ "Lucifer"
 [Worship]: http://hyboria.xoth.net/gods/gods_worship.htm
@@ -335,3 +346,7 @@ We can, however, make a lot of use of this background within our theories, as th
 [Old Gods]: http://gameofthrones.wikia.com/wiki/Old_Gods_of_the_Forest
 [Outer]: http://www.yog-sothoth.com/wiki/index.php/Outer_Gods
 [Elders]: http://www.yog-sothoth.com/wiki/index.php/Elder_God_(Cthulhu_mythos)
+[Queens]: http://godsofterror.tumblr.com/post/148954720381/greatfathers
+[Cam]: https://en.wikipedia.org/wiki/N%C4%81ga
+[Ukt]: https://en.wikipedia.org/wiki/Horned_Serpent
+[Dire]: http://godsofterror.tumblr.com/post/149070919856/the-dead-direwolf
