@@ -338,7 +338,7 @@ We can, however, make a lot of use of this background within our theories, as th
 [Mak]: https://en.wikipedia.org/wiki/Bran_Mak_Morn "Bran Mak Morn"
 [Hells]: http://swordssorcery.blogspot.com/2011/06/hellsgarde-cl-moore.html "CL Moore"
 [Gnophkeh]: https://en.wikipedia.org/wiki/Gnophkeh "Gnophkeh"
-[Ith]: https://en.wikipedia.org/wiki/Ithaqua Ithaqua"
+[Ith]: https://en.wikipedia.org/wiki/Ithaqua "Ithaqua"
 [Rhan]: http://www.yog-sothoth.com/wiki/index.php/Rhan-Tegoth "Rhan-Tegoth"
 [Giant]: http://awoiaf.westeros.org/index.php/Giants "Giants"
 [Zhah]: https://en.wikipedia.org/wiki/Lin_Carter_deities#Aphoom-Zhah "Aphoom-Zhah"
