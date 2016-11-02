@@ -1,23 +1,32 @@
 #Nyarlathotep, the Many-Faced God
 
-In researching the [Lovecraft (Cthulhu) Mythos][Mythos] for the inspirations of the terrible [Gods of Terros][Terror], one name keeps popping up as a central agent of chaos, who appears on Earth to perform the bidding of the [Great Old Ones][Old]: the Crawling Chaos, he of a thousand faces: [Nyarlathotep.][Nyar]
+In researching the [Lovecraft (Cthulhu) Mythos][Mythos] for the inspirations of the terrible [Gods of Terros][Terror], one name keeps popping up as a central agent of chaos, who appears on Earth to perform the bidding of the [Great Old Ones][Old]: the Crawling Chaos, he of a thousand faces: [Nyarlathotep.][Nyar] Who is this mysterious Outer God? Why is he central to the plans of the Outer Gods? Why does he enjoy spreading fear, chaos and terror?
+
+
+In this essay I will argue that the Many-Faced God of the House of Black and White of Braavos is none other than Nyarlathotep. To further the whim of the Outer Gods, who have been banished from Earth, the Faceless God Nyarlathotep roams the world in many forms. His evil aims will become central to the main story of A Song of Ice and Fire in The Winds of Winter, as his avatar mocks both the Gods and humans and bespeaks the end of the world.
 
 ##Nyarlathotep Background
 
-
-Nyarlathotep takes many forms. His true form is horrifying to humans, but he is most frequently encountered as a tall, swarthy man who takes joy in spreading chaos and suffering. In early stories he was encountered as an Egyptian pharoah-like being, who inspires legions of followers with demonstrations of magical and terrible new technologies. 
-Through rich rewards and magical deception, these followers lose awareness of their surroundings as Nyarlathotep, ambassador of the banished Outer Gods, bespeaks the end of the world.
+Developed by HP Lovecraft in
 
 
 ##The God of the Thousand Forms
 
+Nyarlathotep takes many forms. His true form is horrifying to humans, but he is most frequently encountered as a tall, swarthy man who takes joy in spreading chaos and suffering. In early stories he was encountered as an Egyptian pharoah-like being, who inspires legions of followers with demonstrations of magical and terrible new technologies. Through rich rewards and magical deception, these followers lose awareness of their surroundings as Nyarlathotep, ambassador of the banished Outer Gods, spreads despair and terror.
+
+
+
 ###The Sphinx
+
+Nyarlathotep is known as the Sphinx, and loves to tease humans with riddles, much like the mythical Sphinx of ancient Egyptian lore. Having been created by Lovecraft with a psuedo-Egyptian 
 
 ###The Faceless God
 
 ###The Crawling Chaos
 
+##Yhoundeh, the Wife of Nyarlathotep
 
+[The Door to Saturn][Door]
 
 ##Major Appearances in the Mthyos
 
@@ -28,6 +37,8 @@ Through rich rewards and magical deception, these followers lose awareness of th
 ###The Faceless God
 
 ###The Rat in the Walls
+
+###The Whisperer in the Darkness
 
 
 
@@ -48,9 +59,15 @@ Through rich rewards and magical deception, these followers lose awareness of th
 
 ###The Bloodstone Emperor?
 
-###
+
 
 ##The Many-Faced God
+
+###Lion of Night
+
+###The Stranger
+
+###The Black Goat?
 
 ##Little Finger?
 
@@ -60,9 +77,7 @@ Through rich rewards and magical deception, these followers lose awareness of th
 
 # My Conclusions:
 
-Euron is no longer the brother of Aeron and Balon. He has been taken over by the Crawling Chaos, the god of a thousand faces, the rat in the wall, the tall, swarthy pharaoh-like man who brings chaos and wins legions of followers through demonstrations of terrible, magical technology. 
-
-Euron has been taken over by [Nyarlathotep, the Lovecraftian god of terror][Nyar] who invokes on Earth the awful wishes of the sleeping and dreaming Great Old Ones. 
+Euron is no longer the brother of Aeron and Balon. He has been taken over by the Crawling Chaos, the god of a thousand faces, the rat in the wall, the tall, swarthy pharaoh-like man who brings chaos and wins legions of followers through demonstrations of terrible, magical technology. Euron has been taken over by [Nyarlathotep, the Lovecraftian god of terror][Nyar] who invokes on Earth the awful wishes of the sleeping and dreaming Great Old Ones. 
 
 Nyarlathotep, the Faceless God, he of a thousand terrible forms, has been present throughout the stories in many forms - all representing death and despair.
 
@@ -92,3 +107,4 @@ She is describing The Faceless Man, Nyarlathotep, who has become Euron. And its 
 [Nyar]: http://lovecraft.wikia.com/wiki/Nyarlathotep "Lovecraft Nyarlathotep"
 [Nyar2]: https://en.wikipedia.org/wiki/Nyarlathotep "Wikipedia Nyarlathotep"
 [Old]: http://lovecraft.wikia.com/wiki/Great_Old_One "Great Old Ones"
+[Door]: http://www.eldritchdark.com/writings/short-stories/50/the-door-to-saturn "Saturn"
