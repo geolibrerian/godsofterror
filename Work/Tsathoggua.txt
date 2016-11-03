@@ -10,23 +10,23 @@ Using the Cthulhu Mythos as our reference point, we can answer a few of those my
 On the [Isle of Toads][Toads], one of the Basilisk Isles, there are three strange features worth a quick discussion. First, there is the ruins of an ancient civilization on the Isle. Second, the modern humans residents have an ["unpleasant, fishlike aspect to their faces, and many have webbed hands and feet"][Toads]. Third, there is a giant ("40 feet high")  stone statue of a Toad God, [the Toad Stone][Stone], made of greasy black stone (which is probably the same stone used to build Asshai).
 
 
-###Question 1: What was the ancient civilization that left ruins one the Isle?
+###Question 1: What was the ancient civilization that left ruins on the Isle?
 
 I can't answer this with confidence yet, [though I did read a great theory on Westeros.org that links it to a Lovecraftian literary origin][Danny]. But like the history of Asshai, Lorath, Battle Isle, the Seastone Chair, and the Five Forts, I'm unsure about the ancient civilization that created them and why they were abandoned. 
 
 I do have some tinfoil speculation below, however.
 
 
-###Question 2: Who are these people on the Isle of Toads?
+###Question 2: Who are the people on the Isle of Toads?
 
-These are [Deep Ones][Deep], half-human hybrids born on human women that look human and live on land, but transform into Deep Ones as they age, gaining "an unpleasant, fishlike aspect" to their faces and bodies. Their skin turns to scales and their necks develop folds which become gills. Eventually, they transform completely and go to join the other Deep Ones in the underwater cities 
+They are [Deep Ones][Deep], half-human hybrids born on human women that look human and live on land, but transform into Deep Ones as they age, gaining "an unpleasant, fishlike aspect" to their faces and bodies. Their skin turns to scales and their necks develop folds which become gills. Eventually, they transform completely and go to join the other Deep Ones in the underwater cities. 
 
 Here I'll remind you of the squishers of the East Coast of Westeros:
 
 >"They look like men till you get close, but their heads is too big, and they got scales where a proper man’s got hair. Fish-belly white they are, with webs between their fingers. They’re always damp and fishy-smelling, but behind these blubbery lips they got rows of green teeth sharp as needles. Some say the First Men killed them all, but don’t you believe it." - "Nimble" Dick Crabb, **A Feast For Crows**
 
 
-There are Deep Ones in Terros, beyond a doubt. On the Thousand Islands, the people have green, scale-like skin and are *Terrified* of the sea. [They will sacrifice any sailor that they catch to their sea gods.][Isles]
+There are Deep Ones in Terros, beyond a doubt. On the Thousand Islands, [the people have green, scale-like skin][Skin] and are *terrified* of the sea. [They will sacrifice any sailor that they catch to their sea gods.][Isles]
 
 The Sister Isles and their "mark" also suggests Deep One ancestry: 
 
@@ -42,7 +42,7 @@ The description of Biter fits exactly within the Deep One themes:
 
 >Biter is enormous and bald, with soft, doughy flesh. His tongue had been cut and he does not speak, except to hiss. His teeth have been [filed into points.][Biter]
  
-He is controlled by Rorge, the other prisoner of the Black Cells set free with Jaqen H'aghar. Not coindientally, his description matches that of a man of Ib (which is itself a [Lovecraft Deep Ones reference][Ib]):
+He is controlled by Rorge, the other prisoner of the Black Cells set free with Jaqen H'aghar. Not coincidentally, his description matches that of a man of Ib (which is itself a [Lovecraft Deep Ones reference][Ib] ):
 
 >Rorge is described as squat, bulky, and hairy, with black hair covering most of his body. He is also described as thick and powerful. He is missing his nose, and the nasal bar of his iron half-helm does not completely [conceal the hole.][Rorge]
 
@@ -64,7 +64,7 @@ In the Cthulhu Mythos, there is ancient being known as Tsathoggua (probably pron
 
 [One of the backstories of Tsathoggua][Tsa] is that he used to live on the contient of Hyperborea and dwelled deep under a mountain range (Mount Voormithadreth) and was worshipped by the [Voormis][Voormi] (who are Children of the Forest-like humanoids of the Mythos). However, Hyperborea iced over, and he left to go inhabit a lightless cavern in N'kai, deep below the earth. 
 
-[The Serpent Men] of Yoth, who fled after the destruction of Valusia, brought up idols of Tsathoggua from N'kai and abandoned the snake god Yig. Yoth was then destroyed, and only ruins remain, as Yig in his wrath cursed his former worshippers.
+[The Serpent Men][Serpent] of Yoth, who fled after the destruction of Valusia, brought up idols of Tsathoggua from N'kai and abandoned the snake god Yig. Yoth was then destroyed, and only ruins remain, as Yig in his wrath cursed his former worshippers.
 
 
 
@@ -124,7 +124,7 @@ Here are some links to my other essays in the [Gods of Terror series][Gods], in 
 [And if you want to know more about the rich history of the Cthulhu Mythos and its influence on GRRM, read this essay.](http://godsofterror.tumblr.com/post/150719428836/drink-from-the-deep-well)
 
 
-
+Edits: Spelling, links
 
 [Danny]: http://asoiaf.westeros.org/index.php?/topic/131493-a-song-of-air-and-water-the-first-long-night-cthulhu-vs-hastur/
 [Deep]: https://en.wikipedia.org/wiki/Deep_One
@@ -136,7 +136,7 @@ Here are some links to my other essays in the [Gods of Terror series][Gods], in 
 [Biter]: http://awoiaf.westeros.org/index.php/Biter
 [Rorge]: http://awoiaf.westeros.org/index.php/Rorge
 [Ibb]: http://awoiaf.westeros.org/index.php/Ibbenese
-[Ib] : https://en.wikipedia.org/wiki/The_Doom_that_Came_to_Sarnath
+[Ib]: https://en.wikipedia.org/wiki/The_Doom_that_Came_to_Sarnath
 [Mound]: http://www.hplovecraft.com/writings/texts/fiction/mo.aspx
 [Tsa]: https://en.wikipedia.org/wiki/Tsathoggua
 [Voormi]: https://en.wikipedia.org/wiki/Voormis
@@ -146,3 +146,4 @@ Here are some links to my other essays in the [Gods of Terror series][Gods], in 
 [Point]: http://awoiaf.westeros.org/index.php/Basilisk_Point
 [Gods]: http://godsofterror.tumblr.com
 [Isles]: http://awoiaf.westeros.org/index.php/Thousand_Islands
+[Skin]: http://awoiaf.westeros.org/index.php/File:Thousand_islander.png
