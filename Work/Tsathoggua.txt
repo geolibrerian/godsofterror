@@ -1,0 +1,143 @@
+#Tsathoggua and the Isle of Toads
+
+###Lovecraft references in TWOIAF
+
+The World of Ice and Fire fleshes out both the history and the geography of Terros*, the world of A Song of Ice and Fire. In doing so, the multiple Lovecraft or Cthulhu Mythos references are not just small details that fill in the background. Instead, they provide clues about the nature of the Gods of Terros, and the future of the story.
+
+Using the Cthulhu Mythos as our reference point, we can answer a few of those mysteries that surround the main story. 
+
+##Isle of Toads
+On the [Isle of Toads][Toads], one of the Basilisk Isles, there are three strange features worth a quick discussion. First, there is the ruins of an ancient civilization on the Isle. Second, the modern humans residents have an ["unpleasant, fishlike aspect to their faces, and many have webbed hands and feet"][Toads]. Third, there is a giant ("40 feet high")  stone statue of a Toad God, [the Toad Stone][Stone], made of greasy black stone.
+
+
+###Question 1: What was the ancient civilization?
+
+I can't answer this with confidence yet, [though I did read a great theory on Westeros.org that links it to a Lovecraftian literary origin][Danny]. But like the history of Asshai, Lorath, Battle Isle, the Seastone Chair, and the Five Forts, I'm unsure about the ancient civilization that created them and why they were abandoned.
+
+
+###Question 2: Who are these people on the Isle of Toads?
+
+These are [Deep Ones][Deep], half-human hybrids born on human women that look human and live on land, but transform into Deep Ones as they age, gaining "an unpleasant, fishlike aspect" to their faces and bodies. Their skin turns to scales and their necks develop folds which become gills. Eventually, they transform completely and go to join the other Deep Ones in the underwater cities 
+
+Here I'll remind you of the squishers of the East Coast of Westeros:
+
+>"They look like men till you get close, but their heads is too big, and they got scales where a proper man’s got hair. Fish-belly white they are, with webs between their fingers. They’re always damp and fishy-smelling, but behind these blubbery lips they got rows of green teeth sharp as needles. Some say the First Men killed them all, but don’t you believe it." - "Nimble" Dick Crabb, **A Feast For Crows**
+
+
+There are Deep Ones in Terros, beyond a doubt. On the Thousand Isles, the people have green, scale-like skin and are *Terrified* of the sea. They will sacrifice any sailor that they catch to their sea gods.
+
+The Sister Isles and their "mark" also suggests Deep One ancestry: 
+
+>Godric is a big, fleshy, ugly man with massive shoulders. Coarse white hair grows from his cheeks and chin. He is bald on the top of his scalp, with a lumpy red-veined nose and webbing between [his three middle fingers.][Borell] 
+
+
+Also, there is a ton of references to Deep Ones ancestry for the Iron Isles. [Dagon, the Lovecraft Fish God][Dagon], is an ancestral name on the Isles. In the Cthulhu Mythos, the Deep Ones worship Dagon as well as the Great Cthulhu.Also, the priests of the Drowned God religion declare that they [originated from Merlings][Iron], and not the nebulous "First Men" as decreed by the Citadel.
+
+
+Finally, there is one other character who is straight up a Deep One hybrid of some sort: [Biter.][Biter] You see, not only do Deep Ones rape human women to produce half-human hybrids, they also eat humans. And that is Biter's disgusting specialty. I think he is a not fully transformed Deep One, some sort of hybrid squisher/human.
+
+The description of Biter fits exactly within the Deep One themes:
+
+>Biter is enormous and bald, with soft, doughy flesh. His tongue had been cut and he does not speak, except to hiss. His teeth have been [filed into points.][Biter]
+ 
+He is controlled by Rorge, the other prisoner of the Black Cells set free with Jaqen H'aghar. Not coindientally, his description matches that of a man of Ib (which is itself a [Lovecraft Deep Ones reference][Ib]):
+
+>Rorge is described as squat, bulky, and hairy, with black hair covering most of his body. He is also described as thick and powerful. He is missing his nose, and the nasal bar of his iron half-helm does not completely [conceal the hole.][Rorge]
+
+>The Ibbenese are usually described as [hairy and squat, with rasping voices.][Ibb]
+
+So we have Deep Ones and their hybrids running around all over the place on Terros, and not just in the far-flung places: right in the middle of the story, even, in the form of some of the Brave Companions. And I also don't think it's a coincidence that we see Rorge and Biter with Jaqar H'ghar, who is nominally from Lorath, where there is a lot of evidence of Deep One activity.
+
+
+
+###Question 3: What is The Toad Stone, and who is the Toad God?
+
+Now that we have established that there are Deep Ones all around, and that the inhabitants on the Isle of Toads are Deep Ones (or are on their way to becoming Deep Ones), the last question can be answered: the Toad God is Tsathoggua.
+
+In the Cthulhu Mythos, there is ancient being known as Tsathoggua (probably pronounced Sith-AGUA), that takes the form of a toad-like being on Earth. Often, he is worshipped through stone toad idols: 
+
+>"This was a squat, plain temple of basalt blocks without a single carving, and containing only a vacant onyx pedestal… It has been built in imitation of certain temples depicted in the vaults of Zin, to house a very terrible black toad-idol found in the red-litten world and called Tsathoggua in the Yothic manuscripts. It had been a potent and widely worshipped god, and after its adoption by the people of K'n-yan had lent its name to the city which was later to become dominant in that region. Yothic legend said that it had come from a mysterious inner realm beneath the red-litten world—a black realm of peculiar-sensed beings which had no light at all, but which had had great civilizations and mighty gods before ever the reptilian quadrupeds of Yoth had come into being."
+—[H. P. Lovecraft and Zealia Bishop, "The Mound"][Mound]
+
+
+[One of the backstories of Tsathoggua][Tsa] is that he used to live on the contient of Hyperborea and dwelled deep under a mountain range (Mount Voormithadreth) and was worshipped by the [Voormis][Voormi] (who are Children of the Forest-like humanoids of the Mythos). However, Hyperborea iced over, and he left to go inhabit a lightless cavern in N'kai, deep below the earth. 
+
+[The Serpent Men] of Yoth, who fled after the destruction of Valusia, brought up idols of Tsathoggua from N'kai and abandoned the snake god Yig. Yoth was then destroyed, and only ruins remain, as Yig in his wrath cursed his former worshippers.
+
+
+
+###Creation of Tsathoggua
+Tsathoggua was created by Clark Aston Smith, but all of the writers contributing to the Mythos used the Toad God as a major presence in many of their stories, including an enthusiastic Lovecraft himself. But Smith depicted Tsathoggua as more of a toad/bat cross, while Lovecraft preferred to focus on just the toad-like aspects of the god.
+
+
+
+
+##Why is Tsathoggua's idol on the Isle of Toads?
+
+Short answer: I don't know.
+
+Longer answer: I think it has to do with the story of the Serpent Men. We know from the World of Ice and Fire that there were people who worshipped a serpent god (probably [Yig][Yi]) and fought a war with the acolytes of a spider goddess (probably [Atlach-Nacha][Nacha]) in Essos in the ancient past. Perhaps they had to escape the destruction of Lyber, and all their other lands, when the conquests of the *Tagaez Fen* or Tall Men (also called the Sarnori) destroyed their civilization.
+
+You'll note that the Isle of Toads are part of the Basilisk Isles, and basilisks are a fierce reptile that used to be all over the Isles. It is also stated that there used to be basilisks on Sothoryos, but now they are contained on [Basilisk Point][Point]. And it is hinted that there were lizard men on Sothoryos as well:
+
+>Some say that there were other races here once-- forgotten peoples destroyed, devoured, or driven out by the Brindled Men. Tales of **lizard men, lost cities**, and eyeless cave-dwellers are commonplace. No proof exists for any of these.
+- Sothoryos, *The World of Ice and Fire*
+
+Speculation: Yeen was established by the Serpent/Lizard Men of Sothoryos after they fled the destruction of their homeland by the Sarnori. But after they brought up the idol of Tsathoggua from the depths of Terros, and began to worship the Toad God instead of Yig the Serpent God, the curse of Yig destroyed the civilization of the Serpent Men. They were either driven underground, or turned into basilisks by Yig.
+
+
+##Conclusion:
+
+The Toad Stone on the Isle of Toads is an idol of Tsathoggua, of the Cthulhu Mythos.
+
+
+
+
+
+
+
+
+###*Planetos fans: I just like Terros better. 
+
+
+
+
+
+##Further Reading:
+
+Here are some links to my other essays in the [Gods of Terror series][Gods], in which I describe more about the deep influence of Lovecraft on A Song of Ice and Fire:
+
+
+[If you want to read my essays chronologically, start here](http://godsofterror.tumblr.com/tagged/godsofterror/chrono)
+
+
+[If you want to read about who I think the Great Other is, go here.](http://godsofterror.tumblr.com/post/149781359711/magnum-innominandum)
+
+[If you want to know why House Royce has an armor covered in runes, go here](http://godsofterror.tumblr.com/post/149349208006/runes-etched-in-bronze)
+
+[If you want evidence of the return of the Deep Ones, go here](http://godsofterror.tumblr.com/post/149201306181/return-of-the-deep-ones)
+
+[And if you want to know more about the rich history of the Cthulhu Mythos and its influence on GRRM, read this essay.](http://godsofterror.tumblr.com/post/150719428836/drink-from-the-deep-well)
+
+
+
+
+[Danny]: http://asoiaf.westeros.org/index.php?/topic/131493-a-song-of-air-and-water-the-first-long-night-cthulhu-vs-hastur/
+[Deep]: https://en.wikipedia.org/wiki/Deep_One
+[Toads]: http://awoiaf.westeros.org/index.php/Isle_of_Toads
+[Stone]: http://awoiaf.westeros.org/index.php/Toad_Stone
+[Borell]: http://awoiaf.westeros.org/index.php/Godric_Borrell
+[Iron]: http://awoiaf.westeros.org/index.php/Iron_Islands
+[Dagon]: https://en.wikipedia.org/wiki/Dagon_(short_story)
+[Biter]: http://awoiaf.westeros.org/index.php/Biter
+[Rorge]: http://awoiaf.westeros.org/index.php/Rorge
+[Ibb]: http://awoiaf.westeros.org/index.php/Ibbenese
+[Ib] : https://en.wikipedia.org/wiki/The_Doom_that_Came_to_Sarnath
+[Mound]: http://www.hplovecraft.com/writings/texts/fiction/mo.aspx
+[Tsa]: https://en.wikipedia.org/wiki/Tsathoggua
+[Voormi]: https://en.wikipedia.org/wiki/Voormis
+[Serpent]: https://en.wikipedia.org/wiki/Serpent_Men#Cthulhu_Mythos
+[Nacha]: https://en.wikipedia.org/wiki/Clark_Ashton_Smith_deities#Atlach-Nacha
+[Yi]: https://en.wikipedia.org/wiki/Yig
+[Point]: http://awoiaf.westeros.org/index.php/Basilisk_Point
+[Gods]: http://godsofterror.tumblr.com
