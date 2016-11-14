@@ -21,6 +21,10 @@ Let's review some of the forms and roles he fulfills in the Cthulhu Mythos.
 
 Nyarlathotep is known as the Sphinx, and loves to tease humans with riddles, much like the mythical Sphinx of ancient Egyptian lore. Having been created by Lovecraft with a psuedo-Egyptian name ("-thotep" being an Egyptian honorific meaning "honored"), the reference to the mysterious Sphinx, also without a face, was unavoidable.
 
+##The Faceless God
+
+>It was the eldritch scurrying of those fiend-born rats, always questing for new horrors, and determined to lead me on even unto those grinning caverns of earth’s centre where Nyarlathotep, the mad faceless god, howls blindly to the piping of two amorphous idiot flute-players.
+- HP Lovecraft, ["The Rats in the Walls"][Rats]
 
 One story concerning Nyarlathotep is called *The Faceless God*. Written by Robert Bloch in 1933, this avatar of Nyarlathotep took the form of a faceless sphinx idol, buried in the Egyptian desert and uncovered by a rithless archaeologist. The idol, made of a curious black stone, inspires great fear in the native Egpytians hired to uncover and haul the idol. They desert the corrupt archaeologist to his doom that very night, and the sphinx comes alive to hunt him down.
   
@@ -98,7 +102,7 @@ The Black Goat, then, may not be one of Nyarlathotep's forms, but he is definite
 
 ##Little Finger?
 
-The emphasis on causing chaos, and his background in Braavos where they worship the Many-Faced God, makes me suspect that  Petyr Baelish might be some form of Nyarlathotep, but in the end I don't think he fits the archetype. He's just a scheming man (though no ordinary schemer, to be sure), and not a god intent on the destruction of humanity.
+The emphasis on causing chaos, and his background in Braavos where they worship the Many-Faced God among other gods, makes me suspect that  Petyr Baelish might be some form of Nyarlathotep, but in the end I don't think he fits the archetype. He's just a scheming man (though no ordinary schemer, to be sure), and not a god intent on the destruction of humanity.
 
 However, I do wonder exactly which gods Varys is referencing in [this quote from Arya III][Arya]:
 
@@ -111,13 +115,15 @@ Given that it hasn't been established exactly which gods Varys prays to, and the
 
 Who in the story is the seed of evil, the spreader of chaos and lies, who tricks men into following him to their doom using strange instruments of glass and metal? Who sees himself as both better than humans and the gods, but is performing the will of the gods at the same time using blood rituals?
 
-It's Euron. He has returned from his banishment, but he is not fully human anymore, if he ever was. And he is here to torture, to kill, to drive men mad:
+It's Euron. He has returned from his banishment, but he is not fully human anymore, if he ever was. And he is here to torture, to kill, to drive men mad, as we see when he is alone with Aeron in The Winds of Winter sample chapter.
 
->Last were two warlocks of the east, with flesh as white as mushrooms, and lips the purplish­-blue of a bad bruise, all so gaunt and starved that only skin and bones remained. One had lost his legs. The mutes hung him from a rafter. “Pree,” he cried as he swung back and forth. “Pree, Pree!”
+
 
 ##Moroqqo
 
-This is my choice for a second avatar of Nyarlathotep. His description is very close to the Dark Man or Black Man of the Witch Cults version of Nyarlathotep.
+This is my choice for a second avatar of Nyarlathotep. His description is very close to the Dark Man or Black Man of the Witch Cults version of Nyarlathotep, the Nephren-Ka 
+
+hen he joins 
 
 ##Randall Flagg (Stephen King)
 
@@ -154,13 +160,15 @@ Nyarlathotep loves to drive men mad, using chaos and fear to destroy the minds o
 
 > Unlike the other Outer Gods, spreading madness is more important and enjoyable than death and destruction to [Nyarlathotep.][Nyar]
 
-His treatment of the 4 warlocks is a good example of this ability to spread madness. He kills one of them and feeds it to the others, to show that he meant business, and then chained them up. In "The Forsaken", we see what's left of Pyat Pree: a  
+His treatment of the 4 warlocks is a good example of this ability to spread madness. He kills one of them and feeds it to the others, to show that he meant business, and then chained them up. In "The Forsaken", we see what's left of Pyat Pree: a man without legs, who has clearly been driven mad:  
 
+>Last were two warlocks of the east, with flesh as white as mushrooms, and lips the purplish­-blue of a bad bruise, all so gaunt and starved that only skin and bones remained. One had lost his legs. The mutes hung him from a rafter. “Pree,” he cried as he swung back and forth. “Pree, Pree!”
 
-
-But his ultimate goal is not just to drive men mad and to spread chaos and fear. He is the harbinger of doom, Death, the Lion of Night. He is here to remake the world again, and to wake the Drowned God and make war on the Lord of Light and the Storm God.
+But his ultimate goal is not just to drive men mad and to spread chaos and fear. He is the harbinger of doom, Death, the Lion of Night. He is here to remake the world again, and to wake the Drowned God and make war on the Lord of Light, the Storm God, and the .
 
 ##Oldtown and the Hightowers
+
+The first goal of Euron is the taking of Oldtown. I have long suspected that the Hightowers of oldtown, that ancient family that traces back to Uthar Hightower and Maris the Maid, were involved in worship of the Outer Gods. It should come as no surprise to learn that the Cthulhu Mythos diety 
 
 ##The Citadel
 
@@ -172,7 +180,9 @@ The followers of the Lord of Light hate the followers of the Norvoshi religion a
 
 Importantly, the enmity between the followers of R'hllor and these other religions represent the greater war between the Gods of Terros. I don't say this lightly; I've devoted a ton of time over the last few years trying to understand what is really going on in Westeros and Essos and Sothoryos and Leng and beyond; this [Tumblr is the result][Terror]. But this was all building to this point: that these gods are not make-believe, but are instead powerful beings beyond the understanding of humans, that are at war with each other.
 
-Instead, we see the war between Cthulhu and Hastur in the hatred of the Ironborn for the Storm God; and the battles at Storm's End between Durran Godsgrief and the Storm God. We see the death cult of the Many-Faced God arise in Valyria as Nyarlathotep battles Cthugha.
+Instead, we see the war between Cthulhu and Hastur in the hatred of the Ironborn for the Storm God; and the battles at Storm's End between Durran Godsgrief and the Storm God. We see the death cult of the Many-Faced God arise in Valyria as Nyarlathotep battles Cthugha, which I believe resulted in the Doom of Valyria and will cover later.
+
+
 
 
 
@@ -203,3 +213,5 @@ Instead, we see the war between Cthulhu and Hastur in the hatred of the Ironborn
 [Mound]: http://www.hplovecraft.com/writings/texts/fiction/mo.aspx "The Mound"
 [Arya]: http://awoiaf.westeros.org/index.php/A_Game_of_Thrones-Chapter_32
 [Ones]: http://lovecraft.wikia.com/wiki/Outer_God "Ones"
+[Rats]: http://www.hplovecraft.com/writings/texts/fiction/rw.aspx "Rats"
+[Nephren]: http://lovecraft.wikia.com/wiki/Nephren-Ka "Nephren-Ka"
