@@ -1,9 +1,9 @@
 #Nyarlathotep, the Many-Faced God
 
-In researching the [Lovecraft (Cthulhu) Mythos][Mythos] for the inspirations of the terrible [Gods of Terros][Terror], one name keeps popping up as a central agent of chaos, who appears on Earth to perform the bidding of the [Outer Gods][Old]: the Crawling Chaos, he of a thousand faces, the Outer God know as [Nyarlathotep.][Nyar] Who is this mysterious Outer God? Why is he central to the plans of the Outer Gods? Why does he enjoy spreading fear, chaos and terror?
+In researching the [Lovecraft (Cthulhu) Mythos][Mythos] for the inspirations of the terrible [Gods of Terros][Terror], one name keeps popping up as a central agent of chaos, who appears on Earth to perform the bidding of the [Outer Gods][Old]: the Crawling Chaos, he of a thousand faces, the Outer God know as [Nyarlathotep.][Nyar] Who is this mysterious Outer God? Why is he central to the plans of the Outer Gods, whom he openly mocks? Why does he enjoy spreading fear, chaos and terror in the hearts of humans?
 
 
-In this essay I will argue that the Many-Faced God of the House of Black and White of Braavos is none other than Nyarlathotep. To further the whim of the Outer Gods, who have been banished from Earth, the Faceless God Nyarlathotep roams the world in many forms. His evil aims will become central to the main story of A Song of Ice and Fire in The Winds of Winter, as his avatar mocks both the Gods and humans and bespeaks the end of the world by hastening the return of the [Outer Gods][Ones].
+In this essay I will argue that the Many-Faced God of the House of Black and White of Braavos is none other than Nyarlathotep. To further the whim of the Outer Gods, who have been banished from Earth, the Faceless God Nyarlathotep roams the world in many forms. His evil aims will become central to the main story of A Song of Ice and Fire in The Winds of Winter, as his one of his avatars mocks both the Gods and humans and bespeaks the end of the world by hastening the return of the [Outer Gods][Ones].
 
 ##Nyarlathotep Background
 
@@ -13,15 +13,15 @@ Quickly adopted by the many other writers who shared the Cthulhu Mythos with Lov
 
 ##The God of the Thousand Forms
 
-Nyarlathotep has many forms, and his true form is horrifying to humans, but he is most frequently encountered as a tall, swarthy man who takes joy in spreading chaos and suffering. In early stories he was encountered as an Egyptian pharoah-like being, who inspires legions of followers with demonstrations of magical and terrible new technologies. Through rich rewards and magical deception, these followers lose awareness of their surroundings as Nyarlathotep, ambassador of the banished Outer Gods, spreads despair and terror.
+Nyarlathotep has a true form but this true form is horrifying to humans. He is most frequently encountered as a tall, swarthy man who takes joy in spreading chaos and suffering. In early stories he was encountered as an Egyptian pharoah-like being, who inspires legions of followers with demonstrations of magical and terrible new technologies. Through rich rewards and magical deception, these followers lose awareness of their surroundings as Nyarlathotep, ambassador of the banished Outer Gods, spreads despair and terror.
 
-Let's review some of the forms and roles he fulfills in the Cthulhu Mythos.
+It's postulated that he has so many forms because of the many gods that he serves, and the many roles he must play on Earth as their messenger. Let's review some of the forms and roles he fulfills in the Cthulhu Mythos.
 
-###The Sphinx
+###The Sphinx and the Faceless God
 
-Nyarlathotep is known as the Sphinx, and loves to tease humans with riddles, much like the mythical Sphinx of ancient Egyptian lore. Having been created by Lovecraft with a psuedo-Egyptian name ("-thotep" being an Egyptian honorific meaning "honored"), the reference to the mysterious Sphinx, also without a face, was unavoidable.
+Nyarlathotep is known as the Sphinx, and loves to tease humans with riddles, much like the mythical Sphinx of ancient Egyptian lore. Having been created by Lovecraft with a psuedo-Egyptian name ("-thotep" being an Egyptian honorific meaning "honored"), the reference to the mysterious Sphinx, also without a face, was unavoidable. 
 
-##The Faceless God
+
 
 >It was the eldritch scurrying of those fiend-born rats, always questing for new horrors, and determined to lead me on even unto those grinning caverns of earth’s centre where Nyarlathotep, the mad faceless god, howls blindly to the piping of two amorphous idiot flute-players.
 - HP Lovecraft, ["The Rats in the Walls"][Rats]
@@ -30,18 +30,31 @@ One story concerning Nyarlathotep is called *The Faceless God*. Written by Rober
   
 ###The Crawling Chaos
 
-Another name of Nyarlathotep is The Crawling Chaos.
+Another name or title of Nyarlathotep is The Crawling Chaos.
 
 Nyarlathotep takes great pride in driving men mad and causing chaos, instead of just torturing people, he aims to drive them mad. 
 
 
+###The Haunter of the Dark
 
+This is really interesting, as it relates directly to the Church of Starry Wisdom, which has a somewhat sinister reputation in Westeros. In "The Haunter of the Dark", written by Lovecraft in 1935, the diaries of the *Spoiler* (dead) protagonist are discussed and analyzed for truth. Robert Blake, the protagonist, is a writer in Providence, Rhode Island. He described his facination with a dark church: 
+
+>"Of all the distant objects on Federal Hill, a certain huge, dark church most fascinated Blake. It stood out with especial distinctness at certain hours of the day, and at sunset the great tower and tapering steeple loomed blackly against the flaming sky." - HP Lovecraft, ["The Haunter of the Dark"][Haunter]
+
+He becomes obsessed withthe church and its dark presence. He decides to investigate it finally and what he finds horrifies him:
+
+>It was a human skeleton, and it must have been there for a very long time. The clothing was in shreds, but some buttons and fragments of cloth bespoke a man’s grey suit.
+
+A note in the man's tattered pocket contained a sordid history of the presence of the Church of Starry Wisdom in the town. It describes how its cultists use an ancient Egyptian "box" that "can't exist in light", and that these cultists used this "box", which they called the [Shining Trapezohedron][[Shining], as a window to see all of space and time. 
+This window, and the knowledge that could be gained by looking into it, came at a terrible price. For Nyarlathotep, in his avatar The Haunter of the Dark
+
+
+What form does this avatar take? A Three-Lobed Eye with wings.
 
 ###The Black Man of the Witch Cult
 
 In *The Dreams in the Witch House*, by Lovecraft, by sleeping in a haunted Salem attic where a witch disappeared long before, the protagonist meets the Black Man of the Witch Cult. This is not a man of recent African descent; instead, he has midnight black skin, hairless and wearing a black robe.
 
-###The Haunter in the Dark
 
 ###The Dweller in Darkness
 
@@ -62,7 +75,7 @@ This is also a notable story as it both introduces Derleth's major addition to t
 
 ##What are the many roles of Nyarlathotep in the Mythos?
 
-###Role as the The Messenger of the Outer Gods
+###Role as The Messenger of the Gods
 
 ###Bringer of Chaos
 
@@ -170,6 +183,8 @@ But his ultimate goal is not just to drive men mad and to spread chaos and fear.
 
 The first goal of Euron is the taking of Oldtown. I have long suspected that the Hightowers of oldtown, that ancient family that traces back to Uthar Hightower and Maris the Maid, were involved in worship of the Outer Gods. It should come as no surprise to learn that the Cthulhu Mythos diety 
 
+I suspect something else. The Shining Trapezohedron, the black stone that fell from Earth used by the Bloodstone Emperor, might be in the Hightower. As seen in [The Haunter in the Dark][Dark], the Church of Starry Wisdom has the Shining Trapezohedron stored in the high tower of the creepy church.
+
 ##The Citadel
 
 ##Faceless Men and Braavos
@@ -215,3 +230,6 @@ Instead, we see the war between Cthulhu and Hastur in the hatred of the Ironborn
 [Ones]: http://lovecraft.wikia.com/wiki/Outer_God "Ones"
 [Rats]: http://www.hplovecraft.com/writings/texts/fiction/rw.aspx "Rats"
 [Nephren]: http://lovecraft.wikia.com/wiki/Nephren-Ka "Nephren-Ka"
+[Dark]: https://en.wikipedia.org/wiki/The_Haunter_of_the_Dark "Haunter"
+[Haunter]: http://www.hplovecraft.com/writings/texts/fiction/hd.aspx "Lovecraft Haunter"
+[Shining]: http://lovecraft.wikia.com/wiki/Shining_Trapezohedron "Shining Trapezohedron"
