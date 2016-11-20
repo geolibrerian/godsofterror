@@ -104,17 +104,20 @@ Nyarlathotep spreads not just doom but lies as well, to help spread fear and dis
 
 The story told by the Kindly Man to Arya about the beginnings of the cult of the Many-Faced God in the House of Black and White. The 
 
-###Lion of Night
-
 ###The Stranger
 
 ###The Black Goat?
 
-The association of the Black Goat with the Many-Faced God is a bit confusing, as Shub-Niggurath is seen as female, and the Black Goat is seen as male in the World of Ice and Fire.
+The association of the Black Goat with the Many-Faced God at the House of Black and White is a bit confusing, as Shub-Niggurath is seen as female, and the Black Goat is seen as male in the World of Ice and Fire.
 
 However, this confusion is usually resolved by picturing this Black Goat (of a Thousand Young), a Pan-like satyr or half-man/half-goat, as the incarnation of Shub-Niggurath on Earth. This horned Lord of the Woods copulates with worshippers to produce horrible offspring. And he demands blood sacrifices from beasts and man alike.
 
 The Black Goat, then, may not be one of Nyarlathotep's forms, but he is definitely a god of Death and is one of the avatars of the Outer Gods.
+
+
+###Lion of Night
+
+Because the Many-Faced God is directly associated with the Lion of Night, and Nyarlathotep is associated with the Many-Faced God, then Nyarlathotep may
 
 
 ##Little Finger?
@@ -180,7 +183,8 @@ Euron's treatment of the 4 warlocks is a perfect example of his ability to infle
 
 >Last were two warlocks of the east, with flesh as white as mushrooms, and lips the purplish­-blue of a bad bruise, all so gaunt and starved that only skin and bones remained. One had lost his legs. The mutes hung him from a rafter. “Pree,” he cried as he swung back and forth. “Pree, Pree!”
 
-But his ultimate goal is not just to drive men mad and to spread chaos and fear. He is the harbinger of doom, Death, the Lion of Night. He is here to remake the world again, and he will
+But his ultimate goal is not just to drive men mad and to spread chaos and fear. He is the harbinger of doom, Death, the Lion of Night, here to remake the world again.
+  
 
 ##Oldtown and the Hightowers
 
@@ -192,11 +196,17 @@ I suspect something else. The Shining Trapezohedron, the black stone that fell f
 
 ##Faceless Men and Braavos
 
+In the Cthulhu Mythos there is a group of cultists called the [Dark Brotherhood or Black Brotherhood][Black], who are dedicated to hastening the return of the Great Old Ones. They are an international group of assasins, made of people of all ethnicities and all ways of life.
+
+These 
 
 
 ##Religious War
 
 The followers of the Lord of Light hate the followers of the Norvoshi religion and the Qohorik religion, and the feeling is mutual. While [I think that the Norvoshi worship Hastur, the Magnum Innonominandum or He-Who-Shall-Not-Be-named][Magnum], the Black Goat is Shub-NYoungrath, [The Black Goat of the Woods with a Thousand Young][Goat] (It's worth noting that in ["The Mound" by Lovecraft][Mound], Shub-Niggurath is described as the wife of the Not-To-Be-Named One, [who is Hastur.][Magnum])
+
+It seems clear that the founders of Norvos and Qohor, while Valyrian, were not dragon-riding Valyrians. In Norvos, they stuck with Hastur, The Great Shepherd. In Qohor they switched to The Black Goat.
+
 
 Importantly, the enmity between the followers of R'hllor and these other religions represent the greater war between the Gods of Terros. I don't say this lightly; I've devoted a ton of time over the last few years trying to understand what is really going on in Westeros and Essos and Sothoryos and Leng and beyond; this [Tumblr is the result][Terror]. But this was all building to this point: that these gods are not make-believe, but are instead powerful beings beyond the understanding of humans, that are at war with each other.
 
@@ -238,3 +248,4 @@ Instead, we see the war between Cthulhu and Hastur in the hatred of the Ironborn
 [Dark]: https://en.wikipedia.org/wiki/The_Haunter_of_the_Dark "Haunter"
 [Haunter]: http://www.hplovecraft.com/writings/texts/fiction/hd.aspx "Lovecraft Haunter"
 [Shining]: http://lovecraft.wikia.com/wiki/Shining_Trapezohedron "Shining Trapezohedron"
+[Black]: https://en.wikipedia.org/wiki/Cthulhu_Mythos_cult "Dark Brotherhood"
