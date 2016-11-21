@@ -9,7 +9,11 @@ In this essay I will argue that the Many-Faced God of the House of Black and Whi
 
 Developed by HP Lovecraft in 1920, Nyarlathotep is first decribed as man of strange powers who has come from the ancient lands of Eygpt. He gives demonstrations of his strange powers that awe and frighten the people, but his reputation spreads qickly, as do the night screams and nightmares of the populace.
 
+HP Lovecraft wrote 4 stories and one poem where an avatar of Nyarlathotep appears directly: ["Nyarlathotep"][Prose],  ["The Dream Quest of Unknown Kadath"][Kadath], ["The Dreams of the Witch House"][Witch], ["The Haunter of the Dark"][Haunter] and the poem ["Fungi from Yuggoth"][Fungi], where he appears in 2 stanzas. Though relative to other gods, Nyarlathotep has a large percentage of Lovecraft's writings, as far as direct references we see him appear in 5 different forms: a tall and swarthy man who resembles a Pharaoh, who hails from Egypt and gives presentations of strange and powerful instruments while spreading fear and discord among the populace; 
+
 Quickly adopted by the many other writers who shared the Cthulhu Mythos with Lovecraft (Block, Price, Derleth, Carter, even Stephen King), the role and archetype of Nyarlathotep has been employed to introduce a mocking, malevolant god-like being who takes many forms and has many avatars on Earth. 
+
+
 
 ##The God of the Thousand Forms
 
@@ -52,7 +56,7 @@ This window, and the knowledge that could be gained by looking into it, came at 
 
 ###What form does this avatar take? **A three-lobed burning eye with wings.**
 
-
+[Does that remind you of anyone's sigil, just a little?][Sigil]
 
 
 ###The Black Man of the Witch Cult
@@ -102,7 +106,18 @@ Nyarlathotep spreads not just doom but lies as well, to help spread fear and dis
 
 ##The Many-Faced God and the representations of Death
 
-The story told by the Kindly Man to Arya about the beginnings of the cult of the Many-Faced God in the House of Black and White. The 
+The story told by the Kindly Man to Arya about the beginnings of the cult of the Many-Faced God in the House of Black and White indicates that The Faceless God gave the first "gift" of death to a slave. He then  
+
+But not every god represented in the House of Black and White is directly associated with the Cthulhu Mythos.
+
+
+##Faceless Men and Braavos
+
+In the Cthulhu Mythos there is a group of cultists called the [Dark Brotherhood or Black Brotherhood][Black], who are dedicated to hastening the return of the Great Old Ones. They are an international group of assasins, made of people of all ethnicities and all ways of life, who adopt a mask to disguise themselves.
+
+Now, this being an August Derleth story (while it's credited to both him and Lovecraft, it's his story from HP's rough idea), all of the assasins wear a mask that stupidly looks like Edgar Allen Poe. Yes, the writer. It's worth noting here that Poe wrote a story called the Sphinx which may have influenced Nyarlathotep's background. 
+
+These 
 
 ###The Stranger
 
@@ -112,12 +127,12 @@ The association of the Black Goat with the Many-Faced God at the House of Black 
 
 However, this confusion is usually resolved by picturing this Black Goat (of a Thousand Young), a Pan-like satyr or half-man/half-goat, as the incarnation of Shub-Niggurath on Earth. This horned Lord of the Woods copulates with worshippers to produce horrible offspring. And he demands blood sacrifices from beasts and man alike.
 
-The Black Goat, then, may not be one of Nyarlathotep's forms, but he is definitely a god of Death and is one of the avatars of the Outer Gods.
+The Black Goat, then, may not be one of Nyarlathotep's forms, but he is definitely a god of Death and is one of the avatars of an Outer God.
 
 
 ###Lion of Night
 
-Because the Many-Faced God is directly associated with the Lion of Night, and Nyarlathotep is associated with the Many-Faced God, then Nyarlathotep may
+Because the Many-Faced God is directly associated with the Lion of Night, and Nyarlathotep is associated with the Many-Faced God, then Nyarlathotep may be directly associated with the coming of the Long Night as described in The World of Ice and Fire.
 
 
 ##Little Finger?
@@ -135,7 +150,7 @@ Given that it hasn't been established exactly which gods Varys prays to, and the
 
 Who in the story is the seed of evil, the spreader of chaos and lies, who tricks men into following him to their doom using strange instruments of glass and metal? Who sees himself as both better than humans and the gods, but is performing the will of the gods at the same time using blood rituals?
 
-It's Euron. He has returned from his banishment, but he is not fully human anymore, if he ever was. And he is here to torture, to kill, to drive men mad, as we see when he is alone with Aeron in The Winds of Winter sample chapter.
+It's Euron. He has returned from his banishment, but he is not fully human anymore, if he ever was. And he is here to torture, to kill, to drive men mad, as we see when he is alone with Aeron in The Winds of Winter sample chapter. Wearing a suit of Valyrian armor, he 313``````````````````````````````````` 
 
 
 
@@ -143,7 +158,7 @@ It's Euron. He has returned from his banishment, but he is not fully human anymo
 
 This is my choice for a second avatar of Nyarlathotep. His description is very close to the Dark Man or Black Man of the Witch Cults version of Nyarlathotep, the Nephren-Ka 
 
-hen he joins 
+When he joins Victarion, the crew is incredibly afraid of him, much like the natives of Eygpt who fear the black stone Sphinx from *The Dweller In Darkness*.
 
 ##Randall Flagg (Stephen King)
 
@@ -159,17 +174,23 @@ Stephen King also used the Nyarlathotep archetype to introduce Randall Flagg. In
 
 
 
-Technically, in universe, he is referred to as "Nyarlahotep", but this is referencing the same being. The character, a man-like being who serves evil gods but does so mockingly, while tricking humans into following him with "strange instruments of glass and metal" and "exhibitions of power which sent his followers away speechless".
+Technically, in universe, he is referred to as "Nyarlahotep", but this is referencing the same character, a man-like being who serves terrible gods but does so mockingly, while tricking humans into following him with "strange instruments of glass and metal" and "exhibitions of power which sent his followers away speechless".
+
+
+
+
 
 #My Conclusions:
-
-Euron is no longer the brother of Aeron and Balon. He has been taken over by the Crawling Chaos, the god of a thousand faces, the rat in the wall, the tall, swarthy pharaoh-like man who brings chaos and wins legions of followers through demonstrations of terrible, magical technology. Euron has been taken over by [Nyarlathotep, the Lovecraftian god of terror][Nyar] who invokes on Earth the awful wishes of the sleeping and dreaming Outer Gods. 
 
 Nyarlathotep, the Faceless God, he of a thousand terrible forms, has been present throughout the stories in many forms - all representing death and despair.
 
 When the Ghost of High Heart sees a man without a face on a bridge, with a crow on his shoulder, she's not describing a Faceless Man.
 
 She is describing The Faceless Man, Nyarlathotep, who has become Euron. And its through Euron that Nyarlathotep will fulfill his role of harbinger of doom, and awaken the sleeping Outer Gods. While Euron denies his direct involvement in "The Forsaken", Nyarlathotep, in one of his forms, was responsible.
+
+
+Euron is no longer the brother of Aeron and Balon. He has been taken over by the Crawling Chaos, the god of a thousand faces, the rat in the wall, the tall, swarthy pharaoh-like man who brings chaos and wins legions of followers through demonstrations of terrible, magical technology. Euron has been taken over by [Nyarlathotep, the Lovecraftian god of terror][Nyar] who invokes on Earth the awful wishes of the sleeping and dreaming Outer Gods. 
+
 
 
 ##What does this mean?
@@ -190,16 +211,14 @@ But his ultimate goal is not just to drive men mad and to spread chaos and fear.
 
 The first goal of Euron is the taking of Oldtown. I have long suspected that the Hightowers of oldtown, that ancient family that traces back to Uthar Hightower and Maris the Maid, were involved in worship of the Outer Gods. It should come as no surprise to learn that the Cthulhu Mythos diety 
 
-I suspect something else. The Shining Trapezohedron, the black stone that fell from Earth used by the Bloodstone Emperor, might be in the Hightower. As seen in [The Haunter in the Dark][Dark], the Church of Starry Wisdom has the Shining Trapezohedron stored in the high tower of the creepy church.
+I suspect something else. The Shining Trapezohedron, the black stone that fell from Earth and was worshiped by the Bloodstone Emperor, might be in the Hightower. As seen in [The Haunter in the Dark][Dark], the Church of Starry Wisdom has the Shining Trapezohedron stored in the high tower of the creepy church. The Church of Starry Wisdom
 
 ##The Citadel
 
 ##Faceless Men and Braavos
+Part of the point that GRRM is making is that he can write better than most other heirs to Lovecraft, and I think he took this idea and married it to the masks/forms of Nyarlathotep to create the Faceless Men.
 
-In the Cthulhu Mythos there is a group of cultists called the [Dark Brotherhood or Black Brotherhood][Black], who are dedicated to hastening the return of the Great Old Ones. They are an international group of assasins, made of people of all ethnicities and all ways of life.
-
-These 
-
+Are they an international cult of assasins who are working to hasten the return of the Great Old Ones? I do have my suspicions. The Faceless Men have been trying to get the book on killing dragons, and they probably helped to cause the Doom of Valyria, so they do seem to have it out for the dragon people who might oppose them, whatever their goals are.  
 
 ##Religious War
 
@@ -249,3 +268,8 @@ Instead, we see the war between Cthulhu and Hastur in the hatred of the Ironborn
 [Haunter]: http://www.hplovecraft.com/writings/texts/fiction/hd.aspx "Lovecraft Haunter"
 [Shining]: http://lovecraft.wikia.com/wiki/Shining_Trapezohedron "Shining Trapezohedron"
 [Black]: https://en.wikipedia.org/wiki/Cthulhu_Mythos_cult "Dark Brotherhood"
+[Sigil]: http://awoiaf.westeros.org/index.php/File:Euronsigil1.png "Euron Sigil"
+[Fungi]: http://www.hplovecraft.com/writings/texts/poetry/p289.aspx "Fungi"
+[Prose]: http://www.hplovecraft.com/writings/texts/fiction/n.aspx "Nyarlathotep"
+[Kadath]: http://www.hplovecraft.com/writings/texts/fiction/dq.aspx "Kadath"
+[Witch]: http://www.hplovecraft.com/writings/texts/fiction/dwh.aspx "Witch Cult"
