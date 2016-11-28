@@ -193,15 +193,16 @@ Given that it hasn't been established exactly which gods Varys prays to, and the
 
 Who in the story is the seed of evil, the spreader of chaos and lies, who tricks men into following him to their doom using strange instruments of glass and metal? Who sees himself as both better than humans and the gods, but is performing the will of the gods at the same time using blood rituals?
 
-It's Euron. He has returned from his banishment, but he is not fully human anymore, if he ever was. And he is here to torture, to kill, to drive men mad, as we see when he is alone with Aeron in The Winds of Winter sample chapter. Wearing a suit of Valyrian armor, he 313``````````````````````````````````` 
+It's Euron. He has returned from his banishment, but he is not fully human anymore, if he ever was. And he is here to torture, to kill, to drive men mad, as we see when he is alone with Aeron in The Winds of Winter sample chapter. Wearing a suit of Valyrian armor, he
 
-
+>[That is not dead which can eternal lie,
+And with strange aeons even death may die. ][Call]
 
 ##Moroqqo
 
-This is my choice for a second avatar of Nyarlathotep. His description is very close to the Dark Man or Black Man of the Witch Cults version of Nyarlathotep, the Nephren-Ka 
+This is my choice for a second avatar of Nyarlathotep. His description is very close to the Dark Man or Black Man of the Witch Cults version of Nyarlathotep. His skin is not brown or tan, but is instead coal black, as black as night and  
 
-When he joins Victarion, the crew is incredibly afraid of him, much like the natives of Eygpt who fear the black stone Sphinx from *The Dweller In Darkness*.
+When he joins Victarion, the crew is incredibly afraid of him, much like the natives of Eygpt who fear the black stone Sphinx from "The Dweller In Darkness". He is not the same man that Tyrion encountered on the Selasori 
 
 
 
@@ -238,9 +239,17 @@ But his ultimate goal is not just to drive men mad and to spread chaos and fear.
 
 ##Oldtown and the Hightowers
 
-The goal of Euron in *The Winds of Winter* will be the taking of Oldtown. This ancient city, long the domain of the more ancient Hightower family, has two notable features: the eponymous Hightower, a stone tower built on top of an mysterious black stone fort on Battle Isle, and the Citadel, the major center of learning in Westeros, where all maesters are trained and where Samwell Tarly has been sent at the end of A Dance with Dragons.  
+The goal of Euron in *The Winds of Winter* will be the taking of Oldtown. This ancient city, long the domain of the even more ancient Hightower family, has two notable features: the eponymous Hightower, a stone tower built on top of an mysterious black stone fort on Battle Isle, and the Citadel, the major center of learning in Westeros, where all maesters are trained and where Samwell Tarly has been sent at the end of A Dance with Dragons.  
 
-I have long suspected that the Hightowers of Oldtown, that ancient family that traces back to Uthar Hightower and Maris the Maid, were involved in worship of the Outer Gods. It should come as no surprise to learn that there is a Cthulhu Mythos diety named Ulthar, who 
+I have long suspected that the Hightowers of Oldtown, that ancient family that traces back to Uthar Hightower and Maris the Maid, were involved in worship of the Outer Gods. Not only are they ancient - much too ancient, really, for any of the timelines of the arrival of the First Men to make sense - but they are also known to dabble in sorcery. 
+
+Anytime that a wizard or sorceror is using magic in the Cthulhu Mythos, they are attempting to communicate or call one of the Great Old Ones or the Outer Gods. Usually, it takes blood  sacrifice to get the attention of the gods. I suspect that the dabbling by the Hightowers (in particular Leyton Hightower and his sister, the Mad Maid)
+
+It should come as no surprise to learn that there is a Cthulhu Mythos diety named Ulthar (or Uldar), who is a son of Yog-Sothoth. Ulthar, according to the (fictional) *Sussex Manuscript* was sent to Earth to keep a vigil over the sleeping or banished Great Old Ones/Outer Gods. 
+
+"We Light The Way"
+
+Uthar Hightower, according to legends, killed a dragon roosting on Battle Isle and then worked with Bran the Builder to build the Hightower on top of the ancient black stone fort. He claimed or stole Maris the Maid from a giant, who swore revenge on Uthar. 
 
 
 ##The Church of Starry Wisdom
@@ -310,3 +319,4 @@ Instead, we see the war between Cthulhu and Hastur in the hatred of the Ironborn
 [Kadath]: http://www.hplovecraft.com/writings/texts/fiction/dq.aspx "Kadath"
 [Witch]: http://www.hplovecraft.com/writings/texts/fiction/dwh.aspx "Witch Cult"
 [Call]: http://www.dagonbytes.com/thelibrary/lovecraft/thecallofcthulhu.htm "Call of Cthulhu"
+[Ulthar]: https://en.wikipedia.org/wiki/Ulthar "Ulthar"
