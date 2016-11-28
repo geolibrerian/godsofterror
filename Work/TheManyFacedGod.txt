@@ -40,7 +40,7 @@ Nyarlathotep is known as the Sphinx, and loves to tease humans with riddles, muc
 
 
 
->It was the eldritch scurrying of those fiend-born rats, always questing for new horrors, and determined to lead me on even unto those grinning caverns of earth’s centre where Nyarlathotep, the mad faceless god, howls blindly to the piping of two amorphous idiot flute-players.
+>It was the eldritch scurrying of those fiend-born rats, always questing for new horrors, and determined to lead me on even unto those grinning caverns of earthï¿½s centre where Nyarlathotep, the mad faceless god, howls blindly to the piping of two amorphous idiot flute-players.
 - HP Lovecraft, ["The Rats in the Walls"][Rats]
 
 One story concerning Nyarlathotep is called *The Faceless God*. Written by Robert Bloch in 1933, this avatar of Nyarlathotep took the form of a faceless sphinx idol, buried in the Egyptian desert and uncovered by a rithless archaeologist. The idol, made of a curious black stone, inspires great fear in the native Egpytians hired to uncover and haul the idol. They desert the corrupt archaeologist to his doom that very night, and the sphinx comes alive to hunt him down.
@@ -61,7 +61,7 @@ This is really interesting, as it relates directly to the Church of Starry Wisdo
 
 He becomes obsessed withthe church and its dark presence. He decides to investigate it finally and what he finds horrifies him:
 
->It was a human skeleton, and it must have been there for a very long time. The clothing was in shreds, but some buttons and fragments of cloth bespoke a man’s grey suit.
+>It was a human skeleton, and it must have been there for a very long time. The clothing was in shreds, but some buttons and fragments of cloth bespoke a manï¿½s grey suit.
 
 A note in the man's tattered pocket contained a sordid history of the presence of the Church of Starry Wisdom in the town. It describes how its cultists use an ancient Egyptian "box" that "can't exist in light", and that these cultists used this "box", which they called the [Shining Trapezohedron][[Shining], as a window to see all of space and time. 
 This window, and the knowledge that could be gained by looking into it, came at a terrible price. For Nyarlathotep, in his avatar The Haunter of the Dark, demanded monsterous sacrifices for the use of the Shining Trapezohedron.
@@ -87,27 +87,29 @@ This is also a notable story as it both introduces Derleth's major addition to t
 
 ###The Whisperer in the Darkness
 
-###
 
-##Yhoundeh, the Wife of Nyarlathotep
+###Yhoundeh, the Wife of Nyarlathotep
 
-[The Door to Saturn][Door]
+I'm not sure exactly how this fits in yet, but I know that Nyarlathotep has a wife, the horned elk-goddess Yhoundeh. She was worshiped in ancient times in Hyperboria after her priests banned the worship of Tsathoggua. However, the fall of the Hyperborean civilization lead to the abandonment of the religon of Yhoundeh.
 
+She is mainly mentioned in the [The Door to Saturn][Door] by Derleth
+
+Apparently, Yhoundeh had an affair with Darkness, which birthed Shug-Niggurath, the Black Goat of the Woods with a Thousand Young. The Black Goat is worshiped in Qohor
 
 
 ##Randall Flagg (Stephen King)
 
 Stephen King, long inspired by the Mythos, used the Nyarlathotep archetype to introduce Randall Flagg. In fact, the language describing Randall Flagg is very similar to the language HP Lovecraft uses to introduce Nyarlathotep. Compare these two passages:
 
->There was a dark hilarity in his face, and perhaps in his heart, too, you would think — and you would be right. It was the face of a hatefully happy man, a face that radiated a horrible handsome warmth, a face to make water glasses shatter in the hands of tired truck-stop waitresses, to make small children crash their trikes into board fences and then run wailing to their mommies with stake-shaped splinters sticking out of their knees. It was a face guaranteed to make barroom arguments over batting averages turn bloody.
+>There was a dark hilarity in his face, and perhaps in his heart, too, you would think ï¿½ and you would be right. It was the face of a hatefully happy man, a face that radiated a horrible handsome warmth, a face to make water glasses shatter in the hands of tired truck-stop waitresses, to make small children crash their trikes into board fences and then run wailing to their mommies with stake-shaped splinters sticking out of their knees. It was a face guaranteed to make barroom arguments over batting averages turn bloody.
 -Stephen King, *The Stand*
 
 
 
->And it was then that Nyarlathotep came out of Egypt. Who he was, none could tell, but he was of the old native blood and looked like a Pharaoh. The fellahin knelt when they saw him, yet could not say why. He said he had risen up out of the blackness of twenty-seven centuries, and that he had heard messages from places not on this planet. Into the lands of civilisation came Nyarlathotep, swarthy, slender, and sinister, always buying strange instruments of glass and metal and combining them into instruments yet stranger. He spoke much of the sciences – of electricity and psychology –and gave exhibitions of power which sent his spectators away speechless, yet which swelled his fame to exceeding magnitude. Men advised one another to see Nyarlathotep, and shuddered. And where Nyarlathotep went, rest vanished; for the small hours were rent with the screams of a nightmare.
+>And it was then that Nyarlathotep came out of Egypt. Who he was, none could tell, but he was of the old native blood and looked like a Pharaoh. The fellahin knelt when they saw him, yet could not say why. He said he had risen up out of the blackness of twenty-seven centuries, and that he had heard messages from places not on this planet. Into the lands of civilisation came Nyarlathotep, swarthy, slender, and sinister, always buying strange instruments of glass and metal and combining them into instruments yet stranger. He spoke much of the sciences ï¿½ of electricity and psychology ï¿½and gave exhibitions of power which sent his spectators away speechless, yet which swelled his fame to exceeding magnitude. Men advised one another to see Nyarlathotep, and shuddered. And where Nyarlathotep went, rest vanished; for the small hours were rent with the screams of a nightmare.
 -H.P. Lovecraft, *Nyarlathotep*
 
-
+With two very different styles, both King and Lovecraft invoke a man who radiates power and evil, who inspires nightmares and terror wherever he goes.
 
 Technically, in universe, he is referred to as "Nyarlahotep", but this is referencing the same character, a man-like being who serves terrible gods but does so mockingly, while tricking humans into following him with "strange instruments of glass and metal" and "exhibitions of power which sent his followers away speechless".
 
@@ -117,7 +119,7 @@ Technically, in universe, he is referred to as "Nyarlahotep", but this is refere
 
 ###Role as The Messenger of the Gods
 
->"And through this revolting graveyard of the universe the muffled, maddening beating of drums, and thin, monotonous whine of blasphemous flutes from inconceivable, unlighted chambers beyond Time; the detestable pounding and piping whereunto dance slowly, awkwardly, and absurdly the gigantic, tenebrous ultimate gods—the blind, voiceless, mindless gargoyles whose soul is Nyarlathotep." HP Lovecraft, ["Nyarlathotep"][Prose]
+>"And through this revolting graveyard of the universe the muffled, maddening beating of drums, and thin, monotonous whine of blasphemous flutes from inconceivable, unlighted chambers beyond Time; the detestable pounding and piping whereunto dance slowly, awkwardly, and absurdly the gigantic, tenebrous ultimate godsï¿½the blind, voiceless, mindless gargoyles whose soul is Nyarlathotep." HP Lovecraft, ["Nyarlathotep"][Prose]
 
 >"... the gigantic ultimate gods, the blind, voiceless, tenebrous, mindless Other Gods whose soul and messenger is the crawling chaos Nyarlathotep." - HP Lovecraft, ["The Dream Quest of Unknown Kadath"][Kadath]
 
@@ -229,7 +231,7 @@ Nyarlathotep loves to drive men mad, using chaos and fear to destroy the minds o
 
 Euron's treatment of the 4 warlocks is a perfect example of his ability to inflect madness. He kills one of them, to show that he meant business, and then chained them up and made them eat the dead warlock (and probaly themselves). In "The Forsaken", we see what's left of Pyat Pree: a man without legs, who has clearly been driven mad:  
 
->Last were two warlocks of the east, with flesh as white as mushrooms, and lips the purplish­-blue of a bad bruise, all so gaunt and starved that only skin and bones remained. One had lost his legs. The mutes hung him from a rafter. “Pree,” he cried as he swung back and forth. “Pree, Pree!”
+>Last were two warlocks of the east, with flesh as white as mushrooms, and lips the purplishï¿½-blue of a bad bruise, all so gaunt and starved that only skin and bones remained. One had lost his legs. The mutes hung him from a rafter. ï¿½Pree,ï¿½ he cried as he swung back and forth. ï¿½Pree, Pree!ï¿½
 
 But his ultimate goal is not just to drive men mad and to spread chaos and fear. He is the harbinger of doom, Death, the Lion of Night, here to remake the world again. And he will do this by calling back from the dead the terrible Great Old Ones
 
@@ -239,17 +241,23 @@ But his ultimate goal is not just to drive men mad and to spread chaos and fear.
 
 ##Oldtown and the Hightowers
 
-The goal of Euron in *The Winds of Winter* will be the taking of Oldtown. This ancient city, long the domain of the even more ancient Hightower family, has two notable features: the eponymous Hightower, a stone tower built on top of an mysterious black stone fort on Battle Isle, and the Citadel, the major center of learning in Westeros, where all maesters are trained and where Samwell Tarly has been sent at the end of A Dance with Dragons.  
+The plot of  *The Winds of Winter* promises to focus on the taking of Oldtown by the Ironborn. This ancient city, long the domain of the even more ancient Hightower family, has two notable features: the eponymous Hightower, a stone tower built on top of an mysterious black stone fort on Battle Isle, and the Citadel, the major center of learning in Westeros, where all maesters are trained and where Samwell Tarly has been sent at the end of A Dance with Dragons.  
 
 I have long suspected that the Hightowers of Oldtown, that ancient family that traces back to Uthar Hightower and Maris the Maid, were involved in worship of the Outer Gods. Not only are they ancient - much too ancient, really, for any of the timelines of the arrival of the First Men to make sense - but they are also known to dabble in sorcery. 
 
 Anytime that a wizard or sorceror is using magic in the Cthulhu Mythos, they are attempting to communicate or call one of the Great Old Ones or the Outer Gods. Usually, it takes blood  sacrifice to get the attention of the gods. I suspect that the dabbling by the Hightowers (in particular Leyton Hightower and his sister, the Mad Maid)
 
-It should come as no surprise to learn that there is a Cthulhu Mythos diety named Ulthar (or Uldar), who is a son of Yog-Sothoth. Ulthar, according to the (fictional) *Sussex Manuscript* was sent to Earth to keep a vigil over the sleeping or banished Great Old Ones/Outer Gods. 
+It should come as no surprise to learn that there is a Cthulhu Mythos diety named Ulthar (or Uldar), who is a son of Yog-Sothoth. Ulthar, according to the (fictional) *Sussex Manuscript* was sent to Earth to **keep a vigil** over the sleeping or banished Great Old Ones/Outer Gods. 
 
-"We Light The Way"
+The words of House Hightower: "We Light The Way". What way are they lighting? For whom are they lighting the way? It's worth noting here the definitions of "vigil": 
 
-Uthar Hightower, according to legends, killed a dragon roosting on Battle Isle and then worked with Bran the Builder to build the Hightower on top of the ancient black stone fort. He claimed or stole Maris the Maid from a giant, who swore revenge on Uthar. 
+> 1. wakefulness maintained for any reason during the normal hours for sleeping.
+ 2. a watch or a period of watchful attention maintained at night or at other times:
+ 3. a period of wakefulness from inability to sleep.
+
+
+
+Uthar Hightower, according to legends, killed a dragon roosting on Battle Isle and then worked with Bran the Builder to build the Hightower on top of the ancient black stone fort. He then claimed (or stole) Maris the Maid from a giant, who swore revenge on Uthar. 
 
 
 ##The Church of Starry Wisdom
