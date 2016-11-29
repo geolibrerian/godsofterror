@@ -1,9 +1,14 @@
 #Nyarlathotep, the Many-Faced God
 
-In researching the [Lovecraft (Cthulhu) Mythos][Mythos] for the inspirations of the terrible [Gods of Terros][Terror], one name keeps popping up as a central agent of chaos, who appears on Earth to perform the bidding of the [Outer Gods][Old]: the Crawling Chaos, he of a thousand faces, the Outer God know as [Nyarlathotep.][Nyar] Who is this mysterious Outer God? Why is he central to the plans of the Outer Gods, whom he openly mocks? Why does he enjoy spreading fear, chaos and terror in the hearts of humans?
+In researching the [Lovecraft (Cthulhu) Mythos][Mythos] for the inspirations of the terrible [Gods of Terros][Terror], one name keeps popping up as a central agent of chaos, who appears on Earth to perform the bidding of the [Outer Gods][Old]:  the Outer God know as [Nyarlathotep][Nyar].
+
+Nyarlathotep. The Crawling Chaos, the Faceless God, the Sphinx, the Haunter of the Dark. Who is this mysterious Outer God? Why is he central to the plans of the Outer Gods, whom he openly mocks? Why does he enjoy spreading fear, chaos and terror in the hearts of humans?
 
 
-In this essay I will argue that the Many-Faced God of the House of Black and White of Braavos is none other than Nyarlathotep. To further the whim of the Outer Gods, who have been banished from Earth, the Faceless God Nyarlathotep roams the world in many forms. His evil aims will become central to the main story of A Song of Ice and Fire in The Winds of Winter, as his one of his avatars mocks both the Gods and humans and bespeaks the end of the world by hastening the return of the [Outer Gods][Ones].
+In this essay I will argue that the Many-Faced God of the House of Black and White of Braavos is none other than Nyarlathotep. To further the whim of the Outer Gods, who have been banished from Earth, the Faceless God Nyarlathotep roams the world in many forms. His evil aims will become central to the main story of A Song of Ice and Fire in *The Winds of Winter*, as his one of his avatars mocks both the Gods and humans and bespeaks the end of the world by hastening the return of the [Outer Gods][Ones] and the Great Old Ones.
+
+
+
 
 ##Nyarlathotep Background
 
@@ -11,20 +16,22 @@ In this essay I will argue that the Many-Faced God of the House of Black and Whi
 
 Developed by HP Lovecraft in 1920, Nyarlathotep is first decribed as man of strange powers who has come from the ancient lands of Eygpt. He gives demonstrations of his strange powers that awe and frighten the people, but his reputation spreads qiuckly, as do the night screams and nightmares of the populace in the lands he visits.
 
-HP Lovecraft wrote 4 stories and one poem where an avatar of Nyarlathotep appears directly: ["Nyarlathotep"][Prose],  ["The Dream Quest of Unknown Kadath"][Kadath], ["The Dreams of the Witch House"][Witch], ["The Haunter of the Dark"][Haunter] and the poem ["Fungi from Yuggoth"][Fungi], where he appears in 2 stanzas. Though relative to other gods, Nyarlathotep has a large percentage of Lovecraft's writings, as far as direct references we see him appear in 5 different forms: 
+HP Lovecraft wrote 4 stories and one poem where an avatar of Nyarlathotep appears directly: ["Nyarlathotep"][Prose],  ["The Dream Quest of Unknown Kadath"][Kadath], ["The Dreams of the Witch House"][Witch], ["The Haunter of the Dark"][Haunter] and the poem ["Fungi from Yuggoth"][Fungi], where he appears in 2 stanzas. 
 
- + a tall and swarthy man who resembles a Pharaoh, who hails from Egypt and gives presentations of strange and powerful instruments while spreading fear and discord among the populace:
+Though relative to other gods, Nyarlathotep has a large percentage of Lovecraft's writings, as far as direct references we see him appear in 5 different forms: 
 
-
-
-> a tall, slim figure with the young face of an antique Pharaoh, gay with prismatic robes and crowned with a golden pshent that glowed with inherent light.
-
-
-
+ + a tall and swarthy man who resembles a Pharaoh, who hails from Egypt and gives presentations of strange and powerful instruments while spreading fear and discord among the populace.
+ + a demon with skin as black as night.
+ + a dreamy, god-like pharoah.
+ + a tall and swarthy man who resembles a Pharaoh, who hails from Egypt and gives presentations of strange and powerful instruments while spreading fear and discord among the populace.
 
 
 
-Quickly adopted by the many other writers who shared the Cthulhu Mythos with Lovecraft (Block, Price, Derleth, Carter, even Stephen King), the role and archetype of Nyarlathotep has been employed to introduce a mocking, malevolant being who takes many forms (or wears many masks, according to some of the Mythos writers) and has many avatars on Earth. 
+
+
+
+
+Quickly adopted by the many other writers who shared the Cthulhu Mythos with Lovecraft (Block, Price, Derleth, Carter, and more), and even other authors who are not known as Mythos writers (such as Stephen King), the role and archetype of Nyarlathotep has been employed to introduce a mocking, malevolant being who takes many forms (or wears many masks, according to some of the Mythos writers) and has many avatars on Earth. 
 
 
 
@@ -34,34 +41,32 @@ Nyarlathotep has a true form but this true form is horrifying to humans. He is m
 
 It's postulated that he has so many forms because of the many gods that he serves - that each of them, while banished from Earth, can take the form of Nyarlathotep and so the many roles he must play on Earth  can represent separate and even disparate missions. Let's review some of the Cthulhu Mythos forms and roles fulfilled by the many faces of Nyarlathotep.
 
-###The Sphinx and the Faceless God
-
-Nyarlathotep is known as the Sphinx, and loves to tease humans with riddles, much like the mythical Sphinx of ancient Egyptian lore. Having been created by Lovecraft with a psuedo-Egyptian name ("-thotep" being an Egyptian honorific meaning "honored"), the reference to the mysterious Sphinx, also without a face, was unavoidable. 
 
 
+###The Faceless God
 
->It was the eldritch scurrying of those fiend-born rats, always questing for new horrors, and determined to lead me on even unto those grinning caverns of earth�s centre where Nyarlathotep, the mad faceless god, howls blindly to the piping of two amorphous idiot flute-players.
+>It was the eldritch scurrying of those fiend-born rats, always questing for new horrors, and determined to lead me on even unto those grinning caverns of earth's centre where Nyarlathotep, **the mad faceless god**, howls blindly to the piping of two amorphous idiot flute-players.
 - HP Lovecraft, ["The Rats in the Walls"][Rats]
 
-One story concerning Nyarlathotep is called *The Faceless God*. Written by Robert Bloch in 1933, this avatar of Nyarlathotep took the form of a faceless sphinx idol, buried in the Egyptian desert and uncovered by a rithless archaeologist. The idol, made of a curious black stone, inspires great fear in the native Egpytians hired to uncover and haul the idol. They desert the corrupt archaeologist to his doom that very night, and the sphinx comes alive to hunt him down.
-  
+Here is the earliest and most direct reference to the Faceless God by Lovecraft himself. Lovecraft had developed the character of Nyarlathotep from the initial mysterious man from Eygpt into a god, and encouraged other writers to do so as well.
+
 ###The Crawling Chaos
 
 Another name or title of Nyarlathotep is The Crawling Chaos.
 
-Nyarlathotep takes great pride in driving men mad and causing chaos, instead of just torturing people, he aims to drive them mad. 
+Nyarlathotep takes great pride in driving men mad and causing chaos, instead of just torturing people, he aims to drive them mad.
 
 >Unlike the other Outer Gods, spreading madness is more important and enjoyable than death and destruction to [Nyarlathotep.][Nyar]
 
 ###The Haunter of the Dark
 
-This is really interesting, as it relates directly to the Church of Starry Wisdom, which has a somewhat sinister reputation in Westeros. In "The Haunter of the Dark", written by Lovecraft in 1935, the diaries of the *Spoiler* (dead) protagonist are discussed and analyzed for truth. Robert Blake, the protagonist, is a writer in Providence, Rhode Island. He described his facination with a dark church: 
+This is really interesting, as it relates directly to the Church of Starry Wisdom, which exists in Westeros and Essos and has a sinister reputation, according to Master Yandel. In "The Haunter of the Dark", written by Lovecraft in 1935, the diaries of the *Spoiler* (dead) protagonist are discussed and analyzed for truth. Robert Blake, the protagonist, is a writer in Providence, Rhode Island. He described his facination with a dark church: 
 
 >"Of all the distant objects on Federal Hill, a certain huge, dark church most fascinated Blake. It stood out with especial distinctness at certain hours of the day, and at sunset the great tower and tapering steeple loomed blackly against the flaming sky." - HP Lovecraft, ["The Haunter of the Dark"][Haunter]
 
 He becomes obsessed withthe church and its dark presence. He decides to investigate it finally and what he finds horrifies him:
 
->It was a human skeleton, and it must have been there for a very long time. The clothing was in shreds, but some buttons and fragments of cloth bespoke a man�s grey suit.
+>It was a human skeleton, and it must have been there for a very long time. The clothing was in shreds, but some buttons and fragments of cloth bespoke a man's grey suit.
 
 A note in the man's tattered pocket contained a sordid history of the presence of the Church of Starry Wisdom in the town. It describes how its cultists use an ancient Egyptian "box" that "can't exist in light", and that these cultists used this "box", which they called the [Shining Trapezohedron][[Shining], as a window to see all of space and time. 
 This window, and the knowledge that could be gained by looking into it, came at a terrible price. For Nyarlathotep, in his avatar The Haunter of the Dark, demanded monsterous sacrifices for the use of the Shining Trapezohedron.
@@ -71,10 +76,23 @@ This window, and the knowledge that could be gained by looking into it, came at 
 
 [Does that remind you of anyone's sigil, just a little?][Sigil] (Euron. It's Euron.)
 
-
 ###The Black Man of the Witch Cult
 
-In *The Dreams in the Witch House*, by Lovecraft, by sleeping in a haunted Salem attic where a witch disappeared long before, the protagonist meets the Black Man of the Witch Cult. This is not a man of recent African descent; instead, he has midnight black skin, hairless and wearing a black robe.
+In *The Dreams in the Witch House*, by Lovecraft, by sleeping in a haunted Salem attic where a witch disappeared long before, the protagonist meets the Black Man of the Witch Cult. This is not a man of recent African descent; instead, he has midnight black skin, hairless and wearing a black robe. He represents the collusion of the witches with an evil worthy of Satan, or even Nyarlathotep
+
+
+
+###Nephren-Ka
+
+>"The Black Pharaoh, an insane pharaoh who secured the Shining Trapezohedron for Egypt, but after being convinced by the resident Haunter of the Dark, he had a lightless temple created to hold the stone and the deity within. That temple became a center of abominable happenings, and the rites carried out there were so monstrous the temple was destroyed and the Pharaoh's name was struck from all records and monuments. The Pharaoh was controlled by the cruel god Nyarlathotep, of whom [the Haunter of the Dark was likely an avatar"][Nephren]
+
+
+
+###The Sphinx
+
+Nyarlathotep is known as the Sphinx, and loves to tease humans with riddles, much like the mythical Sphinx of ancient Egyptian lore. Having been created by Lovecraft with a psuedo-Egyptian name ("-thotep" being an Egyptian honorific meaning "honored"), the reference to the mysterious Sphinx, also without a face, was unavoidable.
+
+One story concerning Nyarlathotep is called "The Faceless God". Written by Robert Bloch in 1933, this avatar of Nyarlathotep took the form of a faceless sphinx idol, buried in the Egyptian desert and uncovered by a ruthless archaeologist. The idol, made of a curious black stone, inspires great fear in the native Egpytians hired to uncover and haul the idol. They desert the corrupt archaeologist to his doom that very night, and the sphinx comes alive to hunt him down.
 
 
 ###The Dweller in Darkness
@@ -106,8 +124,11 @@ Stephen King, long inspired by the Mythos, used the Nyarlathotep archetype to in
 
 
 
->And it was then that Nyarlathotep came out of Egypt. Who he was, none could tell, but he was of the old native blood and looked like a Pharaoh. The fellahin knelt when they saw him, yet could not say why. He said he had risen up out of the blackness of twenty-seven centuries, and that he had heard messages from places not on this planet. Into the lands of civilisation came Nyarlathotep, swarthy, slender, and sinister, always buying strange instruments of glass and metal and combining them into instruments yet stranger. He spoke much of the sciences � of electricity and psychology �and gave exhibitions of power which sent his spectators away speechless, yet which swelled his fame to exceeding magnitude. Men advised one another to see Nyarlathotep, and shuddered. And where Nyarlathotep went, rest vanished; for the small hours were rent with the screams of a nightmare.
--H.P. Lovecraft, *Nyarlathotep*
+>And it was then that Nyarlathotep came out of Egypt. Who he was, none could tell, but he was of the old native blood and looked like a Pharaoh. The fellahin knelt when they saw him, yet could not say why. He said he had risen up out of the blackness of twenty-seven centuries, and that he had heard messages from places not on this planet. Into the lands of civilisation came Nyarlathotep, swarthy, slender, and sinister, always buying strange instruments of glass and metal and combining them into instruments yet stranger. He spoke much of the sciences � of electricity and psychology �and gave exhibitions of power which sent his spectators away speechless, yet which swelled his fame to exceeding magnitude. Men advised one another to see Nyarlathotep, and shuddered. And where Nyarlathotep went, rest vanished; for the small hours were rent with the screams of a nightmare. -H.P. Lovecraft, ["Nyarlathotep"][Nyar]
+
+>Then down the wide lane betwixt the two columns a lone figure strode; a tall, slim figure with the young face of an antique Pharaoh, gay with prismatic robes and crowned with a golden pshent that glowed with inherent light. Close up to Carter strode that regal figure; whose proud carriage and swart features had in them the fascination of a dark god or fallen archangel, and around whose eyes there lurked the languid sparkle of capricious humour. It spoke, and in its mellow tones there rippled the mild music of Lethean streams. -H.P. Lovecraft, ["The Dream-Quest of Unknown Kadath"][Nyar]
+
+
 
 With two very different styles, both King and Lovecraft invoke a man who radiates power and evil, who inspires nightmares and terror wherever he goes.
 
@@ -149,12 +170,14 @@ Nyarlathotep spreads not just doom but lies as well, to help spread fear and dis
 
 ##The Many-Faced God and the representations of Death
 
-The story told by the Kindly Man to Arya about the beginnings of the cult of the Many-Faced God in the House of Black and White indicates that The Faceless God gave the first "gift" of death to a slave. He then  
+This connection is at the heart of the relationship between Nyarlathotep and mortals. In fact, it is the main role that Nyarlathotep takes in A Song of Ice and Fire: that of the God of Death. From the beginning, the roots of the cult of the Faceless Men is about Death.
+
+The story told by the Kindly Man to Arya about the beginnings of the cult of the Many-Faced God in the House of Black and White indicates that The Many-Faced God gave the first "gift" of death to a slave. But before he gave the gift, he trained this first Faceless Man in the ways of the masks.
 
 But not every god represented in the House of Black and White is directly associated with the Cthulhu Mythos.
 
 
-##Faceless Men and Braavos
+###The Faceless Men
 
 In the Cthulhu Mythos there is a group of cultists called the [Dark Brotherhood or Black Brotherhood][Black], who are dedicated to hastening the return of the Great Old Ones. They are an international group of assasins, made of people of all ethnicities and all ways of life, who adopt a mask to disguise themselves.
 
@@ -180,7 +203,7 @@ The Black Goat, then, may not be one of Nyarlathotep's forms, but he is definite
 Because the Many-Faced God is directly associated with the Lion of Night, and Nyarlathotep is associated with the Many-Faced God, then Nyarlathotep may be directly associated with the coming of the Long Night as described in The World of Ice and Fire.
 
 
-##Little Finger?
+##Littlefinger?
 
 The emphasis on causing chaos, and his background in Braavos where they worship the Many-Faced God among other gods, makes me suspect that  Petyr Baelish might be some form of Nyarlathotep, but in the end I don't think he fits the archetype. He's just a scheming man (though no ordinary schemer, to be sure), and not a god intent on the destruction of humanity.
 
@@ -188,25 +211,28 @@ However, I do wonder exactly which gods Varys is referencing in [this quote from
 
 >"This is no longer a game for two players, if it ever was. Stannis Baratheon and Lysa Arryn have fled beyond my reach, and the whispers say they are gathering swords around them. The Knight of Flowers write Highgardeb, urging his lord father to send his sister tocourt. The girl is a maid of fourteen, sweet and beautiful and tractable, and Lord Renly and Ser Loras intend that Robert should bed her, wed her, and make her a new queen. Litlefinger ... **the gods only know what game Littlefinger is playing**"
 
-Given that it hasn't been established exactly which gods Varys prays to, and the fact that he is talking privately (he thinks) to Illyrio, this should not just be taken as a reference to the Seven. Is it a reference to the [Outer Gods][Ones]? 
+Given that it hasn't been established exactly which gods Varys prays to, and the fact that he is talking privately (he thinks) to Illyrio, this should not just be taken as a reference to the Seven. Is it a reference to the [Outer Gods][Ones]?
 
 
-##Euron Greyjoy
 
-Who in the story is the seed of evil, the spreader of chaos and lies, who tricks men into following him to their doom using strange instruments of glass and metal? Who sees himself as both better than humans and the gods, but is performing the will of the gods at the same time using blood rituals?
-
-It's Euron. He has returned from his banishment, but he is not fully human anymore, if he ever was. And he is here to torture, to kill, to drive men mad, as we see when he is alone with Aeron in The Winds of Winter sample chapter. Wearing a suit of Valyrian armor, he
-
->[That is not dead which can eternal lie,
-And with strange aeons even death may die. ][Call]
 
 ##Moroqqo
 
-This is my choice for a second avatar of Nyarlathotep. His description is very close to the Dark Man or Black Man of the Witch Cults version of Nyarlathotep. His skin is not brown or tan, but is instead coal black, as black as night and  
+This is my choice for a second avatar of Nyarlathotep. His description is very close to the Dark Man or Black Man of the Witch Cults version of Nyarlathotep. His skin is not brown or tan, but is instead coal black, as black as night:
+
+
 
 When he joins Victarion, the crew is incredibly afraid of him, much like the natives of Eygpt who fear the black stone Sphinx from "The Dweller In Darkness". He is not the same man that Tyrion encountered on the Selasori 
 
+##Euron Greyjoy
 
+Who in the story is the seed of evil, the spreader of chaos and lies, who tricks men into following him to their doom using strange instruments of glass and metal? Who sees himself as both better than humans and the gods, but at the same time  is performing the will of the gods using blood rituals?
+
+It's Euron. He has returned from his banishment, but he is not fully human anymore, if he ever was. And he is here to torture, to kill, to drive men mad, as we see when he is alone with Aeron in The Winds of Winter sample chapter. Wearing a suit of Valyrian armor, he
+
+>That is not dead which can eternal lie, [And with strange aeons even death may die.][Call]
+
+Euron makes blood sacrifices to the Storm God ([who I believe to be Hastur][Magnum]
 
 
 #My Conclusions:
@@ -218,7 +244,11 @@ When the Ghost of High Heart sees a man without a face on a bridge, with a crow 
 She is describing The Faceless Man, Nyarlathotep, who has become Euron. And its through Euron that Nyarlathotep will fulfill his role of harbinger of doom, and awaken the sleeping Outer Gods. While Euron denies his direct involvement in "The Forsaken", Nyarlathotep, in one of his forms, was responsible.
 
 
-Euron is no longer the brother of Aeron and Balon. He has been taken over by the Crawling Chaos, the god of a thousand faces, the rat in the wall, the tall, swarthy pharaoh-like man who brings chaos and wins legions of followers through demonstrations of terrible, magical technology. Euron has been taken over by [Nyarlathotep, the Lovecraftian god of terror][Nyar] who invokes on Earth the awful wishes of the sleeping and dreaming Outer Gods. 
+##Euron Greyjoy
+
+>"Who knows more of gods than I? Horse gods and fire gods, gods made of gold with gemstone eyes, gods carved of cedar wood, gods chiseled into mountains, gods of empty air... I know them all. I have seen their peoples garland them with flowers, and shed the blood of goats and bulls and children in their names. And I have heard the prayers, in half a hundred tongues. Cure my withered leg, make the maiden love me, grant me a healthy son. Save me, succor me, make me wealthy... protect me! Protect me from mine enemies, protect me from the darkness, protect me from the crabs inside my belly, from the horselords, from the slavers, from the sellswords at my door. Protect me from the Silence." He laughed. "Godless? Why, Aeron, I am the godliest man ever to raise sail! You serve one god, Damphair, but I have served ten thousand. From Ib to Asshai, when men see my sails, they pray."  - George RR Martin, *A Feast For Crows*
+
+Euron is no longer the brother of Aeron and Balon. He has been taken over by the Crawling Chaos, the god of a thousand faces, the tall, swarthy pharaoh-like man who brings chaos and wins legions of followers through demonstrations of terrible, magical technology. And it is Euron, who serves the Gods, who will awaken them from their slumber.
 
 
 
@@ -233,21 +263,24 @@ Euron's treatment of the 4 warlocks is a perfect example of his ability to infle
 
 >Last were two warlocks of the east, with flesh as white as mushrooms, and lips the purplish�-blue of a bad bruise, all so gaunt and starved that only skin and bones remained. One had lost his legs. The mutes hung him from a rafter. �Pree,� he cried as he swung back and forth. �Pree, Pree!�
 
-But his ultimate goal is not just to drive men mad and to spread chaos and fear. He is the harbinger of doom, Death, the Lion of Night, here to remake the world again. And he will do this by calling back from the dead the terrible Great Old Ones
+But his ultimate goal is not just to drive men mad and to spread chaos and fear. He is the harbinger of doom, Death, the Lion of Night, here to remake the world again. And he will do this by calling back from the dead the terrible Great Old Ones.
+
 
 
 >"Old Castro remembered bits of hideous legend that paled the speculations of theosophists and made man and the world seem recent and transient indeed. There had been aeons when other Things ruled on the earth, and They had had great cities. **Remains of Them, he said the deathless Chinamen had told him, were still be found as Cyclopean stones on islands in the Pacific**. They all died vast epochs of time before men came, but there were arts which could revive Them when the stars had come round again to the right positions in the cycle of eternity." - HP Lovecraft, ["The Call of Cthulhu"][Call]
-  
+
+>When the stars were right, They could plunge from world to world through the sky; but when the stars were wrong, They could not live. But although They no longer lived, They would never really die. They all lay in stone houses in Their great city of R'lyeh, preserved by the spells of mighty Cthulhu for a glorious surrection when the stars and the earth might once more be ready for Them. But at that time some force from outside must serve to liberate Their bodies. The spells that preserved them intact likewise prevented Them from making an initial move, and They could only lie awake in the dark and think whilst uncounted millions of years rolled by. They knew all that was occurring in the universe, for Their mode of speech was transmitted thought. Even now They talked in Their tombs. When, after infinities of chaos, the first men came, the Great Old Ones spoke to the sensitive among them by moulding their dreams; for only thus could Their language reach the fleshly minds of mammals. - HP Lovecraft, ["The Call of Cthulhu"][Call]
 
 ##Oldtown and the Hightowers
 
-The plot of  *The Winds of Winter* promises to focus on the taking of Oldtown by the Ironborn. This ancient city, long the domain of the even more ancient Hightower family, has two notable features: the eponymous Hightower, a stone tower built on top of an mysterious black stone fort on Battle Isle, and the Citadel, the major center of learning in Westeros, where all maesters are trained and where Samwell Tarly has been sent at the end of A Dance with Dragons.  
+The plot of  *The Winds of Winter* promises to focus on the taking of Oldtown by the Ironborn. This ancient city, long the domain of the even more ancient Hightower family, has two notable features: the eponymous Hightower, a stone tower built on top of an mysterious black stone fort on Battle Isle, and the Citadel, the major center of learning in Westeros, where all maesters are trained and where Samwell Tarly has been sent at the end of A Dance with Dragons.
 
 I have long suspected that the Hightowers of Oldtown, that ancient family that traces back to Uthar Hightower and Maris the Maid, were involved in worship of the Outer Gods. Not only are they ancient - much too ancient, really, for any of the timelines of the arrival of the First Men to make sense - but they are also known to dabble in sorcery. 
 
-Anytime that a wizard or sorceror is using magic in the Cthulhu Mythos, they are attempting to communicate or call one of the Great Old Ones or the Outer Gods. Usually, it takes blood  sacrifice to get the attention of the gods. I suspect that the dabbling by the Hightowers (in particular Leyton Hightower and his sister, the Mad Maid)
+Anytime that a wizard or sorceror is using magic in the Cthulhu Mythos, they are attempting to communicate or call one of the Great Old Ones or the Outer Gods. Usually, it takes blood  sacrifice to get the attention of the gods. I suspect that the dabbling by the Hightowers (in particular Leyton Hightower and his sister, the Mad Maid).
 
-It should come as no surprise to learn that there is a Cthulhu Mythos diety named Ulthar (or Uldar), who is a son of Yog-Sothoth. Ulthar, according to the (fictional) *Sussex Manuscript* was sent to Earth to **keep a vigil** over the sleeping or banished Great Old Ones/Outer Gods. 
+###Ulthar
+It should come as no surprise to learn that there is a Cthulhu Mythos diety named Ulthar (or Uldar or even Ultharathotep), who is a son of Yog-Sothoth and is considered and "Elder God". Ulthar, according to the (fictional) *Sussex Manuscript* was sent to Earth to **keep a vigil** over the sleeping or banished Great Old Ones/Outer Gods. 
 
 The words of House Hightower: "We Light The Way". What way are they lighting? For whom are they lighting the way? It's worth noting here the definitions of "vigil": 
 
@@ -256,28 +289,30 @@ The words of House Hightower: "We Light The Way". What way are they lighting? Fo
  3. a period of wakefulness from inability to sleep.
 
 
+Uthar Hightower, according to legends, killed a dragon roosting on Battle Isle and then worked with Bran the Builder to build the Hightower on top of the ancient black stone fort. He then claimed (or stole) Maris the Maid from a giant (who swore revenge on Uthar) and founded the line of Hightowers that continues into the contemporary story.
 
-Uthar Hightower, according to legends, killed a dragon roosting on Battle Isle and then worked with Bran the Builder to build the Hightower on top of the ancient black stone fort. He then claimed (or stole) Maris the Maid from a giant, who swore revenge on Uthar. 
+
+>...and the secret priests would take great Cthulhu from His tomb to revive His subjects and resume His rule of earth. The time would be easy to know, for then mankind would have become as the Great Old Ones; free and wild and beyond good and evil, with laws and morals thrown aside and all men shouting and killing and revelling in joy. Then the liberated Old Ones would teach them new ways to shout and kill and revel and enjoy themselves, and all the earth would flame with a holocaust of ecstasy and freedom.
 
 
-##The Church of Starry Wisdom
+###The Church of Starry Wisdom
 
 I suspect something else. The Shining Trapezohedron, the black stone that fell from Earth and was worshiped by the Bloodstone Emperor, might be in the Hightower. As seen in [The Haunter of the Dark][Dark], the Church of Starry Wisdom has the Shining Trapezohedron stored in the high tower of the creepy church. And the cultists of the Church perform blood sacrifices to The Haunter of the Dark, the terrible avatar of Nyarlathotep with a three-lobed burning eye with wings. 
 
 The Church of Starry Wisdom 
 
-##The Citadel
+###The Citadel
 
 ##Faceless Men and Braavos
 Part of the point that GRRM is making is that he can write better than most other heirs to Lovecraft, and I think he took this idea and married it to the masks/forms of Nyarlathotep to create the Faceless Men.
 
-Are they an international cult of assasins who are working to hasten the return of the Great Old Ones? I do have my suspicions. The Faceless Men have been trying to get the book on killing dragons, and they probably helped to cause the Doom of Valyria, so they do seem to have it out for the dragon people who might oppose them, whatever their goals are.  
+Are they an international cult of assasins who are working to hasten the return of the Great Old Ones? I do have my suspicions. The Faceless Men have been trying to get the book on killing dragons, and they probably helped to cause the Doom of Valyria, so they do seem to have it out for the dragon people who might oppose them, whatever their ultimate goals might be.
 
 ##Religious War
+It seems clear that the founders of Norvos and Qohor, while Valyrian, were not dragon-riding Valyrians. In Norvos, they stuck with Hastur, The Great Shepherd. In Qohor they switched to The Black Goat. In Volantis, they worship the Lord of Light.
 
-The followers of the Lord of Light hate the followers of the Norvoshi religion and the Qohorik religion, and the feeling is mutual. While [I think that the Norvoshi worship Hastur, the Magnum Innonominandum or He-Who-Shall-Not-Be-named][Magnum], the Black Goat is Shub-NYoungrath, [The Black Goat of the Woods with a Thousand Young][Goat] (It's worth noting that in ["The Mound" by Lovecraft][Mound], Shub-Niggurath is described as the wife of the Not-To-Be-Named One, [who is Hastur.][Magnum])
+The followers of the Lord of Light hate the followers of the Norvoshi religion and the Qohorik religion, and the feeling is mutual. While [I think that the Norvoshi worship Hastur, the Magnum Innonominandum or He-Who-Shall-Not-Be-named][Magnum], the Black Goat is Shub-Niggurath, [The Black Goat of the Woods with a Thousand Young][Goat]. (It's worth noting that in ["The Mound" by Lovecraft][Mound], Shub-Niggurath is described as the wife of the Not-To-Be-Named One, [who is Hastur.][Magnum])
 
-It seems clear that the founders of Norvos and Qohor, while Valyrian, were not dragon-riding Valyrians. In Norvos, they stuck with Hastur, The Great Shepherd. In Qohor they switched to The Black Goat.
 
 
 Importantly, the enmity between the followers of R'hllor and these other religions represent the greater war between the Gods of Terros. I don't say this lightly; I've devoted a ton of time over the last few years trying to understand what is really going on in Westeros and Essos and Sothoryos and Leng and beyond; this [Tumblr is the result][Terror]. But this was all building to this point: that these gods are not make-believe, but are instead powerful beings beyond the understanding of humans, that are at war with each other.
@@ -328,3 +363,4 @@ Instead, we see the war between Cthulhu and Hastur in the hatred of the Ironborn
 [Witch]: http://www.hplovecraft.com/writings/texts/fiction/dwh.aspx "Witch Cult"
 [Call]: http://www.dagonbytes.com/thelibrary/lovecraft/thecallofcthulhu.htm "Call of Cthulhu"
 [Ulthar]: https://en.wikipedia.org/wiki/Ulthar "Ulthar"
+[Uthor]: http://awoiaf.westeros.org/index.php/Uthor_of_the_High_Tower "Uthor"
