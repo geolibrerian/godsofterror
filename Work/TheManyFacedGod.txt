@@ -5,7 +5,7 @@ In researching the [Lovecraft (Cthulhu) Mythos][Mythos] for the inspirations of 
 [Nyarlathotep](http://godsofterror.tumblr.com/image/152886840486). The Crawling Chaos, the Faceless God, the Sphinx, the Haunter of the Dark. Who is this mysterious Outer God? Why is he central to the plans of the Outer Gods, whom he openly mocks? Why does he enjoy spreading fear, chaos and terror in the hearts of humans?
 
 
-In this essay I will argue that the Many-Faced God of the House of Black and White of Braavos is none other than Nyarlathotep. To further the whim of the Outer Gods, who have been banished from Earth, the Faceless God Nyarlathotep roams the world in many forms. His evil aims will become central to the main story of A Song of Ice and Fire in *The Winds of Winter*, as his one of his avatars mocks both the Gods and humans and bespeaks the end of the world by hastening the return of the [Outer Gods][Ones] and the Great Old Ones.
+In this essay I will argue that the Many-Faced God of the House of Black and White of Braavos is none other than Nyarlathotep. To further the whim of the Outer Gods, a group of powerful cosmic beings that have mostly been banished from Earth, the Faceless God Nyarlathotep roams the world in many forms. His evil aims will become central to the main story of A Song of Ice and Fire in *The Winds of Winter*, as his one of his avatars mocks both the Gods and humans and bespeaks the end of the world by hastening the return of the [Outer Gods][Ones] and the [Great Old Ones][] (the two main groups of gods in the Cthulhu Mythos - note that the distinction did not originate with Lovecraft but with his successor August Derleth).
 
 
 
@@ -24,22 +24,23 @@ Though relative to other gods, Nyarlathotep has a large percentage of Lovecraft'
  + a dreamy, god-like Pharoah. (["The Dream Quest of Unknown Kadath"][Kadath])
  + a demon satyr (goat-man) with skin as black as night. (["The Dreams of the Witch House"][Witch])
  + a three-lobed burning eye with wings (["The Haunter of the Dark"][Haunter])
- + the idiot Chaos 
+ + the idiot Chaos (["Fungi From Yuggoth"][Fungi]) 
 
 
 Quickly adopted by the many other writers who shared the Cthulhu Mythos with Lovecraft (Block, Price, Derleth, Carter, and more), and even other authors who are not known as Mythos writers (such as Stephen King), the role and archetype of Nyarlathotep has been employed to introduce a mocking, malevolant being who takes many forms (or wears many masks, according to some of the Mythos writers) and has many avatars on Earth. 
 
+Let's explore the appearances of Nyarlathotep in some of these stories, and how this will affect the endgame of A Song of Ice and Fire. First, however, let's review the role of Nyarlathotep from another, familiar story: Stephen King's *The Stand*.
 
 ##Randall Flagg (Stephen King)
 
 Stephen King, long inspired by the Mythos, used the Nyarlathotep archetype to introduce Randall Flagg. In fact, the language describing Randall Flagg is very similar to the language HP Lovecraft uses to introduce Nyarlathotep. Compare these two passages:
 
->There was a dark hilarity in his face, and perhaps in his heart, too, you would think � and you would be right. It was the face of a hatefully happy man, a face that radiated a horrible handsome warmth, a face to make water glasses shatter in the hands of tired truck-stop waitresses, to make small children crash their trikes into board fences and then run wailing to their mommies with stake-shaped splinters sticking out of their knees. It was a face guaranteed to make barroom arguments over batting averages turn bloody.
+>There was a dark hilarity in his face, and perhaps in his heart, too, you would think - and you would be right. It was the face of a hatefully happy man, a face that radiated a horrible handsome warmth, a face to make water glasses shatter in the hands of tired truck-stop waitresses, to make small children crash their trikes into board fences and then run wailing to their mommies with stake-shaped splinters sticking out of their knees. It was a face guaranteed to make barroom arguments over batting averages turn bloody.
 -Stephen King, *The Stand*
 
 
 
->And it was then that Nyarlathotep came out of Egypt. Who he was, none could tell, but he was of the old native blood and looked like a Pharaoh. The fellahin knelt when they saw him, yet could not say why. He said he had risen up out of the blackness of twenty-seven centuries, and that he had heard messages from places not on this planet. Into the lands of civilisation came Nyarlathotep, swarthy, slender, and sinister, always buying strange instruments of glass and metal and combining them into instruments yet stranger. He spoke much of the sciences � of electricity and psychology �and gave exhibitions of power which sent his spectators away speechless, yet which swelled his fame to exceeding magnitude. Men advised one another to see Nyarlathotep, and shuddered. And where Nyarlathotep went, rest vanished; for the small hours were rent with the screams of a nightmare. -H.P. Lovecraft, ["Nyarlathotep"][Nyar]
+>And it was then that Nyarlathotep came out of Egypt. Who he was, none could tell, but he was of the old native blood and looked like a Pharaoh. The fellahin knelt when they saw him, yet could not say why. He said he had risen up out of the blackness of twenty-seven centuries, and that he had heard messages from places not on this planet. Into the lands of civilisation came Nyarlathotep, swarthy, slender, and sinister, always buying strange instruments of glass and metal and combining them into instruments yet stranger. He spoke much of the sciences   of electricity and psychology  and gave exhibitions of power which sent his spectators away speechless, yet which swelled his fame to exceeding magnitude. Men advised one another to see Nyarlathotep, and shuddered. And where Nyarlathotep went, rest vanished; for the small hours were rent with the screams of a nightmare. -H.P. Lovecraft, ["Nyarlathotep"][Nyar]
 
 >Then down the wide lane betwixt the two columns a lone figure strode; a tall, slim figure with the young face of an antique Pharaoh, gay with prismatic robes and crowned with a golden pshent that glowed with inherent light. Close up to Carter strode that regal figure; whose proud carriage and swart features had in them the fascination of a dark god or fallen archangel, and around whose eyes there lurked the languid sparkle of capricious humour. It spoke, and in its mellow tones there rippled the mild music of Lethean streams. -H.P. Lovecraft, ["The Dream-Quest of Unknown Kadath"][Nyar]
 
@@ -48,15 +49,11 @@ With two very different styles, both King and Lovecraft invoke a man who radiate
 Technically, in universe, he is referred to as "Nyarlahotep", but this is referencing the same character, a man-like being who serves terrible gods but does so mockingly, while tricking humans into following him with "strange instruments of glass and metal" and "exhibitions of power which sent his followers away speechless".
 
 
-
-
 ##The God of the Thousand Forms
 
 Nyarlathotep has a true form but this true form is horrifying to humans. He is most frequently encountered as a tall, swarthy man who takes joy in spreading chaos and suffering. In early stories he was encountered as an Egyptian pharoah-like being, who inspires legions of followers with demonstrations of magical and terrible new technologies. Through rich rewards and magical deception, these followers lose awareness of their surroundings as Nyarlathotep, ambassador of the banished Outer Gods, spreads despair and terror.
 
 It's postulated that he has so many forms because of the many gods that he serves - that each of them, while banished from Earth, can take the form of Nyarlathotep and so the many roles he must play on Earth  can represent separate and even disparate missions. Let's review some of the Cthulhu Mythos forms and roles fulfilled by the many faces of Nyarlathotep.
-
-
 
 ###The Faceless God
 
@@ -67,29 +64,14 @@ Here is the earliest and most direct reference to the Faceless God by Lovecraft 
 
 ###The Crawling Chaos
 
-Another name or title of Nyarlathotep is The Crawling Chaos.
-
-Nyarlathotep takes great pride in driving men mad and causing chaos, instead of just torturing people, he aims to drive them mad.
-
 >Unlike the other Outer Gods, spreading madness is more important and enjoyable than death and destruction to [Nyarlathotep.][Nyar]
 
-###The Haunter of the Dark
 
-This is really interesting, as it relates directly to the Church of Starry Wisdom, which exists in Westeros and Essos and has a sinister reputation, according to Master Yandel. In "The Haunter of the Dark", written by Lovecraft in 1935, the diaries of the *Spoiler* (dead) protagonist are discussed and analyzed for truth. Robert Blake, the protagonist, is a writer in Providence, Rhode Island. He described his facination with a dark church: 
-
->"Of all the distant objects on Federal Hill, a certain huge, dark church most fascinated Blake. It stood out with especial distinctness at certain hours of the day, and at sunset the great tower and tapering steeple loomed blackly against the flaming sky." - HP Lovecraft, ["The Haunter of the Dark"][Haunter]
-
-He becomes obsessed withthe church and its dark presence. He decides to investigate it finally and what he finds horrifies him:
-
->It was a human skeleton, and it must have been there for a very long time. The clothing was in shreds, but some buttons and fragments of cloth bespoke a man's grey suit.
-
-A note in the man's tattered pocket contained a sordid history of the presence of the Church of Starry Wisdom in the town. It describes how its cultists use an ancient Egyptian "box" that "can't exist in light", and that these cultists used this "box", which they called the [Shining Trapezohedron][[Shining], as a window to see all of space and time. 
-This window, and the knowledge that could be gained by looking into it, came at a terrible price. For Nyarlathotep, in his avatar The Haunter of the Dark, demanded monsterous sacrifices for the use of the Shining Trapezohedron.
+Nyarlathotep takes great pride in driving men mad and causing chaos, instead of just torturing people, he aims to drive them mad. In fact, another name or title of Nyarlathotep is The Crawling Chaos.
 
 
-###What form does this avatar take? **A three-lobed burning eye with wings.**
 
-[Does that remind you of anyone's sigil, just a little?][Sigil] (Euron. It's Euron.)
+
 
 ###The Black Man of the Witch Cult
 
@@ -124,18 +106,30 @@ This is also a notable story as it both introduces Derleth's major addition to t
 
 ###The Rat in the Walls
 
-###The Whisperer in the Darkness
+This story does not focus on Nyarlathotep, but mentions him as "the mad faceless god" that horrible beings 
 
-This story only barely touches on Nyarlathotep, but includes a lot of information about the Mi-Go, who are an interstellar race of beings who worship Nyarlathotep and who may also be present in A Song of Ice and Fire as the builders of the mysterious greasy black stone buildings and cities such as Asshai.
+>"It was the eldritch scurrying of those fiend-born rats, always questing for new horrors, and determined to lead me on even unto those grinning caverns of earth’s centre where Nyarlathotep, the mad faceless god, howls blindly to the piping of two amorphous idiot flute-players." - HP Lovecraft, ["The Rats in the Walls"][Rats]
 
 
-###Yhoundeh, the Wife of Nyarlathotep
 
-I'm not sure exactly how this fits in yet, but I know that Nyarlathotep has a wife, the horned elk-goddess Yhoundeh. She was worshiped in ancient times in Hyperboria after her priests banned the worship of Tsathoggua. However, the fall of the Hyperborean civilization lead to the abandonment of the religon of Yhoundeh.
+###The Haunter of the Dark
 
-She is mainly mentioned in the [The Door to Saturn][Door] by Derleth
+This is really interesting, as it relates directly to the Church of Starry Wisdom, which exists in Westeros and Essos and has a sinister reputation, according to Master Yandel. In "The Haunter of the Dark", written by Lovecraft in 1935, the diaries of the *Spoiler* (dead) protagonist are discussed and analyzed for truth. Robert Blake, the protagonist, is a writer in Providence, Rhode Island. He described his facination with a dark church: 
 
-Apparently, Yhoundeh had an affair with Darkness, which birthed Shub-Niggurath, the Black Goat of the Woods with a Thousand Young. The Black Goat is worshiped in Qohor, of course, and this means that Yhoundeh could exist in the world of A Song of Ice and Fire. In fact, she is my vote for the Maiden Made of Light
+>"Of all the distant objects on Federal Hill, a certain huge, dark church most fascinated Blake. It stood out with especial distinctness at certain hours of the day, and at sunset the great tower and tapering steeple loomed blackly against the flaming sky." - HP Lovecraft, ["The Haunter of the Dark"][Haunter]
+
+He becomes obsessed withthe church and its dark presence. He decides to investigate it finally and what he finds horrifies him:
+
+>It was a human skeleton, and it must have been there for a very long time. The clothing was in shreds, but some buttons and fragments of cloth bespoke a man's grey suit.
+
+A note in the man's tattered pocket contained a sordid history of the presence of the Church of Starry Wisdom in the town. It describes how its cultists use an ancient Egyptian "box" that "can't exist in light", and that these cultists used this "box", which they called the [Shining Trapezohedron][[Shining], as a window to see all of space and time. 
+This window, and the knowledge that could be gained by looking into it, came at a terrible price. For Nyarlathotep, in his avatar The Haunter of the Dark, demanded monsterous sacrifices for the use of the Shining Trapezohedron.
+
+
+###What form does this avatar take? **A three-lobed burning eye with wings.**
+
+[Does that remind you of anyone's sigil, just a little?][Sigil] (Euron. It's Euron.)
+
 
 
 
@@ -145,20 +139,17 @@ To understand Nyarlathotep, you must understand the roles he plays in the Mythos
 
 ###The Messenger of the Gods
 
-
->"... the gigantic ultimate gods, the blind, voiceless, tenebrous, mindless Other Gods whose soul and messenger is the crawling chaos Nyarlathotep." - HP Lovecraft, ["The Dream Quest of Unknown Kadath"][Kadath]
-
 >"I am His Messenger," the daemon said,
 As in contempt he struck his Master’s head.
 - HP Lovecraft, ["Fungi From Yuggoth"][Fungi]
 
-Because Nyarlathotep can walk among mortals, Lovecraft and the other Mythos writers employ Nyarlathotep as the interface between humans and the Outer Gods. 
+Because Nyarlathotep can walk among mortals, Lovecraft and the other Mythos writers employ Nyarlathotep as the interface between humans and the Outer Gods. He appears in more stories than most of the Other Gods (that is, the Outer Gods and the Great Old Ones, which are not exactly distinct as there is no real order to the Mythos).
 
 
 
 ###Bringer of Chaos
 
-
+>"... the gigantic ultimate gods, the blind, voiceless, tenebrous, mindless Other Gods whose soul and messenger is the crawling chaos Nyarlathotep." - HP Lovecraft, ["The Dream Quest of Unknown Kadath"][Kadath]
 
 
 ###Teller of Lies
@@ -207,7 +198,7 @@ Many, in man’s first youth, sought out that glow,
 But what they found, no one will ever know.
 - HP Lovecraft, ["Fungi From Yuggoth"][Fungi]
 
-The representations of the Stranger - a man with a veiled face - correlate closely to the King in Yellow and the High Priest Not To Be Described.
+The representations of the Stranger - a man with a veiled face - correlate closely to the [King in Yellow][King] and [the High Priest Not To Be Described.][Priest]
 
 ###The Black Goat?
 
@@ -220,7 +211,17 @@ The Black Goat, then, may not be one of Nyarlathotep's forms, but she/he is defi
 
 ###Lion of Night
 
-Because the Many-Faced God is directly associated with the Lion of Night, and Nyarlathotep is associated with the Many-Faced God, then Nyarlathotep may be directly associated with the coming of the Long Night as described in The World of Ice and Fire. 
+Because the Many-Faced God is directly associated with the Lion of Night, and Nyarlathotep is associated with the Many-Faced God, then Nyarlathotep may be directly associated with the coming of the Long Night as described in the Yi Ti story of the Great Empire of the Dawn, from *The World of Ice and Fire*. 
+
+
+###Yhoundeh, the Wife of Nyarlathotep
+
+I'm not sure exactly how this fits in yet, but it's worth noting that Nyarlathotep has a wife, the horned elk-goddess Yhoundeh. She was worshiped in ancient times in Hyperboria after her priests banned the worship of Tsathoggua. However, the fall of the Hyperborean civilization lead to the abandonment of the religon of Yhoundeh.
+
+She is mainly mentioned in the [The Door to Saturn][Door] by Derleth
+
+Apparently, Yhoundeh had an affair with Darkness, which birthed Shub-Niggurath, the Black Goat of the Woods with a Thousand Young. The Black Goat is worshiped in Qohor, of course, and this means that Yhoundeh could exist in the world of A Song of Ice and Fire. In fact, she is my vote for the Maiden Made of Light (while of course, the Maiden Made of Light represents the Sun, she might also be a Mythos God)
+
 
 
 ###The Bloodstone Emperor?
@@ -253,12 +254,15 @@ When he joins Victarion, the crew is incredibly afraid of him, much like the nat
 
 ##Euron Greyjoy
 
-Who in the story is the seed of evil, the spreader of chaos and lies, who tricks men into following him to their doom using strange instruments of glass and metal? Who sees himself as both better than humans and the gods, but at the same time  is performing the will of the gods using blood rituals?
+Who in the story is the seed of evil, the spreader of chaos and lies, who tricks men into following him to their doom using strange instruments of glass and metal? Who sees himself as both better than humans and the gods, but at the same time is performing the will of the gods using blood rituals?
 
-###Strange man of power and 
+
 It's Euron. He has returned from his banishment, but he is not fully human anymore, if he ever was. And he is here to torture, to kill, to drive men mad, as we see when he is alone with Aeron in The Winds of Winter sample chapter. Wearing a suit of Valyrian armor, he
 
 >That is not dead which can eternal lie, [And with strange aeons even death may die.][Call]
+
+###Cult Leader of Men
+
 
 ###Tormentor of Men
 
@@ -270,7 +274,7 @@ Euron's treatment of Aeron, and of the 4 warlocks of Qarth, are perfect examples
 
 >"Who knows more of gods than I? Horse gods and fire gods, gods made of gold with gemstone eyes, gods carved of cedar wood, gods chiseled into mountains, gods of empty air... I know them all. I have seen their peoples garland them with flowers, and shed the blood of goats and bulls and children in their names. And I have heard the prayers, in half a hundred tongues. Cure my withered leg, make the maiden love me, grant me a healthy son. Save me, succor me, make me wealthy... protect me! Protect me from mine enemies, protect me from the darkness, protect me from the crabs inside my belly, from the horselords, from the slavers, from the sellswords at my door. Protect me from the Silence." He laughed. "Godless? Why, Aeron, I am the godliest man ever to raise sail! **You serve one god, Damphair, but I have served ten thousand.** From Ib to Asshai, when men see my sails, they pray."  - George RR Martin, *A Feast For Crows*
 
-Euron makes blood sacrifices to the Storm God ([who I believe to be Hastur][Magnum]
+Euron makes blood sacrifices to the Storm God ([who I believe to be Hastur][Magnum], according to the whispers of sailors.
 
 ###Torturer of Men
 Euron's treatment of the 4 warlocks is a perfect example of his ability to inflect madness. He kills one of them, to show that he meant business, and then chained them up and made them eat the dead warlock (and probaly themselves). In "The Forsaken", we see what's left of Pyat Pree: a man without legs, who has clearly been driven mad:  
@@ -284,7 +288,7 @@ But his ultimate goal is not just to drive men mad and to spread chaos and fear.
 
 #My Conclusions:
 
-Nyarlathotep, the Faceless God, he of a thousand terrible forms, has been present throughout the stories in many forms - all representing death and despair.
+Nyarlathotep, the Faceless God, he of a thousand terrible forms, has been present throughout the stories in many forms - all representing death and despair. And currently he has taken over two humans and is using them to 
 
 When the Ghost of High Heart sees a man without a face on a bridge, with a crow on his shoulder, she's not describing a Faceless Man.
 
@@ -333,3 +337,4 @@ Euron is no longer the brother of Aeron and Balon. He has been taken over by the
 [Call]: http://www.dagonbytes.com/thelibrary/lovecraft/thecallofcthulhu.htm "Call of Cthulhu"
 [Ulthar]: https://en.wikipedia.org/wiki/Ulthar "Ulthar"
 [Uthor]: http://awoiaf.westeros.org/index.php/Uthor_of_the_High_Tower "Uthor"
+[King]: https://en.wikipedia.org/wiki/The_King_in_Yellow
