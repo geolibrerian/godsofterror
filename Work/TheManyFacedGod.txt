@@ -1,6 +1,4 @@
-﻿#Nyarlathotep, the Many-Faced God
-
-In researching the [Lovecraft (Cthulhu) Mythos][Mythos] for the inspirations of the terrible [Gods of Terros][Terror], one name keeps popping up as a central agent of chaos, who appears on Earth to perform the bidding of the [Outer Gods][Old]:  the Outer God know as [Nyarlathotep][Nyar].
+﻿In researching the [Lovecraft (Cthulhu) Mythos][Mythos] for the inspirations of the terrible [Gods of Terros][Terror], one name keeps popping up as a central agent of chaos, who appears on Earth to perform the bidding of the [Outer Gods][Old]:  the Outer God know as [Nyarlathotep][Nyar].
 
 [Nyarlathotep](http://godsofterror.tumblr.com/image/152886840486). The Crawling Chaos, the Faceless God, the Sphinx, the Haunter of the Dark. Who is this mysterious Outer God? Why is he central to the plans of the Outer Gods, whom he openly mocks? Why does he enjoy spreading fear, chaos and terror in the hearts of humans?
 
@@ -14,7 +12,7 @@ I will follow this up in the next few days with a second part, which will contai
 
 >"Nyarlathotep, horror of infinite shapes and dread soul and messenger of the Other Gods" - HP Lovecraft, ["The Dream Quest of Unknown Kadath"][Kadath]
 
-Developed by HP Lovecraft in 1920, Nyarlathotep is first decribed as man of strange powers who has come from the ancient lands of Eygpt. He gives demonstrations of his strange powers that awe and frighten the people, but his reputation spreads qiuckly, as do the night screams and nightmares of the populace in the lands he visits.
+Developed by HP Lovecraft in 1920, Nyarlathotep is first decribed as man of strange powers who has come from the ancient lands of Eygpt. He gives demonstrations of his powers that awe and frighten the people, but his reputation spreads quickly, as do the night screams and nightmares of the populace in the lands he visits.
 
 HP Lovecraft wrote 4 stories and one poem where an avatar of Nyarlathotep appears directly: ["Nyarlathotep"][Prose],  ["The Dream Quest of Unknown Kadath"][Kadath], ["The Dreams of the Witch House"][Witch], ["The Haunter of the Dark"][Haunter] and the poem ["Fungi from Yuggoth"][Fungi], where he appears in 2 stanzas. 
 
@@ -24,7 +22,7 @@ Though relative to other gods, Nyarlathotep has a large percentage of Lovecraft'
  + a dreamy, god-like Pharoah. (["The Dream Quest of Unknown Kadath"][Kadath])
  + a demon satyr (goat-man) with skin as black as night. (["The Dreams of the Witch House"][Witch])
  + a three-lobed burning eye with wings (["The Haunter of the Dark"][Haunter])
- + the idiot Chaos, who takes the author on a tour of the universe, and destroys Earth (["Fungi From Yuggoth"][Fungi]) 
+ + the idiot Chaos, who takes the author on a tour of the universe, and through his actions, destroys Earth (["Fungi From Yuggoth"][Fungi]) 
 
 
 Quickly adopted by the many other writers who shared the Cthulhu Mythos with Lovecraft (Block, Price, Derleth, Carter, and more), and even other authors who are not known as Mythos writers (such as Stephen King), the role and archetype of Nyarlathotep has been employed to introduce a mocking, malevolant being who takes many forms (or wears many masks, according to some of the Mythos writers) and has many avatars on Earth. 
@@ -70,14 +68,13 @@ Here is the earliest and most direct reference to the Faceless God by Lovecraft 
 
 Nyarlathotep takes great pride in driving men mad and causing chaos. Instead of just torturing people, he aims to drive them mad. In fact, another name or title of Nyarlathotep is The Crawling Chaos. 
 
-
-This name partially derives from his role as the messenger (and soul) of the being [Azathoth][Azat], which is basically a "chaotic" nuclear being that is both "beyond angled space" (i.e. outside of our universe and spacetime) while also the creator of the universe, who dreamed it into being.  "Some texts state that the Crawling Chaos is another name for the [end of the world."][Masks]
-
 >Then, crushing what he chanced to mould in play,
 The idiot Chaos blew Earth’s dust away.
 - HP Lovecraft, ["Fungi From Yuggoth"][Fungi]
 
-If Azathoth were to wake, the universe would be blown to dust, so the Outer Gods dance around him to flutes, hoping to ensure that Azathoth does not wake.
+This name partially derives from his role as the messenger (and soul) of the being [Azathoth][Azat], which is basically a "chaotic" nuclear being that is both "beyond angled space" (i.e. outside of our universe and spacetime) while also the creator of the universe, who dreamed it into being.  It is also speciulated that the Crawling Chaos is another name for the [end of the world, that will be initiated by Nyarlathotep.][Masks]
+
+If Azathoth were to wake, the universe would be blown to dust, so the Outer Gods dance around him to flutes, hoping to ensure that Azathoth does not wake. This overwhelming amount of power is what leads me to believe that Azathoth, while the most powerful of all the gods, is not the Great Other. Azathoth is too important to the universe to involve himself in the squabbles over Earth. [Hastur, in my opinion, is the more likely candidate to be the Great Other.][Magnum]
 
 
 ###The Black Man of the Witch Cult
@@ -92,11 +89,14 @@ In *The Dreams in the Witch House*, by Lovecraft, by sleeping in a haunted Salem
 
 >"a tall, lean man of dead black colouration but without the slightest sign of negroid features; wholly devoid of either hair or beard, and wearing as his only garment a shapeless robe of some heavy black fabric. His feet were indistinguishable because of the table and bench, but he must have been shod, since there was a clicking whenever he changed position." - HP Lovecraft, ["The Dreams in the Witch House"][Witch]
 
+The Black Man/Dark Man of the Witch Cult was a Christian vision of the being that sealed agreements between witches and Satan; Lovecraft adopted the idea and replaced Satan with Nyarlathotep.
+
+
 ###Nephren-Ka
 
 >"The Black Pharaoh, an insane pharaoh who secured the Shining Trapezohedron for Egypt, but after being convinced by the resident Haunter of the Dark, he had a lightless temple created to hold the stone and the deity within. That temple became a center of abominable happenings, and the rites carried out there were so monstrous the temple was destroyed and the Pharaoh's name was struck from all records and monuments. The Pharaoh was controlled by the cruel god Nyarlathotep, of whom [the Haunter of the Dark was likely an avatar"][Nephren]
 
-The story of Nephren-Ka gives evidence that human characters can be directly controlled by Nyarlathotep, as Nephren-Ka is directed by Nyarlathotep to build a lightless temple to house the Shining Trapezohedron.
+The story of Nephren-Ka gives evidence that human characters can be directly controlled by Nyarlathotep, as Nephren-Ka is directed by Nyarlathotep to build a lightless temple to house the Shining Trapezohedron. It is in the darkness of the temple that blood sacrifices are used to call the Haunter of the Dark.
 
 ###The Sphinx
 
@@ -109,7 +109,7 @@ One story concerning Nyarlathotep is called "The Faceless God". Written by Rober
 
 In this [August Derleth story][Dweller], a professor studying a haunted lake in Wisconsin disappears and his friend sets out to find him. What he discovers is that the lake and the woods are inhabited by an avatar of Nyarlathotep. To drive him away, the friend is helped by a sullen local Native American who is haunted by the long history of the lake and the terrible Great Old One.
 
-This is also a notable story as it both introduces Derleth's major addition to the Mythos, [Cthugha][Fire], and sees Cthugha invoked to scare away the avatar of Nyarlathotep. From the beginnning, then, Cthugha, the Lord of Light, is at war with Nyarlathotep. I will cover Cthugha more completely in a future essay, as i believe that he too is a major component of the pantheon of the Gods of Terror.
+This is also a notable story as it both introduces Derleth's major addition to the Mythos, [Cthugha][Fire], and sees Cthugha invoked to scare away the avatar of Nyarlathotep. From the beginnning, then, [Cthugha](http://img13.deviantart.net/e5e8/i/2012/290/f/8/cthulhu_by_douzen-d5i2rq0.jpg), the Lord of Light, is at war with Nyarlathotep. I will cover Cthugha more completely in a future essay, as i believe that he is a major component of the pantheon of the Gods of Terror - he is the god of the Red Religion.
 
 
 ###The Haunter of the Dark
@@ -187,7 +187,7 @@ But not every god represented in the House of Black and White is directly associ
 
 In the Cthulhu Mythos there is a group of cultists called the [Dark Brotherhood or Black Brotherhood][Black], who are dedicated to hastening the return of the Great Old Ones. They are an international group of assasins, made of people of all ethnicities and all ways of life, who adopt a mask to disguise themselves.
 
-Now, this being an August Derleth story (while it's credited to both him and Lovecraft, it's his story from HP's rough idea), all of the assasins wear a mask that stupidly looks like Edgar Allen Poe. Yes, the writer. It's also worth noting that Poe wrote a story called the Sphinx which may have influenced Nyarlathotep's background. 
+Now, this being an August Derleth story (while it's credited to both him and Lovecraft, it's his story from HP's rough idea), all of the assasins wear a mask that stupidly looks like Edgar Allen Poe. Yes, the writer. It's also worth noting that Poe wrote a story called "The Sphinx" which may have influenced Nyarlathotep's background. 
 
 
 
@@ -259,21 +259,34 @@ Given that it hasn't been established exactly which gods Varys prays to, and the
 
 ###Moroqqo
 
-This is my choice for a second avatar of Nyarlathotep. His description is very close to the Dark Man or Black Man of the Witch Cults version of Nyarlathotep. When we first meet him, he is with Tyrion on the *Selaesori Qhoran* His skin is not brown or tan, but is instead coal black, as black as night:
+>The strange dark One to whom the fellahs bowed;
+Silent and lean and cryptically proud,
+And wrapped in fabrics red as sunset flame.*
+- HP Lovecraft, ["Fungi Form Yuggoth"][Fungi]
+
+This is my choice for a second avatar of Nyarlathotep. His description is very close to the Dark Man or Black Man of the Witch Cults version of Nyarlathotep. When we first meet him, he is with Tyrion on the *Selaesori Qhoran*. His skin is not brown or tan, but is instead coal black, as black as night:
 
 >A huge man, taller than Ser Jorah and wide enough to make two of him, the priest wore scarlet robes embroidered at sleeve and hem and collar with orange satin flames. His skin was black as pitch, his hair as white as snow; the flames tattooed across his cheeks and brow yellow and orange. His iron staff was as tall as he was and crowned with a dragon’s head; when he stamped its butt upon the deck, the dragon’s maw spat crackling green flame.
 -Tyrion 
 
-When he joins Victarion, the crew is incredibly afraid of him, much like the natives of Eygpt who fear the black stone Sphinx from "The Dweller In Darkness". He is not the same man that Tyrion encountered on the *Selaesori Qhoran*. When he is fished from the sea and brought to Victarion, he is wearing a faded red garment.
 
->His skin was black. Not the nut brown of the Summer Islanders on their swan ships, nor the red-brown of the Dothraki horselords, nor the charcoal-and-earth color of the dusky woman’s skin, but black. Blacker than coal, blacker than jet, blacker than a raven’s wing. Burned , Victarion thought, like a man who has been roasted in the flames until his flesh chars and crisps and falls smoking from his bones . The fires that had charred him still danced across his cheeks and forehead, where his eyes peered out from amongst a mask of frozen flames. Slave tattoos, the captain knew. Marks of evil.
+When he joins Victarion, the crew is incredibly afraid of him, much like the natives of Eygpt who fear the black stone Sphinx from "The Dweller In Darkness". He is not the same man that Tyrion encountered on the *Selaesori Qhoran*. 
 
-Later, in an attempt to make him seem less evil, Victarion has a new robe made for Moroqqo from black cloth. However, this does not help to inspire the ship's crew to trust him:
+>His skin was black. Not the nut brown of the Summer Islanders on their swan ships, nor the red-brown of the Dothraki horselords, nor the charcoal-and-earth color of the dusky woman’s skin, but black. Blacker than coal, blacker than jet, blacker than a raven’s wing. Burned , Victarion thought, like a man who has been roasted in the flames until his flesh chars and crisps and falls smoking from his bones . The fires that had charred him still danced across his cheeks and forehead, where his eyes peered out from amongst a mask of frozen flames. Slave tattoos, the captain knew. Marks of evil. - The Iron Suitor, *A Dance With Dragons*
+
+When he is fished from the sea and brought to Victarion, he is wearing a faded red garment. Later, in an attempt to make him seem less evil, Victarion has a new robe made for Moroqqo from black cloth. However, this does not help to inspire the ship's crew to trust him:
 
 >Clad in black from head to heel, with a mask of red-and-orange flames tattooed across his face, the priest appeared more sinister than ever.
->The firelight made his black skin shine like polished onyx, and sometimes Victarion could swear that the flames tattooed on his face were dancing too, twisting and bending, melting into one another, their colors changing with every turn of the priest’s head.
+>The firelight made his black skin shine like polished onyx, and sometimes Victarion could swear that the flames tattooed on his face were dancing too, twisting and bending, melting into one another, their colors changing with every turn of the priest’s head. - Victarion I, *A Dance With Dragons*
 
 Note that the flame tattoos on his face have change from yellow and orange to red and orange.
+
+Here is the description of the Black Man of the Witch Cult:
+
+>a tall, lean man of dead black colouration but without the slightest sign of negroid features; wholly devoid of either hair or beard, and wearing as his only garment a shapeless robe of some heavy black fabric. His feet were indistinguishable because of the table and bench, but he must have been shod, since there was a clicking whenever he changed position. - HP Lovecraft, "The Dreams in the Witch House"
+
+So does this mean that Moroqqo is working with Euron? It's hard to say exactly, given the confusion surrounding the relatioship of Nyarlathotep and the other gods of the Cthulhu Mythos. Moroqqo is an adherant to the red religion, and Nyarlathotep is seen to be in opposition to my choice for the [Lord of Light, Cthugha.](http://img13.deviantart.net/e5e8/i/2012/290/f/8/cthulhu_by_douzen-d5i2rq0.jpg)
+
 
 ##Euron Greyjoy
 
@@ -316,7 +329,7 @@ But his ultimate goal is not just to drive men mad and to spread chaos and fear.
 
 >"Who knows more of gods than I? Horse gods and fire gods, gods made of gold with gemstone eyes, gods carved of cedar wood, gods chiseled into mountains, gods of empty air... I know them all. I have seen their peoples garland them with flowers, and shed the blood of goats and bulls and children in their names. And I have heard the prayers, in half a hundred tongues. Cure my withered leg, make the maiden love me, grant me a healthy son. Save me, succor me, make me wealthy... protect me! Protect me from mine enemies, protect me from the darkness, protect me from the crabs inside my belly, from the horselords, from the slavers, from the sellswords at my door. Protect me from the Silence." He laughed. "Godless? Why, Aeron, I am the godliest man ever to raise sail! **You serve one god, Damphair, but I have served ten thousand.** From Ib to Asshai, when men see my sails, they pray."  - George RR Martin, *A Feast For Crows*
 
-This is a famous quote, which I have always loved. And at first I saw the "served ten thousand gods" line as only relating to the fear he inspires in his victims and tehir pleas for help from their gods. But in the light of the role that he is to play in the story, and the role of Nyarlathotep as the messenger of the gods, it's clear that it has two meanings.
+This is a famous quote, which I have always loved. And at first I saw the "served ten thousand gods" line as only relating to the fear he inspires in his victims and their pleas for help from their gods. But in the light of the role that he is to play in the story, and the role of Nyarlathotep as the messenger of the gods, it's clear that it has two meanings.
 
 
 Euron makes blood sacrifices to the Storm God ([who I believe to be Hastur][Magnum], according to the whispers of sailors, to receive favorable winds. At the end of The Forsaken, he is preparing to make an even greater sacrifice. This is the first part of his plan to bring back the Gods of Terror.
@@ -328,13 +341,14 @@ Euron makes blood sacrifices to the Storm God ([who I believe to be Hastur][Magn
 
 #My Conclusions:
 
-Nyarlathotep, the Faceless God, he of a thousand terrible forms, has been present throughout the stories in many forms - all representing death and despair. And currently he has taken over two humans and is using them to help bring back the 
-
-
+Nyarlathotep, the Faceless God, he of a thousand terrible forms, has been present throughout the stories in many forms - all representing death and despair. And currently he has taken over two humans and is using them to help bring back the banished Other Gods. 
 
 Euron is no longer the brother of Aeron and Balon. He has been taken over by the Crawling Chaos, the god of a thousand faces, the tall, swarthy pharaoh-like man who brings chaos and wins legions of followers through demonstrations of terrible, magical technology. And it is Euron, who serves the Gods, who will awaken them from their slumber.
 
+Moroqqo, after he was washed into the sea and taken onboard the Iron Fleet, is no longer human (if he ever was), but has instead become one with Nyarlathotep. His power and visions are derived from his new 
 
+
+The Faceless Men serve Nyarlathotep, the Faceless God, and are working to hasten the return of the gods and the end of the world. All men must serve, they say.... and all men must die.
 
 
 
