@@ -5,9 +5,9 @@ In researching the [Lovecraft (Cthulhu) Mythos][Mythos] for the inspirations of 
 [Nyarlathotep](http://godsofterror.tumblr.com/image/152886840486). The Crawling Chaos, the Faceless God, the Sphinx, the Haunter of the Dark. Who is this mysterious Outer God? Why is he central to the plans of the Outer Gods, whom he openly mocks? Why does he enjoy spreading fear, chaos and terror in the hearts of humans?
 
 
-In this research essay I will argue that the Many-Faced God of the House of Black and White of Braavos is none other than Nyarlathotep. To further the whim of the Outer Gods, a group of powerful cosmic beings that have mostly been banished from Earth, the Faceless God Nyarlathotep roams the world in many forms. His evil aims will become central to the main story of A Song of Ice and Fire in *The Winds of Winter*, as his one of his avatars mocks both the Gods and humans and bespeaks the end of the world by hastening the return of the [Outer Gods][Ones] and the [Great Old Ones][Olds] (the two main groups of gods in the Cthulhu Mythos - note that the distinction did not originate with Lovecraft but with his successor August Derleth).
+In this essay I will argue that the Many-Faced God of the House of Black and White of Braavos is none other than Nyarlathotep. To further the whim of the Outer Gods, a group of powerful cosmic beings that have mostly been banished from Earth, the Faceless God Nyarlathotep roams the world in many forms. His evil aims will become central to the main story of A Song of Ice and Fire in *The Winds of Winter*, as his one of his avatars mocks both the Gods and humans and bespeaks the end of the world by hastening the return of the [Outer Gods][Ones] and the [Great Old Ones][Olds] (the [two main groups of gods in the Cthulhu Mythos](http://godsofterror.tumblr.com/image/153781724986) - note that the distinction did not originate with Lovecraft but with his successor August Derleth).
 
-
+I will follow this up in the next few days with a second part, which will contain my speculation on what this means for the story. For now, let's review the roles and forms of Nyarlathotep and correlate them with both gods and humans in A Song of Ice and Fire.
 
 
 ##Nyarlathotep Background
@@ -24,7 +24,7 @@ Though relative to other gods, Nyarlathotep has a large percentage of Lovecraft'
  + a dreamy, god-like Pharoah. (["The Dream Quest of Unknown Kadath"][Kadath])
  + a demon satyr (goat-man) with skin as black as night. (["The Dreams of the Witch House"][Witch])
  + a three-lobed burning eye with wings (["The Haunter of the Dark"][Haunter])
- + the idiot Chaos (["Fungi From Yuggoth"][Fungi]) 
+ + the idiot Chaos, who takes the author on a tour of the universe, and destroys Earth (["Fungi From Yuggoth"][Fungi]) 
 
 
 Quickly adopted by the many other writers who shared the Cthulhu Mythos with Lovecraft (Block, Price, Derleth, Carter, and more), and even other authors who are not known as Mythos writers (such as Stephen King), the role and archetype of Nyarlathotep has been employed to introduce a mocking, malevolant being who takes many forms (or wears many masks, according to some of the Mythos writers) and has many avatars on Earth. 
@@ -123,7 +123,7 @@ He becomes obsessed withthe church and its dark presence. He decides to investig
 >It was a human skeleton, and it must have been there for a very long time. The clothing was in shreds, but some buttons and fragments of cloth bespoke a man's grey suit.
 
 A note in the man's tattered pocket contained a sordid history of the presence of the Church of Starry Wisdom in the town. It describes how its cultists use an ancient Egyptian "box" that "can't exist in light", and that these cultists used this "box", which they called the [Shining Trapezohedron][[Shining], as a window to see all of space and time. 
-This window, and the knowledge that could be gained by looking into it, came at a terrible price. For Nyarlathotep, in his avatar The Haunter of the Dark, demanded monsterous sacrifices for the use of the Shining Trapezohedron.
+This window, and the knowledge that could be gained by looking into it, came at a terrible price. For Nyarlathotep, in his avatar The Haunter of the Dark, demanded monsterous blood sacrifices for the use of the Shining Trapezohedron.
 
 
 ###What form does this avatar take? **A three-lobed burning eye with wings.**
@@ -152,20 +152,24 @@ Because Nyarlathotep can walk among mortals, Lovecraft and the other Mythos writ
 >"... the gigantic ultimate gods, the blind, voiceless, tenebrous, mindless Other Gods whose soul and messenger is the crawling chaos Nyarlathotep." - HP Lovecraft, ["The Dream Quest of Unknown Kadath"][Kadath]
 
 
-###Teller of Lies
-
-Nyarlathotep spreads not just doom but lies as well, to help spread fear and distress within the populace. In the first story, HP Lovecraft describes how screams and nightmares filled each city visited by Nyarlathotep as he gave his demonstrations of power.
+Nyarlathotep spreads not just doom but chaos as well, to help spread fear and distress within the populace. In the first story, HP Lovecraft describes how screams and nightmares filled each city visited by Nyarlathotep as he gave his demonstrations of power.
 
 ###Harbinger of Doom
 
->"And through this revolting graveyard of the universe the muffled, maddening beating of drums, and thin, monotonous whine of blasphemous flutes from inconceivable, unlighted chambers beyond Time; the detestable pounding and piping whereunto dance slowly, awkwardly, and absurdly the gigantic, tenebrous ultimate gods-the blind, voiceless, mindless gargoyles whose soul is Nyarlathotep." HP Lovecraft, ["Nyarlathotep"][Prose]
+>"If there are gods to listen, they are monstrous gods who torment us for their sport. Who else would make a world like this, so full of bondage, blood, and pain? Who else would shape us as they have?" - Tyrion XI, *A Dance With Dragons*
 
-The Gods of Terros are terrible. Their 
+The Gods of Terros are terrible. Their indifference to the suffering of humanity, and the even more sinister enjoyment of suffering shown by Nyarlathotep, are not even the worst part of their plans. 
+
+According to Derleth, the Outer Gods and the Great Old Ones were banished from Earth in an ancient war with the Elder Gods of Earth. Some of the Outer Gods/Great Old Ones are sleeping on Earth, like Cthulhu, and others were banished into otuer space, but they want to return to take their revenge. However, they are prevented from doing so without outside help.
+
+Only Nyarlathotep is free to roam the earth and interact with mortals, doing the bidding of the Gods. He is working to reverse the banishment, and to awaken the sleeping gods. And it's for this reason that he appears in A Song of Ice and Fire.
 
 
 #Nyarlathotep in A Song of Ice and Fire
 
-If you have been reading my Gods of Terror theory series, you understand that George RR Martin is a huge Cthulhu Mythos fan. I have already identified two major Mythos gods in the pantheon of Gods present in A Song of Ice and Fire, and another is generally seen as the : 
+>"And through this revolting graveyard of the universe the muffled, maddening beating of drums, and thin, monotonous whine of blasphemous flutes from inconceivable, unlighted chambers beyond Time; the detestable pounding and piping whereunto dance slowly, awkwardly, and absurdly the gigantic, tenebrous ultimate gods-the blind, voiceless, mindless gargoyles whose soul is Nyarlathotep." HP Lovecraft, ["Nyarlathotep"][Prose]
+
+If you have been reading my Gods of Terror theory series, you understand that George RR Martin is a huge Cthulhu Mythos fan. I have already identified two major Mythos gods in the pantheon of Gods present in A Song of Ice and Fire ([Hastur is The Great Other][Magnum] and [Tsathoggua is the Toad God][Toad]), and Cthulhu is so generally seen as the Drowned God that I haven't had to write it up yet. Dagon is another 
 
 
 ##The Many-Faced God and the representations of Death
@@ -198,7 +202,7 @@ Many, in man’s first youth, sought out that glow,
 But what they found, no one will ever know.
 - HP Lovecraft, ["Fungi From Yuggoth"][Fungi]
 
-The representations of the Stranger - a man with a veiled face - correlate closely to the [King in Yellow][King] and [the High Priest Not To Be Described.][Priest]
+The representations of the Stranger - a man with a veiled face - correlate closely to the [King in Yellow][King] and [the High Priest Not To Be Described.][Priest] It is easy to make the connection to Nyarlathotep, who is often associated with the King in Yellow and the the High Priest Not To Be Described. Most importantly, however, is the association with Death.
 
 ###The Black Goat?
 
@@ -216,23 +220,33 @@ Because the Many-Faced God is directly associated with the Lion of Night, and Ny
 
 ###Yhoundeh, the Wife of Nyarlathotep
 
-I'm not sure exactly how this fits in yet, but it's worth noting that Nyarlathotep has a wife, the horned elk-goddess Yhoundeh. She was worshiped in ancient times in Hyperboria after her priests banned the worship of Tsathoggua. However, the fall of the Hyperborean civilization lead to the abandonment of the religon of Yhoundeh.
+I'm not sure exactly how this fits in yet, but it's worth noting that Nyarlathotep has a wife, the horned elk-goddess Yhoundeh. She was worshiped in ancient times in Hyperboria after her priests banned the worship of Tsathoggua. However, the fall of the Hyperborean civilization lead to the abandonment of the religon of Yhoundeh. She is mainly mentioned in the [The Door to Saturn][Door] by Derleth.
 
-She is mainly mentioned in the [The Door to Saturn][Door] by Derleth
-
-Apparently, Yhoundeh had an affair with Darkness, which birthed Shub-Niggurath, the Black Goat of the Woods with a Thousand Young. The Black Goat is worshiped in Qohor, of course, and this means that Yhoundeh could exist in the world of A Song of Ice and Fire. In fact, she is my vote for the Maiden Made of Light (while of course, the Maiden Made of Light represents the Sun, she might also be a Mythos God)
+Apparently, Yhoundeh had an affair with Darkness, which birthed Shub-Niggurath, the Black Goat of the Woods with a Thousand Young. The Black Goat is worshiped in Qohor, of course, and this means that Yhoundeh could exist in the world of A Song of Ice and Fire. In fact, she is my vote for the Maiden Made of Light (while of course, the Maiden Made of Light represents the Sun, she might also be a Mythos God).
 
 
 
 ###The Bloodstone Emperor?
 
+I'll cover this more in part two of this essay, but the story of the Bloodstone Emperor of the Great Empire of the Dawn is full of Nyarlathotep allusions. The Bloodstone Emperor worshiped a black stone that fell from the sky. This is a direct allusion to the Shining Trapezohedron worshiped by the Church of Starry Wisdom in "The Haunter of the Dark". In fact, the Yi Ti legend states explicitly that the Bloodstone Emperor was the first priest of the "sinister" Church of Starry Wisdom, which exists in the main story throughout the port cities of Essos and Sothoryos and Westeros.
 
+What could this mean? Well, in "The Haunter of the Dark", the protagonist discovers that the Church performs human sacrifices over the Shining Trapezohedron to call the Haunter of the Dark, who gives them visions of the future in exchange for that most terrible of coin: blood.
 
-##What about in the Main Story???
+I'll have a lot more on this in the second part of this essay, where I will postulate as to what this reference will mean for A Song of Ice and Fire.
+
+#In The Main Story???
+
+##Faceless Men and Braavos
+
+It's clear that there is more to the story of the first Faceless Man and the cult that was formed to worship the Faceless God (excuse me, the Many-Faced God). For instance, how did the moon singers of the Jogos Nhai receive the visions of the lagoon that was to become Braavos? How does the House of Black and White relate to the Iron Bank of Braavos?
+
+Did they cause the Doom of Valyria? And if so, why?
+
+The obvious Cthulhu Mythos comparison is the Dark Brotherhood, even with it's Derleth-imposed limitations. The idea of an international brotherhood of assasins that wear masks and are working to bring back the banished Gods seems to be a direct inspiration for the Faceless Men (without the Poe bullshit to hold it down).
 
 ###Littlefinger?
 
-The emphasis on causing chaos, and his background in Braavos where they worship the Many-Faced God among other gods, makes me suspect that  Petyr Baelish might be some form of Nyarlathotep, but in the end I don't think he fits the archetype. He's just a scheming man (though no ordinary schemer, to be sure), and not a god intent on the destruction of humanity.
+The emphasis on causing chaos, and his background in Braavos where they worship the Many-Faced God among other gods, makes me suspect that Petyr Baelish might be some form of Nyarlathotep, but in the end I don't think he fits the archetype. He's just a scheming man (though no ordinary schemer, to be sure), and not a god intent on the destruction of humanity.
 
 However, I do wonder exactly which gods Varys is referencing in [this quote from Arya III][Arya]:
 
@@ -250,49 +264,73 @@ This is my choice for a second avatar of Nyarlathotep. His description is very c
 >A huge man, taller than Ser Jorah and wide enough to make two of him, the priest wore scarlet robes embroidered at sleeve and hem and collar with orange satin flames. His skin was black as pitch, his hair as white as snow; the flames tattooed across his cheeks and brow yellow and orange. His iron staff was as tall as he was and crowned with a dragon’s head; when he stamped its butt upon the deck, the dragon’s maw spat crackling green flame.
 -Tyrion 
 
-When he joins Victarion, the crew is incredibly afraid of him, much like the natives of Eygpt who fear the black stone Sphinx from "The Dweller In Darkness". He is not the same man that Tyrion encountered on the Selasori 
+When he joins Victarion, the crew is incredibly afraid of him, much like the natives of Eygpt who fear the black stone Sphinx from "The Dweller In Darkness". He is not the same man that Tyrion encountered on the *Selaesori Qhoran*. When he is fished from the sea and brought to Victarion, he is wearing a faded red garment.
+
+>His skin was black. Not the nut brown of the Summer Islanders on their swan ships, nor the red-brown of the Dothraki horselords, nor the charcoal-and-earth color of the dusky woman’s skin, but black. Blacker than coal, blacker than jet, blacker than a raven’s wing. Burned , Victarion thought, like a man who has been roasted in the flames until his flesh chars and crisps and falls smoking from his bones . The fires that had charred him still danced across his cheeks and forehead, where his eyes peered out from amongst a mask of frozen flames. Slave tattoos, the captain knew. Marks of evil.
+
+Later, in an attempt to make him seem less evil, Victarion has a new robe made for Moroqqo from black cloth. However, this does not help to inspire the ship's crew to trust him:
+
+>Clad in black from head to heel, with a mask of red-and-orange flames tattooed across his face, the priest appeared more sinister than ever.
+>The firelight made his black skin shine like polished onyx, and sometimes Victarion could swear that the flames tattooed on his face were dancing too, twisting and bending, melting into one another, their colors changing with every turn of the priest’s head.
+
+Note that the flame tattoos on his face have change from yellow and orange to red and orange.
 
 ##Euron Greyjoy
 
-Who in the story is the seed of evil, the spreader of chaos and lies, who tricks men into following him to their doom using strange instruments of glass and metal? Who sees himself as both better than humans and the gods, but at the same time is performing the will of the gods using blood rituals?
-
-
-It's Euron. He has returned from his banishment, but he is not fully human anymore, if he ever was. And he is here to torture, to kill, to drive men mad, as we see when he is alone with Aeron in The Winds of Winter sample chapter. Wearing a suit of Valyrian armor, he
-
 >That is not dead which can eternal lie, [And with strange aeons even death may die.][Call]
 
-###Cult Leader of Men
+>"What is dead may never die, but rises again, harder and stronger." 
 
+Who in the story is the seed of evil, the spreader of chaos and lies, who tricks men into following him to their doom using strange instruments of glass and metal? Who sees himself as both better than humans and the gods, but at the same time is performing the will of the gods using blood rituals?
+
+When the Ghost of High Heart sees a man without a face on a bridge, with a crow on his shoulder, she's not describing a Faceless Man. She is talking about the Faceless God.
+
+She is describing Nyarlathotep, who has become Euron. And its through Euron that Nyarlathotep will fulfill his role of harbinger of doom, and awaken the sleeping Outer Gods. While Euron denies his direct involvement in "The Forsaken", Nyarlathotep, in one of his forms, was responsible.
+
+Euron has returned from his banishment, but he is not fully human anymore, if he ever was. His visit to Valyria was his own doom, and he has become an avatar of Nyarlathotep. And he is here to torture, to kill, to drive men mad, as we see when he is alone with Aeron in The Winds of Winter sample chapter. But torturing and killing humans isn't the purpose of Nyarlathotep, nor of Euron: instead, he has come to start the process of awakening the Gods from their slumber to remake the world. 
+
+
+
+###Leader of Men
+
+>"Since the Dawn Age, the ironborn have followed the Drowned God, who plucked fire from the sea, and made us to reave and sack, and carve our names in blood and song."
+―Yara Greyjoy
+
+Though he is a terrible person, Euron inspires legions of followers by demonstrating great powers using strange and wonderful technologies. The dragon horn Dragonbinder, which he claims to have gotten from the ruins of Valyria, are used to establish his claim to the kingship of the Iron Islands. The suit of Valyrian armor he wears in "The Forsaken" serves to increase his stature.
+
+But more than just the powerful instruments and armor that he controls is the ability to forgo any reward for himself when they capture castles and land. He gives out riches and titles like candy. He cares little for the earthly riches that others desire; instead, he 
 
 ###Tormentor of Men
 
 Euron's treatment of Aeron, and of the 4 warlocks of Qarth, are perfect examples of his ability to torture men to madness. He kills one of them, to show that he meant business, and then chained them up and made them eat the dead warlock (and probaly themselves). In "The Forsaken", we see what's left of Pyat Pree: a man without legs, who has clearly been driven mad:  
 
->Last were two warlocks of the east, with flesh as white as mushrooms, and lips the purplish?-blue of a bad bruise, all so gaunt and starved that only skin and bones remained. One had lost his legs. The mutes hung him from a rafter. ?Pree,? he cried as he swung back and forth. ?Pree, Pree!?
+>"Last were two warlocks of the east, with flesh as white as mushrooms, and lips the purplish?-blue of a bad bruise, all so gaunt and starved that only skin and bones remained. One had lost his legs. The mutes hung him from a rafter. ['Pree,' he cried as he swung back and forth. 'Pree, Pree!'"][Forsaken]
+
+Euron's treatment of the 4 warlocks is a perfect example of his ability to inflect madness. He kills one of them, to show that he meant business, and then chained them up and made them eat the dead warlock (and probaly themselves). In "The Forsaken", we see what's left of Pyat Pree: a man without legs, who has clearly been driven mad.  
+
+
+But his ultimate goal is not just to drive men mad and to spread chaos and fear. He is the harbinger of doom, Death, the Lion of Night, here to remake the world again. And he will do this by calling back from the dead the terrible Gods of Terror using blood sacrifices, and the collusion of a famous family in Westeros, which I will cover in part 2 of this essay.
+
 
 ###Messenger of the Gods
 
 >"Who knows more of gods than I? Horse gods and fire gods, gods made of gold with gemstone eyes, gods carved of cedar wood, gods chiseled into mountains, gods of empty air... I know them all. I have seen their peoples garland them with flowers, and shed the blood of goats and bulls and children in their names. And I have heard the prayers, in half a hundred tongues. Cure my withered leg, make the maiden love me, grant me a healthy son. Save me, succor me, make me wealthy... protect me! Protect me from mine enemies, protect me from the darkness, protect me from the crabs inside my belly, from the horselords, from the slavers, from the sellswords at my door. Protect me from the Silence." He laughed. "Godless? Why, Aeron, I am the godliest man ever to raise sail! **You serve one god, Damphair, but I have served ten thousand.** From Ib to Asshai, when men see my sails, they pray."  - George RR Martin, *A Feast For Crows*
 
-Euron makes blood sacrifices to the Storm God ([who I believe to be Hastur][Magnum], according to the whispers of sailors.
+This is a famous quote, which I have always loved. And at first I saw the "served ten thousand gods" line as only relating to the fear he inspires in his victims and tehir pleas for help from their gods. But in the light of the role that he is to play in the story, and the role of Nyarlathotep as the messenger of the gods, it's clear that it has two meanings.
 
-###Torturer of Men
-Euron's treatment of the 4 warlocks is a perfect example of his ability to inflect madness. He kills one of them, to show that he meant business, and then chained them up and made them eat the dead warlock (and probaly themselves). In "The Forsaken", we see what's left of Pyat Pree: a man without legs, who has clearly been driven mad:  
 
->Last were two warlocks of the east, with flesh as white as mushrooms, and lips the purplish?-blue of a bad bruise, all so gaunt and starved that only skin and bones remained. One had lost his legs. The mutes hung him from a rafter. ?Pree,? he cried as he swung back and forth. ?Pree, Pree!?
+Euron makes blood sacrifices to the Storm God ([who I believe to be Hastur][Magnum], according to the whispers of sailors, to receive favorable winds. At the end of The Forsaken, he is preparing to make an even greater sacrifice. This is the first part of his plan to bring back the Gods of Terror.
 
-But his ultimate goal is not just to drive men mad and to spread chaos and fear. He is the harbinger of doom, Death, the Lion of Night, here to remake the world again. And he will do this by calling back from the dead the terrible Gods of Terror.
 
+###Harbinger of Doom
 
 
 
 #My Conclusions:
 
-Nyarlathotep, the Faceless God, he of a thousand terrible forms, has been present throughout the stories in many forms - all representing death and despair. And currently he has taken over two humans and is using them to 
+Nyarlathotep, the Faceless God, he of a thousand terrible forms, has been present throughout the stories in many forms - all representing death and despair. And currently he has taken over two humans and is using them to help bring back the 
 
-When the Ghost of High Heart sees a man without a face on a bridge, with a crow on his shoulder, she's not describing a Faceless Man.
 
-She is describing The Faceless Man, Nyarlathotep, who has become Euron. And its through Euron that Nyarlathotep will fulfill his role of harbinger of doom, and awaken the sleeping Outer Gods. While Euron denies his direct involvement in "The Forsaken", Nyarlathotep, in one of his forms, was responsible.
 
 Euron is no longer the brother of Aeron and Balon. He has been taken over by the Crawling Chaos, the god of a thousand faces, the tall, swarthy pharaoh-like man who brings chaos and wins legions of followers through demonstrations of terrible, magical technology. And it is Euron, who serves the Gods, who will awaken them from their slumber.
 
@@ -337,3 +375,5 @@ Euron is no longer the brother of Aeron and Balon. He has been taken over by the
 [Masks]: http://www.angelfire.com/scary/nyarlathotep/nyarlathotep.htm
 [Azat]: http://lovecraft.wikia.com/wiki/Azathoth "Azathoth"
 [Olds]: http://lovecraft.wikia.com/wiki/Great_Old_One "Great Old Ones"
+[Forsaken]: https://angrygotfan.com/2016/05/29/the-winds-of-winter-the-forsaken/ "Forsaken"
+[Toad]: http://godsofterror.tumblr.com/post/152697216856/tsathoggua-and-the-isle-of-toads "Toad God"
