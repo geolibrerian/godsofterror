@@ -20,11 +20,11 @@ HP Lovecraft wrote 4 stories and one poem where an avatar of Nyarlathotep appear
 
 Though relative to other gods, Nyarlathotep has a large percentage of Lovecraft's writings, as far as direct references we see him appear in 5 different forms: 
 
- + a tall and swarthy man who resembles a Pharaoh, who hails from Egypt and gives presentations of strange and powerful instruments while spreading fear and discord among the populace. (["Nyarlathotep"][Prose])
- + a dreamy, god-like pharoah. (["The Dream Quest of Unknown Kadath"][Kadath])
- + a satyr with skin as black as night. (["The Dreams of the Witch House"][Witch])
+ + a tall and swarthy man, who hails from Egypt and gives presentations of strange and powerful instruments while spreading fear and discord among the populace. (["Nyarlathotep"][Prose])
+ + a dreamy, god-like Pharoah. (["The Dream Quest of Unknown Kadath"][Kadath])
+ + a demon satyr (goat-man) with skin as black as night. (["The Dreams of the Witch House"][Witch])
  + a three-lobed burning eye with wings (["The Haunter of the Dark"][Haunter])
- + 
+ + the idiot Chaos 
 
 
 Quickly adopted by the many other writers who shared the Cthulhu Mythos with Lovecraft (Block, Price, Derleth, Carter, and more), and even other authors who are not known as Mythos writers (such as Stephen King), the role and archetype of Nyarlathotep has been employed to introduce a mocking, malevolant being who takes many forms (or wears many masks, according to some of the Mythos writers) and has many avatars on Earth. 
@@ -128,19 +128,22 @@ This is also a notable story as it both introduces Derleth's major addition to t
 
 This story only barely touches on Nyarlathotep, but includes a lot of information about the Mi-Go, who are an interstellar race of beings who worship Nyarlathotep and who may also be present in A Song of Ice and Fire as the builders of the mysterious greasy black stone buildings and cities such as Asshai.
 
+
 ###Yhoundeh, the Wife of Nyarlathotep
 
 I'm not sure exactly how this fits in yet, but I know that Nyarlathotep has a wife, the horned elk-goddess Yhoundeh. She was worshiped in ancient times in Hyperboria after her priests banned the worship of Tsathoggua. However, the fall of the Hyperborean civilization lead to the abandonment of the religon of Yhoundeh.
 
 She is mainly mentioned in the [The Door to Saturn][Door] by Derleth
 
-Apparently, Yhoundeh had an affair with Darkness, which birthed Shug-Niggurath, the Black Goat of the Woods with a Thousand Young. The Black Goat is worshiped in Qohor, of course, and this means that Yhoundeh could exist in the world of A Song of Ice and Fire. In fact, she is my vote for the 
+Apparently, Yhoundeh had an affair with Darkness, which birthed Shub-Niggurath, the Black Goat of the Woods with a Thousand Young. The Black Goat is worshiped in Qohor, of course, and this means that Yhoundeh could exist in the world of A Song of Ice and Fire. In fact, she is my vote for the Maiden Made of Light
 
 
 
 ##What are the many roles of Nyarlathotep in the Mythos?
 
-###Role as The Messenger of the Gods
+To understand Nyarlathotep, you must understand the roles he plays in the Mythos stories. 
+
+###The Messenger of the Gods
 
 
 >"... the gigantic ultimate gods, the blind, voiceless, tenebrous, mindless Other Gods whose soul and messenger is the crawling chaos Nyarlathotep." - HP Lovecraft, ["The Dream Quest of Unknown Kadath"][Kadath]
@@ -166,9 +169,12 @@ Nyarlathotep spreads not just doom but lies as well, to help spread fear and dis
 
 >"And through this revolting graveyard of the universe the muffled, maddening beating of drums, and thin, monotonous whine of blasphemous flutes from inconceivable, unlighted chambers beyond Time; the detestable pounding and piping whereunto dance slowly, awkwardly, and absurdly the gigantic, tenebrous ultimate gods-the blind, voiceless, mindless gargoyles whose soul is Nyarlathotep." HP Lovecraft, ["Nyarlathotep"][Prose]
 
+
+
+
 #Nyarlathotep in A Song of Ice and Fire
 
-
+If you have been reading my Gods of Terror theory series, you understand that George RR Martin is a huge Cthulhu Mythos fan. I have already identified two major Mythos gods in the pantheon of Gods present in A Song of Ice and Fire, and another is generally seen as the : 
 
 
 ##The Many-Faced God and the representations of Death
@@ -193,20 +199,28 @@ Now, this being an August Derleth story (while it's credited to both him and Lov
 
 ###The Stranger
 
+>The Thing, they whisper, wears a silken mask
+Of yellow, whose queer folds appear to hide
+A face not of this earth, though none dares ask
+Just what those features are, which bulge inside.
+Many, in man’s first youth, sought out that glow,
+But what they found, no one will ever know.
+- HP Lovecraft, ["Fungi From Yuggoth"][Fungi]
+
 The representations of the Stranger - a man with a veiled face - correlate closely to the King in Yellow and the High Priest Not To Be Described.
 
 ###The Black Goat?
 
 The association of the Black Goat with the Many-Faced God at the House of Black and White is a bit confusing, as Shub-Niggurath is seen as female, and the Black Goat is seen as male in the World of Ice and Fire.
 
-However, this confusion is usually resolved by picturing this Black Goat (of a Thousand Young), a Pan-like satyr or half-man/half-goat, as the incarnation of Shub-Niggurath on Earth. This horned Lord of the Woods copulates with worshippers to produce horrible offspring. And he demands blood sacrifices from beasts and man alike.
+However, this confusion is usually resolved by picturing this Black Goat (of a Thousand Young), a Pan-like satyr or half-man/half-goat, as the incarnation of [Shub-Niggurath][Goat] on Earth. This horned 'Lord of the Woods' copulates with worshippers to produce horrible offspring. And he demands blood sacrifices from beasts and man alike. It is very possible that the Black Man of the Witch Cult avatar of Nyarlathotep, who appears as a pitch-black satyr in "The Dreams of the Witch House", might be the same being as the Black Goat. If so, that would mean that Shub-Niggurath sends Nyarlathotep to Earth to interact with her followers and to father her "thousand young".
 
-The Black Goat, then, may not be one of Nyarlathotep's forms, but he is definitely a god of Death and is one of the avatars of an Outer God.
 
+The Black Goat, then, may not be one of Nyarlathotep's forms, but she/he is definitely a god of Death and is one of the avatars of an Outer God. 
 
 ###Lion of Night
 
-Because the Many-Faced God is directly associated with the Lion of Night, and Nyarlathotep is associated with the Many-Faced God, then Nyarlathotep may be directly associated with the coming of the Long Night as described in The World of Ice and Fire.
+Because the Many-Faced God is directly associated with the Lion of Night, and Nyarlathotep is associated with the Many-Faced God, then Nyarlathotep may be directly associated with the coming of the Long Night as described in The World of Ice and Fire. 
 
 
 ###The Bloodstone Emperor?
@@ -241,10 +255,16 @@ When he joins Victarion, the crew is incredibly afraid of him, much like the nat
 
 Who in the story is the seed of evil, the spreader of chaos and lies, who tricks men into following him to their doom using strange instruments of glass and metal? Who sees himself as both better than humans and the gods, but at the same time  is performing the will of the gods using blood rituals?
 
+###Strange man of power and 
 It's Euron. He has returned from his banishment, but he is not fully human anymore, if he ever was. And he is here to torture, to kill, to drive men mad, as we see when he is alone with Aeron in The Winds of Winter sample chapter. Wearing a suit of Valyrian armor, he
 
 >That is not dead which can eternal lie, [And with strange aeons even death may die.][Call]
 
+###Tormentor of Men
+
+Euron's treatment of Aeron, and of the 4 warlocks of Qarth, are perfect examples of his ability to torture men to madness. He kills one of them, to show that he meant business, and then chained them up and made them eat the dead warlock (and probaly themselves). In "The Forsaken", we see what's left of Pyat Pree: a man without legs, who has clearly been driven mad:  
+
+>Last were two warlocks of the east, with flesh as white as mushrooms, and lips the purplish?-blue of a bad bruise, all so gaunt and starved that only skin and bones remained. One had lost his legs. The mutes hung him from a rafter. ?Pree,? he cried as he swung back and forth. ?Pree, Pree!?
 
 ###Messenger of the Gods
 
