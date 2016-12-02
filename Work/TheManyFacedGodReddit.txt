@@ -1,9 +1,12 @@
-﻿In researching the [Lovecraft (Cthulhu) Mythos][Mythos] for the inspirations of the terrible [Gods of Terros][Terror], one name keeps popping up as a central agent of chaos, who appears on Earth to perform the bidding of the [Outer Gods][Old]:  the Outer God know as [Nyarlathotep][Nyar].
+*This is a [Gods of Terror theory post][Terror], which correlates between the gods of A Song of Ice and Fire and their inspiration in the Cthulhu Mythos. It's quite long, as it's important to cover this relationship in detail, because the gods of Terros play a huge role in the end game of the books. I hope you enjoy it!* 
+
+
+
 
 [Nyarlathotep](http://godsofterror.tumblr.com/image/152886840486). The Crawling Chaos, the Faceless God, the Sphinx, the Haunter of the Dark. Who is this mysterious Outer God? Why is he central to the plans of the Outer Gods, whom he openly mocks? Why does he enjoy spreading fear, chaos and terror in the hearts of humans?
 
 
-In this essay I will argue that the Many-Faced God of the House of Black and White of Braavos is none other than Nyarlathotep. To further the whim of the Outer Gods, a group of powerful cosmic beings that have mostly been banished from Earth, the Faceless God Nyarlathotep roams the world in many forms. His evil aims will become central to the main story of A Song of Ice and Fire in *The Winds of Winter*, as his one of his avatars mocks both the Gods and humans and bespeaks the end of the world by hastening the return of the [Outer Gods][Ones] and the [Great Old Ones][Olds] (the [two main groups of gods in the Cthulhu Mythos](http://godsofterror.tumblr.com/image/153781724986) - note that the distinction did not originate with Lovecraft but with his successor August Derleth).
+In this essay I will argue that the Many-Faced God of the House of Black and White of Braavos is none other than Nyarlathotep. To further the whim of the Outer Gods, a group of powerful cosmic beings that have mostly been banished from Earth, the Faceless God Nyarlathotep roams the world in many forms. His evil aims will become central to the main story of A Song of Ice and Fire in *The Winds of Winter*, as his one of his avatars mocks both the Gods and humans and bespeaks the end of the world by hastening the return of the [Outer Gods][Ones] and the [Great Old Ones][Olds].
 
 I will follow this up in the next few days with a second part, which will contain my speculation on what this means for the story. For now, let's review the roles and forms of Nyarlathotep and correlate them with both gods and humans in A Song of Ice and Fire.
 
@@ -16,20 +19,14 @@ Developed by HP Lovecraft in 1920, Nyarlathotep is first described as man of str
 
 HP Lovecraft wrote 4 stories and one poem where an avatar of Nyarlathotep appears directly: ["Nyarlathotep"][Prose],  ["The Dream Quest of Unknown Kadath"][Kadath], ["The Dreams of the Witch House"][Witch], ["The Haunter of the Dark"][Haunter] and the poem ["Fungi from Yuggoth"][Fungi], where he appears in 2 stanzas. 
 
-Though relative to other gods, Nyarlathotep has a large percentage of Lovecraft's writings, as far as direct references we see him appear in 5 different forms: 
 
- + a tall and swarthy man, who hails from Egypt and gives presentations of strange and powerful instruments while spreading fear and discord among the populace. (["Nyarlathotep"][Prose])
- + a dreamy, god-like Pharaoh. (["The Dream Quest of Unknown Kadath"][Kadath])
- + a demon satyr (goat-man) with skin as black as night. (["The Dreams of the Witch House"][Witch])
- + a three-lobed burning eye with wings (["The Haunter of the Dark"][Haunter])
- + the idiot Chaos, who takes the author on a tour of the universe, and through his actions, destroys Earth (["Fungi From Yuggoth"][Fungi]) 
 
 
 Quickly adopted by the many other writers who shared the Cthulhu Mythos with Lovecraft (Block, Price, Derleth, Carter, and more), and even other authors who are not known as Mythos writers (such as Stephen King), the role and archetype of Nyarlathotep has been employed to introduce a mocking, malevolent being who takes many forms (or wears many masks, according to some of the Mythos writers) and has many avatars on Earth. 
 
 *It's worth noting that there is a famous RPG called Masks of Nyarlathotep that also helped spread his fame and infamy. After Cthulhu, Nyarlathotep is the most referenced of Lovecraft's creations.*
 
-Let's explore the appearances of Nyarlathotep in some of these stories, and how this will affect the endgame of A Song of Ice and Fire, as well as the numerous avatars of Nyarlathotep present in A Song of Ice and Fire. First, however, to gain understanding of the archetype, let's review the role of Nyarlathotep from another, familiar story: Stephen King's *The Stand*.
+To gain understanding of the archetype, let's review the role of Nyarlathotep from another, familiar story: Stephen King's *The Stand*.
 
 ##Randall Flagg (Stephen King)
 
@@ -335,7 +332,7 @@ But his ultimate goal is not just to drive men mad and to spread chaos and fear.
 
 ###Messenger of the Gods
 
->"Who knows more of gods than I? Horse gods and fire gods, gods made of gold with gemstone eyes, gods carved of cedar wood, gods chiseled into mountains, gods of empty air... I know them all. I have seen their peoples garland them with flowers, and shed the blood of goats and bulls and children in their names. And I have heard the prayers, in half a hundred tongues. Cure my withered leg, make the maiden love me, grant me a healthy son. Save me, succor me, make me wealthy... protect me! Protect me from mine enemies, protect me from the darkness, protect me from the crabs inside my belly, from the horselords, from the slavers, from the sellswords at my door. Protect me from the Silence." He laughed. "Godless? Why, Aeron, I am the godliest man ever to raise sail! **You serve one god, Damphair, but I have served ten thousand.** From Ib to Asshai, when men see my sails, they pray."  - George RR Martin, *A Feast For Crows*
+>"Godless? Why, Aeron, I am the godliest man ever to raise sail! **You serve one god, Damphair, but I have served ten thousand.** From Ib to Asshai, when men see my sails, they pray."  - George RR Martin, *A Feast For Crows*
 
 This is a famous quote, which I have always loved. And at first I saw the "served ten thousand gods" line as only relating to the fear he inspires in his victims and their pleas for help from their gods. But in the light of the role that he is to play in the story, and the role of Nyarlathotep as the messenger of the gods, it's clear that it has two meanings.
 
@@ -353,15 +350,10 @@ Nyarlathotep, the Faceless God, he of a thousand terrible forms, has been presen
 
 Euron is no longer the brother of Aeron and Balon. He has been taken over by the Crawling Chaos, the god of a thousand faces, the tall, swarthy pharaoh-like man who brings chaos and wins legions of followers through demonstrations of terrible, magical technology. And it is Euron, who serves the Gods, who will awaken them from their slumber.
 
-Moroqqo, after he was washed into the sea and taken on board the Iron Fleet, is no longer human (if he ever was), but has instead become one with Nyarlathotep. His power and visions are derived from his new association with the god of death.
+Moroqqo, after he was washed into the sea and taken on board the Iron Fleet, is no longer human (if he ever was), but has instead become one with Nyarlathotep. His power and visions are derived from his new 
 
 
 Nyarlathotep is directly associated with masks, and has himself many faces and forms. While they call him the Many-Faced God, the Faceless Men serve Nyarlathotep, the Faceless God, and are working to hasten the return of the gods and the end of the world. All men must serve, they say.... and all men must die. 
-
-The Long Night was started by the Bloodstone Emperor, who worshiped the Shining Trapezohedron, and used it to call the Haunter of the Dark (Nyarlathotep), or the Lion of Night as the Yi Tish call him. This direct link between the horror of the Long Night, and the Church of Starry Wisdom, which was founded by the Bloodstone Emperor, spells ill omens for the future of the story. 
-
-
-The main question out of all of this is: Why? Why does Nyarlathotep have to use Euron and Moroqqo? Why do the Outer Gods and the Great Old Ones need to be present in A Song of Ice and Fire? I will answer that, and more, in part 2 of this essay.
 
 
 
